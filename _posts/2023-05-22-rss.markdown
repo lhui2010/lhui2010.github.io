@@ -2,229 +2,267 @@
 ### Science
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Moving beyond “Why Mars?”](https://www.science.org/doi/abs/10.1126/science.adh7737?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Moving beyond “Why Mars?”](https://www.science.org/doi/abs/10.1126/science.adh7737?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Voyage of the botanists](https://www.science.org/doi/abs/10.1126/science.adf8933?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Voyage of the botanists](https://www.science.org/doi/abs/10.1126/science.adf8933?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Discovery of target genes and pathways at GWAS loci by pooled single-cell CRISPR screens](https://www.science.org/doi/abs/10.1126/science.adh7699?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Discovery of target genes and pathways at GWAS loci by pooled single-cell CRISPR screens](https://www.science.org/doi/abs/10.1126/science.adh7699?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Femtosecond symmetry breaking and coherent relaxation of methane cations via x-ray spectroscopy](https://www.science.org/doi/abs/10.1126/science.adg4421?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Femtosecond symmetry breaking and coherent relaxation of methane cations via x-ray spectroscopy](https://www.science.org/doi/abs/10.1126/science.adg4421?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][High-performance multimode elastocaloric cooling system](https://www.science.org/doi/abs/10.1126/science.adg7043?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][High-performance multimode elastocaloric cooling system](https://www.science.org/doi/abs/10.1126/science.adg7043?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Disentangling the activity-selectivity trade-off in catalytic conversion of syngas to light olefins](https://www.science.org/doi/abs/10.1126/science.adg2491?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Disentangling the activity-selectivity trade-off in catalytic conversion of syngas to light olefins](https://www.science.org/doi/abs/10.1126/science.adg2491?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Restoration of natural thermal sensation in upper-limb amputees](https://www.science.org/doi/abs/10.1126/science.adf6121?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Restoration of natural thermal sensation in upper-limb amputees](https://www.science.org/doi/abs/10.1126/science.adf6121?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Neuromorphic sensorimotor loop embodied by monolithically integrated, low-voltage, soft e-skin](https://www.science.org/doi/abs/10.1126/science.ade0086?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Neuromorphic sensorimotor loop embodied by monolithically integrated, low-voltage, soft e-skin](https://www.science.org/doi/abs/10.1126/science.ade0086?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Releasing global forests from human management: How much more carbon could be stored?](https://www.science.org/doi/abs/10.1126/science.add5878?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Releasing global forests from human management: How much more carbon could be stored?](https://www.science.org/doi/abs/10.1126/science.add5878?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Fear of large carnivores amplifies human-caused mortality for mesopredators](https://www.science.org/doi/abs/10.1126/science.adf2472?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Fear of large carnivores amplifies human-caused mortality for mesopredators](https://www.science.org/doi/abs/10.1126/science.adf2472?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Interplay between calcium and sarcomeres directs cardiomyocyte maturation during regeneration](https://www.science.org/doi/abs/10.1126/science.abo6718?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Interplay between calcium and sarcomeres directs cardiomyocyte maturation during regeneration](https://www.science.org/doi/abs/10.1126/science.abo6718?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Generality-oriented optimization of enantioselective aminoxyl radical catalysis](https://www.science.org/doi/abs/10.1126/science.adf6177?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Generality-oriented optimization of enantioselective aminoxyl radical catalysis](https://www.science.org/doi/abs/10.1126/science.adf6177?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Entangling microwaves with light](https://www.science.org/doi/abs/10.1126/science.adg3812?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Entangling microwaves with light](https://www.science.org/doi/abs/10.1126/science.adg3812?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Satellites reveal widespread decline in global lake water storage](https://www.science.org/doi/abs/10.1126/science.abo2812?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Satellites reveal widespread decline in global lake water storage](https://www.science.org/doi/abs/10.1126/science.abo2812?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Science and the legal rights of nature](https://www.science.org/doi/abs/10.1126/science.adf4155?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Science and the legal rights of nature](https://www.science.org/doi/abs/10.1126/science.adf4155?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][The power of outreach](https://www.science.org/doi/abs/10.1126/science.adi7066?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][The power of outreach](https://www.science.org/doi/abs/10.1126/science.adi7066?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][In Other Journals](https://www.science.org/doi/abs/10.1126/science.adi7430?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][In Other Journals](https://www.science.org/doi/abs/10.1126/science.adi7430?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Global loss of lake water storage](https://www.science.org/doi/abs/10.1126/science.adi0992?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Global loss of lake water storage](https://www.science.org/doi/abs/10.1126/science.adi0992?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][The disappearing boundary between organism and machine](https://www.science.org/doi/abs/10.1126/science.adf0262?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][The disappearing boundary between organism and machine](https://www.science.org/doi/abs/10.1126/science.adf0262?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Technical comment on “Fairness considerations in global mitigation investments”](https://www.science.org/doi/abs/10.1126/science.adg5893?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Technical comment on “Fairness considerations in global mitigation investments”](https://www.science.org/doi/abs/10.1126/science.adg5893?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][When the enemy of an enemy is no friend](https://www.science.org/doi/abs/10.1126/science.adh9166?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][When the enemy of an enemy is no friend](https://www.science.org/doi/abs/10.1126/science.adh9166?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][The ancient history of kissing](https://www.science.org/doi/abs/10.1126/science.adf0512?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][The ancient history of kissing](https://www.science.org/doi/abs/10.1126/science.adf0512?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Embracing questions after my father’s murder](https://www.science.org/doi/abs/10.1126/science.adh5157?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Embracing questions after my father’s murder](https://www.science.org/doi/abs/10.1126/science.adh5157?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Renewable energy in China’s abandoned mines](https://www.science.org/doi/abs/10.1126/science.adi1496?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Renewable energy in China’s abandoned mines](https://www.science.org/doi/abs/10.1126/science.adi1496?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Venezuela’s harmful mining activities grow](https://www.science.org/doi/abs/10.1126/science.adh4314?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Venezuela’s harmful mining activities grow](https://www.science.org/doi/abs/10.1126/science.adh4314?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Response to comment on “Fairness considerations in global mitigation investments”](https://www.science.org/doi/abs/10.1126/science.adh1463?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Response to comment on “Fairness considerations in global mitigation investments”](https://www.science.org/doi/abs/10.1126/science.adh1463?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Solvent exposure strongly linked to Parkinson’s](https://www.science.org/doi/abs/10.1126/science.adi7660?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Solvent exposure strongly linked to Parkinson’s](https://www.science.org/doi/abs/10.1126/science.adi7660?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Damage sidelines Virgo gravitational wave detector](https://www.science.org/doi/abs/10.1126/science.adi7659?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Damage sidelines Virgo gravitational wave detector](https://www.science.org/doi/abs/10.1126/science.adi7659?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Authorship listing for a harasser roils astronomy](https://www.science.org/doi/abs/10.1126/science.adi7658?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Authorship listing for a harasser roils astronomy](https://www.science.org/doi/abs/10.1126/science.adi7658?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][New partners reinvigorate a once-touted cancer treatment](https://www.science.org/doi/abs/10.1126/science.adi7657?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][New partners reinvigorate a once-touted cancer treatment](https://www.science.org/doi/abs/10.1126/science.adi7657?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Australia’s rock art threatened by development](https://www.science.org/doi/abs/10.1126/science.adi7655?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Australia’s rock art threatened by development](https://www.science.org/doi/abs/10.1126/science.adi7655?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Benchtop DNA synthesis raises alarms](https://www.science.org/doi/abs/10.1126/science.adi7654?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Benchtop DNA synthesis raises alarms](https://www.science.org/doi/abs/10.1126/science.adi7654?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Human genomic ‘bycatch’ threatens privacy](https://www.science.org/doi/abs/10.1126/science.adi7653?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Human genomic ‘bycatch’ threatens privacy](https://www.science.org/doi/abs/10.1126/science.adi7653?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][News at a glance](https://www.science.org/doi/abs/10.1126/science.adi7652?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][News at a glance](https://www.science.org/doi/abs/10.1126/science.adi7652?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Unmixed blessing](https://www.science.org/doi/abs/10.1126/science.adi7427?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Unmixed blessing](https://www.science.org/doi/abs/10.1126/science.adi7427?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Don’t let the Court disrupt science](https://www.science.org/doi/abs/10.1126/science.adi7054?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Don’t let the Court disrupt science](https://www.science.org/doi/abs/10.1126/science.adi7054?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][Braiding Indigenous rights and endangered species law](https://www.science.org/doi/abs/10.1126/science.adg9830?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][Braiding Indigenous rights and endangered species law](https://www.science.org/doi/abs/10.1126/science.adg9830?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/loi/science?af=R)\][In Science Journals](https://www.science.org/doi/abs/10.1126/science.adi7431?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/loi/science?af=R)\][In Science Journals](https://www.science.org/doi/abs/10.1126/science.adi7431?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
@@ -233,25 +271,1246 @@
 ### Science
 
 
-\[[Science](https://www.science.org/?af=R)\][Constraints on the Hubble constant from Supernova Refsdal’s reappearance](https://www.science.org/doi/abs/10.1126/science.abh1322?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/?af=R)\][Constraints on the Hubble constant from Supernova Refsdal’s reappearance](https://www.science.org/doi/abs/10.1126/science.abh1322?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/?af=R)\][Correlated insulator of excitons in WSe2/WS2 moiré superlattices](https://www.science.org/doi/abs/10.1126/science.add5574?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/?af=R)\][Correlated insulator of excitons in WSe2/WS2 moiré superlattices](https://www.science.org/doi/abs/10.1126/science.add5574?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/?af=R)\][Persistent effect of El Niño on global economic growth](https://www.science.org/doi/abs/10.1126/science.adf2983?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/?af=R)\][Persistent effect of El Niño on global economic growth](https://www.science.org/doi/abs/10.1126/science.adf2983?af=R).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
 
 
-\[[Science](https://www.science.org/?af=R)\][Synthesis and isolation of a triplet bismuthinidene with a quenched magnetic response](https://www.science.org/doi/abs/10.1126/science.adg2833?af=R).   20230501 <details open>
+\[[Science](https://www.science.org/?af=R)\][Synthesis and isolation of a triplet bismuthinidene with a quenched magnetic response](https://www.science.org/doi/abs/10.1126/science.adg2833?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+### Nature
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Ranching sea cucumbers to repair the oceans — and improve human health](https://www.nature.com/articles/d41586-023-01711-9).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Do scientific meetings matter? Turning up for talks brings surprise benefits](https://www.nature.com/articles/d41586-023-01604-x).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][How mixing academia and industry opens doors in graduate school and beyond](https://www.nature.com/articles/d41586-023-01710-w).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Is the biggest challenge to scientific thinking science itself?](https://www.nature.com/articles/d41586-023-01709-3).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][World’s first house made with nappy-blended concrete](https://www.nature.com/articles/d41586-023-01701-x).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][How can mosquitoes find you? All you have to do is exhale](https://www.nature.com/articles/d41586-023-01654-1).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][When will global warming actually hit the landmark 1.5 ºC limit?](https://www.nature.com/articles/d41586-023-01702-w).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Thousands protest Mexico’s new science law](https://www.nature.com/articles/d41586-023-01665-y).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][China overtakes United States on contribution to research in Nature Index](https://www.nature.com/articles/d41586-023-01705-7).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Why AI’s diversity crisis matters, and how to tackle it](https://www.nature.com/articles/d41586-023-01689-4).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][The gentleman cat’s guide to training human kittens](https://www.nature.com/articles/d41586-023-01685-8).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Dodging snipers, fleeing war: displaced researchers share their stories](https://www.nature.com/articles/d41586-023-01398-y).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][China’s mysterious spaceplane returns to Earth — what we know](https://www.nature.com/articles/d41586-023-01639-0).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][What Thailand’s election of a radical new government means for science](https://www.nature.com/articles/d41586-023-01637-2).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Soft ‘electronic skin’ mimics our sense of touch](https://www.nature.com/articles/d41586-023-01684-9).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][JWST spots biggest water plume yet spewing from a moon of Saturn](https://www.nature.com/articles/d41586-023-01666-x).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Human-evolution story rewritten by fresh data and more computing power](https://www.nature.com/articles/d41586-023-01664-z).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Inhibiting membrane rupture with NINJ1 antibodies limits tissue injury](https://www.nature.com/articles/s41586-023-06191-5).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Publisher Correction: The NK cell receptor NKp46 recognizes ecto-calreticulin on ER-stressed cells](https://www.nature.com/articles/s41586-023-06151-z).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][EMC chaperone-Ca<sub>V</sub> structure reveals an ion channel assembly intermediate](https://www.nature.com/articles/s41586-023-06175-5).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Vaunted treaty to protect the ozone layer has a hole](https://www.nature.com/articles/d41586-023-01592-y).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][COVID vaccines falter in people with severe obesity](https://www.nature.com/articles/d41586-023-01590-0).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Found in the trash: these floating snails hang out in the ocean’s garbage patch](https://www.nature.com/articles/d41586-023-01645-2).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Oldest known ‘blueprints’ aided human hunters 9,000 years ago](https://www.nature.com/articles/d41586-023-01593-x).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][JWST shows an ancient galaxy in stunning spectroscopic detail](https://www.nature.com/articles/d41586-023-01657-y).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Smash-ups make a tame blob of turbulence](https://www.nature.com/articles/d41586-023-01589-7).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Microbial peptides activate tumour-infiltrating lymphocytes in glioblastoma](https://www.nature.com/articles/s41586-023-06081-w).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Temperature inhomogeneities cause the abundance discrepancy in H <span class="small-caps u-small-caps">ii</span> regions](https://www.nature.com/articles/s41586-023-05956-2).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Structural basis of NINJ1-mediated plasma membrane rupture in cell death](https://www.nature.com/articles/s41586-023-05991-z).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][A radio-detected type Ia supernova with helium-rich circumstellar material](https://www.nature.com/articles/s41586-023-05916-w).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Limits on the luminance of dark matter from xenon recoil data](https://www.nature.com/articles/s41586-023-05982-0).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Religion and educational mobility in Africa](https://www.nature.com/articles/s41586-023-06051-2).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][The nature of an ultra-faint galaxy in the cosmic dark ages seen with JWST](https://www.nature.com/articles/s41586-023-05994-w).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][CO<sub>2</sub>-mediated organocatalytic chlorine evolution under industrial conditions](https://www.nature.com/articles/s41586-023-05886-z).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][The evolution of fast-growing coral reef fishes](https://www.nature.com/articles/s41586-023-06070-z).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Lysine catabolism reprograms tumour immunity through histone crotonylation](https://www.nature.com/articles/s41586-023-06061-0).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Uridine-derived ribose fuels glucose-restricted pancreatic cancer](https://www.nature.com/articles/s41586-023-06073-w).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][RNA conformational propensities determine cellular activity](https://www.nature.com/articles/s41586-023-06080-x).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Atmospheric molecular blobs shape up circumstellar envelopes of AGB stars](https://www.nature.com/articles/s41586-023-05917-9).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Ancient gene linkages support ctenophores as sister to other animals](https://www.nature.com/articles/s41586-023-05936-6).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][ERα-associated translocations underlie oncogene amplifications in breast cancer](https://www.nature.com/articles/s41586-023-06057-w).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][A highly magnetized environment in a pulsar binary system](https://www.nature.com/articles/s41586-023-05983-z).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Observation of hydrodynamization and local prethermalization in 1D Bose gases](https://www.nature.com/articles/s41586-023-05979-9).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][A temperate Earth-sized planet with tidal heating transiting an M6 star](https://www.nature.com/articles/s41586-023-05934-8).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][A weakly structured stem for human origins in Africa](https://www.nature.com/articles/s41586-023-06055-y).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Photochromism from wavelength-selective colloidal phase segregation](https://www.nature.com/articles/s41586-023-05873-4).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Polygenic scoring accuracy varies across the genetic ancestry continuum](https://www.nature.com/articles/s41586-023-06079-4).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][GWAS and meta-analysis identifies 49 genetic variants underlying critical COVID-19](https://www.nature.com/articles/s41586-023-06034-3).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Cycles of satellite and transposon evolution in <i>Arabidopsis</i> centromeres](https://www.nature.com/articles/s41586-023-06062-z).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Mapping internal temperatures during high-rate battery applications](https://www.nature.com/articles/s41586-023-05913-z).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Promoting active site renewal in heterogeneous olefin metathesis catalysts](https://www.nature.com/articles/s41586-023-05897-w).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Ink that mimics the colour of incoming light](https://www.nature.com/articles/d41586-023-01582-0).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][The world’s top chemical-weapons detectives just opened a brand-new lab](https://www.nature.com/articles/d41586-023-01622-9).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Create an IPCC-like body to harness benefits and combat harms of digital tech](https://www.nature.com/articles/d41586-023-01606-9).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Changes in education levels across generations in Africa are linked to religion](https://www.nature.com/articles/d41586-023-01008-x).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Chromosomal comparisons reveal comb jellies as the sister group to all other animals](https://www.nature.com/articles/d41586-023-00807-6).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Daily briefing: CRISPR points to an antidote for death cap mushrooms](https://www.nature.com/articles/d41586-023-01668-9).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Organic catalyst opens way to energy-efficient chlorine production](https://www.nature.com/articles/d41586-023-01583-z).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][The Nana inheritance](https://www.nature.com/articles/d41586-023-01409-y).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][The role of NINJ1 protein in programmed cellular destruction](https://www.nature.com/articles/d41586-023-01602-z).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Can giant surveys of scientists fight misinformation on COVID, climate change and more?](https://www.nature.com/articles/d41586-023-01614-9).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][A continuous measure for understanding the accuracy of genetically based predictions](https://www.nature.com/articles/d41586-023-01492-1).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][For chemists, the AI revolution has yet to happen](https://www.nature.com/articles/d41586-023-01612-x).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][A step closer to making the mother of stem cells](https://www.nature.com/articles/d41586-022-01932-4).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Why is COVID life-threatening for some people? Genetics study offers clues](https://www.nature.com/articles/d41586-023-01655-0).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][This gigantic toothy reptile terrorized the Jurassic oceans](https://www.nature.com/articles/d41586-023-01594-w).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Climate activists — rethink fossil-fuel subsidy cuts](https://www.nature.com/articles/d41586-023-01620-x).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Marine heatwaves: definition duel heats up](https://www.nature.com/articles/d41586-023-01619-4).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Chronic pain: try new routes to more tailored treatments](https://www.nature.com/articles/d41586-023-01621-w).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][From the archive: a history of climate, and the scent of sitting pheasants](https://www.nature.com/articles/d41586-023-01584-y).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][‘Smart’ sutures: old-fashioned gut thread gets a makeover](https://www.nature.com/articles/d41586-023-01591-z).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Daily briefing: What comes after the International Space Station dies?](https://www.nature.com/articles/d41586-023-01653-2).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Audit AI search tools now, before they skew research](https://www.nature.com/articles/d41586-023-01613-w).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Four challenges facing Biden’s nominee for NIH director](https://www.nature.com/articles/d41586-023-01651-4).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Nature](http://feeds.nature.com/nature/rss/current)\][Research assessment exercises are necessary — but we need to learn to do them better](https://www.nature.com/articles/d41586-023-01611-y).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+### Cell
+
+
+\[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][C5a-licensed phagocytes drive sterilizing immunity during systemic fungal infection](https://www.cell.com/cell/fulltext/S0092-8674(23)00465-8?rss=yes).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Time-aligned hourglass gastrulation models in rabbit and mouse](https://www.cell.com/cell/fulltext/S0092-8674(23)00471-3?rss=yes).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Site-specific R-loops induce CGG repeat contraction and fragile X gene reactivation](https://www.cell.com/cell/fulltext/S0092-8674(23)00469-5?rss=yes).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][RNA polymerase drives ribonucleotide excision DNA repair in E. coli](https://www.cell.com/cell/fulltext/S0092-8674(23)00458-0?rss=yes).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][A phospho-switch constrains BTL2-mediated phytocytokine signaling in plant immunity](https://www.cell.com/cell/fulltext/S0092-8674(23)00423-3?rss=yes).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Systematic identification of anticancer drug targets reveals a nucleus-to-mitochondria ROS-sensing pathway](https://www.cell.com/cell/fulltext/S0092-8674(23)00422-1?rss=yes).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Dissecting the functional organization of the C. elegans serotonergic system at whole-brain scale](https://www.cell.com/cell/fulltext/S0092-8674(23)00419-1?rss=yes).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Two-photon synthetic aperture microscopy for minimally invasive fast 3D imaging of native subcellular behaviors in deep tissue](https://www.cell.com/cell/fulltext/S0092-8674(23)00412-9?rss=yes).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Sites of transcription initiation drive mRNA isoform selection](https://www.cell.com/cell/fulltext/S0092-8674(23)00408-7?rss=yes).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Mechanisms of skin vascular maturation and maintenance captured by longitudinal imaging of live mice](https://www.cell.com/cell/fulltext/S0092-8674(23)00413-0?rss=yes).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Bacterial NLR-related proteins protect against phage](https://www.cell.com/cell/fulltext/S0092-8674(23)00411-7?rss=yes).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Phylogenomic discovery of deleterious mutations facilitates hybrid potato breeding](https://www.cell.com/cell/fulltext/S0092-8674(23)00405-1?rss=yes).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Massively parallel base editing to map variant effects in human hematopoiesis](https://www.cell.com/cell/fulltext/S0092-8674(23)00332-X?rss=yes).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][ESCRT recruitment to SARS-CoV-2 spike induces virus-like particles that improve mRNA vaccines](https://www.cell.com/cell/fulltext/S0092-8674(23)00420-8?rss=yes).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][The T-cell-directed vaccine BNT162b4 encoding conserved non-spike antigens protects animals from severe SARS-CoV-2 infection](https://www.cell.com/cell/fulltext/S0092-8674(23)00403-8?rss=yes).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+### NatBiotechnol
+
+
+\[[NatBiotechnol](http://feeds.nature.com/nbt/rss/current)\][How the Monty Hall problem is similar to the false discovery rate in high-throughput data analysis](https://www.nature.com/articles/s41587-023-01794-9).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatBiotechnol](http://feeds.nature.com/nbt/rss/current)\][Subtle cell states resolved in single-cell data](https://www.nature.com/articles/s41587-023-01797-6).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatBiotechnol](http://feeds.nature.com/nbt/rss/current)\][Selection by essential-gene exon knock-in for the generation of efficient cell therapies](https://www.nature.com/articles/s41587-023-01819-3).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatBiotechnol](http://feeds.nature.com/nbt/rss/current)\][Drugging RNA](https://www.nature.com/articles/s41587-023-01790-z).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatBiotechnol](http://feeds.nature.com/nbt/rss/current)\][Forum: Alexandrov and Le](https://www.nature.com/articles/s41587-023-01806-8).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatBiotechnol](http://feeds.nature.com/nbt/rss/current)\][Bespoke protein delivery via bacterial injection systems](https://www.nature.com/articles/s41587-023-01809-5).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatBiotechnol](http://feeds.nature.com/nbt/rss/current)\][Transposon–gene chimeras move up as cancer epitopes](https://www.nature.com/articles/s41587-023-01811-x).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatBiotechnol](http://feeds.nature.com/nbt/rss/current)\][Elizabeth Holmes prison delayed](https://www.nature.com/articles/s41587-023-01802-y).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+### NatPlants
+
+
+\[[NatPlants](http://feeds.nature.com/nplants/rss/current)\][A cold and a hot clock](https://www.nature.com/articles/s41477-023-01424-x).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatPlants](http://feeds.nature.com/nplants/rss/current)\][Spatiotemporal transcriptional regulation of triterpene biosynthesis in the root tip](https://www.nature.com/articles/s41477-023-01422-z).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatPlants](http://feeds.nature.com/nplants/rss/current)\][Breaking transformation barriers](https://www.nature.com/articles/s41477-023-01420-1).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatPlants](http://feeds.nature.com/nplants/rss/current)\][New Green Revolution genes](https://www.nature.com/articles/s41477-023-01426-9).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatPlants](http://feeds.nature.com/nplants/rss/current)\][Pavement cells distinguish touch from letting go](https://www.nature.com/articles/s41477-023-01418-9).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatPlants](http://feeds.nature.com/nplants/rss/current)\][A redundant transcription factor network steers spatiotemporal <i>Arabidopsis</i> triterpene synthesis](https://www.nature.com/articles/s41477-023-01419-8).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatPlants](http://feeds.nature.com/nplants/rss/current)\][Structure and sucrose binding mechanism of the plant SUC1 sucrose transporter](https://www.nature.com/articles/s41477-023-01421-0).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatPlants](http://feeds.nature.com/nplants/rss/current)\][Wearable monitoring](https://www.nature.com/articles/s41477-023-01425-w).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+### NatGenet
+
+
+\[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Including multiracial individuals is crucial for race, ethnicity and ancestry frameworks in genetics and genomics](https://www.nature.com/articles/s41588-023-01394-y).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Shared genetics of substance use disorders](https://www.nature.com/articles/s41588-023-01405-y).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Linking TCL1A to clonal expansions in blood](https://www.nature.com/articles/s41588-023-01406-x).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Quantifying tRNA abundance by sequencing](https://www.nature.com/articles/s41588-023-01404-z).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Transcription factor affinities in native chromatin](https://www.nature.com/articles/s41588-023-01407-w).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Code deposition is unskippable](https://www.nature.com/articles/s41588-023-01411-0).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatGenet](http://feeds.nature.com/ng/rss/current)\][CARMA is a new Bayesian model for fine-mapping in genome-wide association meta-analyses](https://www.nature.com/articles/s41588-023-01392-0).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Mobile element variation contributes to population-specific genome diversification, gene regulation and disease risk](https://www.nature.com/articles/s41588-023-01390-2).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+### NatCommun
+
+
+### NatEcolEvol
+
+
+\[[NatEcolEvol](http://feeds.nature.com/natecolevol/rss/current)\][Symbioses shape feeding niches and diversification across insects](https://www.nature.com/articles/s41559-023-02058-0).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatEcolEvol](http://feeds.nature.com/natecolevol/rss/current)\][Abrupt expansion of climate change risks for species globally](https://www.nature.com/articles/s41559-023-02070-4).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatEcolEvol](http://feeds.nature.com/natecolevol/rss/current)\][Convergence of dominance and neglect in flying insect diversity](https://www.nature.com/articles/s41559-023-02066-0).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatEcolEvol](http://feeds.nature.com/natecolevol/rss/current)\][One species, many roots?](https://www.nature.com/articles/s41559-023-02080-2).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatEcolEvol](http://feeds.nature.com/natecolevol/rss/current)\][The ethics of human sequences in environmental samples](https://www.nature.com/articles/s41559-023-02072-2).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatEcolEvol](http://feeds.nature.com/natecolevol/rss/current)\][John Alcock (1943–2023)](https://www.nature.com/articles/s41559-023-02073-1).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatEcolEvol](http://feeds.nature.com/natecolevol/rss/current)\][A global phylogeny of butterflies reveals their evolutionary history, ancestral hosts and biogeographic origins](https://www.nature.com/articles/s41559-023-02041-9).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatEcolEvol](http://feeds.nature.com/natecolevol/rss/current)\][Inadvertent human genomic bycatch and intentional capture raise beneficial applications and ethical concerns with environmental DNA](https://www.nature.com/articles/s41559-023-02056-2).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+### ScienceAdvances
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Microscopic insights to spin transport–driven ultrafast magnetization dynamics in a Gd/Fe bilayer](https://www.science.org/doi/abs/10.1126/sciadv.ade0286?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][USP7 represses lineage differentiation genes in mouse embryonic stem cells by both catalytic and noncatalytic activities](https://www.science.org/doi/abs/10.1126/sciadv.ade3888?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Persistent and enhanced carbon sequestration capacity of alpine grasslands on Earth’s Third Pole](https://www.science.org/doi/abs/10.1126/sciadv.ade6875?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Mice with humanized livers reveal the role of hepatocyte clocks in rhythmic behavior](https://www.science.org/doi/abs/10.1126/sciadv.adf2982?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Enthalpy and entropy synergistic regulation–based programmable DNA motifs for biosensing and information encryption](https://www.science.org/doi/abs/10.1126/sciadv.adf5868?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Convergent genomic signatures of local adaptation across a continental-scale environmental gradient](https://www.science.org/doi/abs/10.1126/sciadv.add0560?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Tumor-derived semaphorin 4A improves PD-1–blocking antibody efficacy by enhancing CD8+ T cell cytotoxicity and proliferation](https://www.science.org/doi/abs/10.1126/sciadv.ade0718?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Multiscale stiffness of human emphysematous precision cut lung slices](https://www.science.org/doi/abs/10.1126/sciadv.adf2535?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Lighting up metastasis process before formation of secondary tumor by phosphorescence imaging](https://www.science.org/doi/abs/10.1126/sciadv.adf6757?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][CDK12 and Integrator-PP2A complex modulates LEO1 phosphorylation for processive transcription elongation](https://www.science.org/doi/abs/10.1126/sciadv.adf8698?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Effects of rare-earth magnetism on the superconducting upper critical field in infinite-layer nickelates](https://www.science.org/doi/abs/10.1126/sciadv.adf6655?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Quantum sensing of radio-frequency signal with NV centers in SiC](https://www.science.org/doi/abs/10.1126/sciadv.adg2080?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][A histone deacetylase 3 and mitochondrial complex I axis regulates toxic formaldehyde production](https://www.science.org/doi/abs/10.1126/sciadv.adg2235?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Gaze following in Archosauria—Alligators and palaeognath birds suggest dinosaur origin of visual perspective taking](https://www.science.org/doi/abs/10.1126/sciadv.adf0405?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][High-precision monitoring of and feedback control over drug concentrations in the brains of freely moving rats](https://www.science.org/doi/abs/10.1126/sciadv.adg3254?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][A revised perspective on the evolution of the lateral frontal cortex in primates](https://www.science.org/doi/abs/10.1126/sciadv.adf9445?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][A probiotic nanozyme hydrogel regulates vaginal microenvironment for Candida vaginitis therapy](https://www.science.org/doi/abs/10.1126/sciadv.adg0949?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Non–cell-autonomous regulation of interneuron specification mediated by extracellular vesicles](https://www.science.org/doi/abs/10.1126/sciadv.add8164?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Mitigation of influenza-mediated inflammation by immunomodulatory matrix-bound nanovesicles](https://www.science.org/doi/abs/10.1126/sciadv.adf9016?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Cross-reactive EBNA1 immunity targets alpha-crystallin B and is associated with multiple sclerosis](https://www.science.org/doi/abs/10.1126/sciadv.adg3032?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Nociceptor activity induces nonionotropic NMDA receptor signaling to enable spinal reconsolidation and reverse pathological pain](https://www.science.org/doi/abs/10.1126/sciadv.adg2819?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Ribonucleotide reductase regulatory subunit M2 drives glioblastoma TMZ resistance through modulation of dNTP production](https://www.science.org/doi/abs/10.1126/sciadv.ade7236?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Structure of the immunoregulatory sialidase NEU1](https://www.science.org/doi/abs/10.1126/sciadv.adf8169?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Early life adversity and adult social relationships have independent effects on survival in a wild primate](https://www.science.org/doi/abs/10.1126/sciadv.ade7172?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Molecular evolution of Keap1 was essential for adaptation of vertebrates to terrestrial life](https://www.science.org/doi/abs/10.1126/sciadv.adg2379?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Imaging of the electronic bonding of diamond at pressures up to 2 million atmospheres](https://www.science.org/doi/abs/10.1126/sciadv.adg4159?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Nanoscale clustering of mycobacterial ligands and DC-SIGN host receptors are key determinants for pathogen recognition](https://www.science.org/doi/abs/10.1126/sciadv.adf9498?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][A bending rigidity parameter for stress granule condensates](https://www.science.org/doi/abs/10.1126/sciadv.adg0432?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Early-life physical performance predicts the aging and death of elite athletes](https://www.science.org/doi/abs/10.1126/sciadv.adf1294?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Adoptive Treg therapy with metabolic intervention via perforated microneedles ameliorates psoriasis syndrome](https://www.science.org/doi/abs/10.1126/sciadv.adg6007?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Multiangle, self-powered sensor array for monitoring head impacts](https://www.science.org/doi/abs/10.1126/sciadv.adg5152?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Autonomous, untethered gait-like synchronization of lobed loops made from liquid crystal elastomer fibers via spontaneous snap-through](https://www.science.org/doi/abs/10.1126/sciadv.adh5107?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Transient agonism of the sonic hedgehog pathway triggers a permanent transition of skin appendage fate in the chicken embryo](https://www.science.org/doi/abs/10.1126/sciadv.adg9619?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Dynamic prospect theory: Two core decision theories coexist in the gambling behavior of monkeys and humans](https://www.science.org/doi/abs/10.1126/sciadv.ade7972?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Dynamics and interactions of Quincke roller clusters: From orbits and flips to excited states](https://www.science.org/doi/abs/10.1126/sciadv.adf5144?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][EV-D68 virus-like particle vaccines elicit cross-clade neutralizing antibodies that inhibit infection and block dissemination](https://www.science.org/doi/abs/10.1126/sciadv.adg6076?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Colocalization and potential interactions of Endozoicomonas and chlamydiae in microbial aggregates of the coral Pocillopora acuta](https://www.science.org/doi/abs/10.1126/sciadv.adg0773?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Desensitization and belatacept-based maintenance therapy in pregnancy-sensitized monkeys receiving a kidney transplant](https://www.science.org/doi/abs/10.1126/sciadv.adg1448?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Breakthrough treatments for accelerated wound healing](https://www.science.org/doi/abs/10.1126/sciadv.ade7007?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Pathways for diversifying and enhancing science advocacy](https://www.science.org/doi/abs/10.1126/sciadv.abq4899?af=R).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+### NatRevGenet
+
+
+\[[NatRevGenet](http://feeds.nature.com/nrg/rss/current)\][Human DNA from a prehistoric artefact](https://www.nature.com/articles/s41576-023-00617-6).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatRevGenet](http://feeds.nature.com/nrg/rss/current)\][Chromatin loops stack up](https://www.nature.com/articles/s41576-023-00616-7).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatRevGenet](http://feeds.nature.com/nrg/rss/current)\][Engineering an oscillating gene circuit to delay cellular ageing](https://www.nature.com/articles/s41576-023-00615-8).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatRevGenet](http://feeds.nature.com/nrg/rss/current)\][Deafness: from genetic architecture to gene therapy](https://www.nature.com/articles/s41576-023-00597-7).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatRevGenet](http://feeds.nature.com/nrg/rss/current)\][The epithelial–mesenchymal plasticity landscape: principles of design and mechanisms of regulation](https://www.nature.com/articles/s41576-023-00601-0).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatRevGenet](http://feeds.nature.com/nrg/rss/current)\][microRNAs as systemic regulators of ageing](https://www.nature.com/articles/s41576-023-00614-9).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatRevGenet](http://feeds.nature.com/nrg/rss/current)\][Beyond assembly: the increasing flexibility of single-molecule sequencing technology](https://www.nature.com/articles/s41576-023-00600-1).   20230501 
+<details open>
+<summary>abstract</summary>
+
+</details>
+
+
+\[[NatRevGenet](http://feeds.nature.com/nrg/rss/current)\][Interpreting non-coding disease-associated human variants using single-cell epigenomics](https://www.nature.com/articles/s41576-023-00598-6).   20230501 
+<details open>
 <summary>abstract</summary>
 
 </details>
