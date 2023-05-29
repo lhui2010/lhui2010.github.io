@@ -1,5 +1,4 @@
 
-### Science
 
   - \[[Science](https://www.science.org/loi/science?af=R)\][Ode to aluminum](https://www.science.org/doi/abs/10.1126/science.adh4905?af=R). Katrin Daehn 	20230501
 
@@ -72,7 +71,6 @@
   - \[[Science](https://www.science.org/loi/science?af=R)\][In Science Journals](https://www.science.org/doi/abs/10.1126/science.adi8564?af=R). Michael Funk, and Sacha Vignieri, Corinne Simont..Grocholski, Bianca Lopez, and Christiana N. Fogg 	20230501
 
 
-### Science
 
   - \[[Science](https://www.science.org/?af=R)\][Constraints on the Hubble constant from Supernova Refsdal’s reappearance](https://www.science.org/doi/abs/10.1126/science.abh1322?af=R). Patrick L. Kelly, Steven Rodney, Tommaso Treu, ..llo Schmidt, Brad E. Tucker, Anja von der Linden 	20230501
 
@@ -89,7 +87,6 @@
   - \[[Science](https://www.science.org/?af=R)\][Proximate deconfined quantum critical point in SrCu2(BO3)2](https://www.science.org/doi/abs/10.1126/science.adc9487?af=R). Yi Cui, Lu Liu, Huihang Lin, Kai-Hsin Wu, Wens..ang Li, Rong Yu, Anders W. Sandvik, Weiqiang Yu 	20230501
 
 
-### Nature
 
   - \[[Nature](http://feeds.nature.com/nature/rss/current)\][Author Correction: Testosterone histories from tusks reveal woolly mammoth musth episodes](https://www.nature.com/articles/s41586-023-06242-x). Michael D. Cherney, Daniel C. Fisher, Richard J. A..Boeskorov, Sergey L. Vartanyan, Alexei N. Tikhonov 	20230501
 
@@ -242,7 +239,6 @@
   - \[[Nature](http://feeds.nature.com/nature/rss/current)\][Flexible solar cells made with crystalline silicon](https://www.nature.com/articles/d41586-023-01357-7).  	20230501
 
 
-### Cell
 
   - \[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][The enteric nervous system relays psychological stress to intestinal inflammation](https://www.cell.com/cell/fulltext/S0092-8674(23)00475-0?rss=yes). Kai Markus Schneider, Niklas Blank, Yelina Alvarez..rt O. Heuckeroth, Maayan Levy, Christoph A. Thaiss 	20230501
 
@@ -259,7 +255,6 @@
   - \[[Cell](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Dissecting the functional organization of the C. elegans serotonergic system at whole-brain scale](https://www.cell.com/cell/fulltext/S0092-8674(23)00419-1?rss=yes). Ugur Dag, Ijeoma Nwabudike, Di Kang, Matthew A. Go..gliese, Ziyu Wang, Emma Towlson, Steven W. Flavell 	20230501
 
 
-### NatBiotechnol
 
   - \[[NatBiotechnol](http://feeds.nature.com/nbt/rss/current)\][Integration of multi-modal single-cell data](https://www.nature.com/articles/s41587-023-01826-4). Michelle Y. Y. Lee, Mingyao Li 	20230501
 
@@ -278,7 +273,6 @@
   - \[[NatBiotechnol](http://feeds.nature.com/nbt/rss/current)\][Combining reference genomes into a pangenome graph improves accuracy and reduces bias](https://www.nature.com/articles/s41587-023-01828-2).  	20230501
 
 
-### NatPlants
 
   - \[[NatPlants](http://feeds.nature.com/nplants/rss/current)\][Applying and releasing small compressive forces to cells induces distinct calcium waves](https://www.nature.com/articles/s41477-023-01444-7).  	20230501
 
@@ -297,7 +291,6 @@
   - \[[NatPlants](http://feeds.nature.com/nplants/rss/current)\][New Green Revolution genes](https://www.nature.com/articles/s41477-023-01426-9). Guillaume Tena 	20230501
 
 
-### NatGenet
 
   - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][The impact of rare protein coding genetic variation on adult cognitive function](https://www.nature.com/articles/s41588-023-01398-8). Chia-Yen Chen, Ruoyu Tian, Tian Ge, Max Lam, Gabri..urles, Sebastian S. Gerety, Todd Lencz, Heiko Runz 	20230501
 
@@ -316,10 +309,8 @@
   - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Shared genetics of substance use disorders](https://www.nature.com/articles/s41588-023-01405-y). Kyle Vogan 	20230501
 
 
-### NatCommun
 
 
-### NatEcolEvol
 
   - \[[NatEcolEvol](http://feeds.nature.com/natecolevol/rss/current)\][Tiger protection brings carbon benefits](https://www.nature.com/articles/s41559-023-02062-4). Erin O. Sills, Randall A. Kramer 	20230501
 
@@ -338,7 +329,6 @@
   - \[[NatEcolEvol](http://feeds.nature.com/natecolevol/rss/current)\][Convergence of dominance and neglect in flying insect diversity](https://www.nature.com/articles/s41559-023-02066-0). Amrita Srivathsan, Yuchen Ang, John M. Heraty, Wei..niamoorthy, Darren Yeo, Tomas Roslin, Rudolf Meier 	20230501
 
 
-### ScienceAdvances
 
   - \[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Use of race in clinical algorithms](https://www.science.org/doi/abs/10.1126/sciadv.add2704?af=R). Anirban Basu 	20230501
 
@@ -431,7 +421,6 @@
   - \[[ScienceAdvances](https://www.science.org/loi/sciadv?af=R)\][Multiomic signals associated with maternal epidemiological factors contributing to preterm birth in low- and middle-income countries](https://www.science.org/doi/abs/10.1126/sciadv.ade7692?af=R). Camilo A. Espinosa, Waqasuddin Khan, Rasheda Khana.. Gary M. Shaw, David K. Stevenson, Nima Aghaeepour 	20230501
 
 
-### NatRevGenet
 
   - \[[NatRevGenet](http://feeds.nature.com/nrg/rss/current)\][Human DNA from a prehistoric artefact](https://www.nature.com/articles/s41576-023-00617-6). Michael Attwaters 	20230501
 
@@ -450,10 +439,8 @@
   - \[[NatRevGenet](http://feeds.nature.com/nrg/rss/current)\][Interpreting non-coding disease-associated human variants using single-cell epigenomics](https://www.nature.com/articles/s41576-023-00598-6). Kyle J. Gaulton, Sebastian Preissl, Bing Ren 	20230501
 
 
-### Proc.Natl.Acad.Sci.U.S.A.
 
 
-### TrendsEcolEvol
 
   - \[[TrendsEcolEvol](https://www.sciencedirect.com/journal/trends-in-ecology-and-evolution)\][Subscription and Copyright Information](https://www.sciencedirect.com/science/article/pii/S0169534723000988?dgcid=rss_sd_all).  	20230501
 
@@ -584,7 +571,6 @@
   - \[[TrendsEcolEvol](https://www.sciencedirect.com/journal/trends-in-ecology-and-evolution)\][Evolutionary genomics of oceanic island radiations](https://www.sciencedirect.com/science/article/pii/S0169534723000320?dgcid=rss_sd_all).  	20230501
 
 
-### TrendsGenet
 
   - \[[TrendsGenet](https://www.sciencedirect.com/journal/trends-in-genetics)\][Subscription and Copyright Information](https://www.sciencedirect.com/science/article/pii/S0168952523000975?dgcid=rss_sd_all).  	20230501
 
@@ -667,7 +653,6 @@
   - \[[TrendsGenet](https://www.sciencedirect.com/journal/trends-in-genetics)\][C-DNA may facilitate homologous DNA pairing](https://www.sciencedirect.com/science/article/pii/S0168952523000239?dgcid=rss_sd_all).  	20230501
 
 
-### CurrOpinPlantBiol
 
   - \[[CurrOpinPlantBiol](https://www.sciencedirect.com/journal/current-opinion-in-plant-biology)\][Non-canonical and developmental roles of the TCA cycle in plants](https://www.sciencedirect.com/science/article/pii/S136952662300047X?dgcid=rss_sd_all).  	20230501
 
@@ -728,10 +713,8 @@
   - \[[CurrOpinPlantBiol](https://www.sciencedirect.com/journal/current-opinion-in-plant-biology)\][A bittersweet symphony: Metabolic signals in the circadian system](https://www.sciencedirect.com/science/article/pii/S1369526622001625?dgcid=rss_sd_all).  	20230501
 
 
-### MolPlant
 
 
-### CurrBiol
 
   - \[[CurrBiol](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Rap1 coordinates cell-cell adhesion and cytoskeletal reorganization to drive collective cell migration in vivo](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00603-6?rss=yes). Katheryn E. Rothenberg, Yujun Chen, Jocelyn A. McDonald, Rodrigo Fernandez-Gonzalez 	20230501
 
@@ -800,7 +783,6 @@
   - \[[CurrBiol](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Acetylcholine potentiates glutamate transmission from the habenula to the interpeduncular nucleus in losers of social conflict](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00445-1?rss=yes). Masae Kinoshita, Hitoshi Okamoto 	20230501
 
 
-### MolBiolEvol
 
   - \[[MolBiolEvol](http://academic.oup.com/mbe)\][Correction to: Evolution is not Uniform Along Coding Sequences](https://academic.oup.com/mbe/article/doi/10.1093/molbev/msad117/7175408?rss=1).  	20230501
 
@@ -849,7 +831,6 @@
   - \[[MolBiolEvol](http://academic.oup.com/mbe)\][Population Genomic Evidence of Adaptive Response during the Invasion History of Plasmodium falciparum in the Americas](https://academic.oup.com/mbe/article/doi/10.1093/molbev/msad082/7111314?rss=1).  Sat, 08 Apr 2023 00:00:00 GM	20230501
 
 
-### MolBiolEvol
 
   - \[[MolBiolEvol](http://academic.oup.com/mbe)\][Protection of catalytic cofactors by polypeptides as a driver for the emergence of primordial enzymes](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msad126/7180808?rss=1).  Fri, 26 May 2023 00:00:00 GM	20230501
 
@@ -858,12 +839,10 @@
   - \[[MolBiolEvol](http://academic.oup.com/mbe)\][An Ancestral Balanced Inversion Polymorphism Confers Global Adaptation](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msad118/7176213?rss=1).  	20230501
 
 
-### MolBiolEvol
 
   - \[[MolBiolEvol](http://academic.oup.com/mbe)\][Protection of catalytic cofactors by polypeptides as a driver for the emergence of primordial enzymes](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msad126/7180808?rss=1).  Fri, 26 May 2023 00:00:00 GM	20230501
 
 
-### GenomeRes
 
   - \[[GenomeRes](http://genome.cshlp.org)\][Challenges and considerations for reproducibility of STARR-seq assays [PERSPECTIVE]](http://genome.cshlp.org/cgi/content/short/33/4/479?rss=1). Das, M., Hossain, A., Banerjee, D., Praul, C. A., Girirajan, S. 	20230501
 
@@ -894,7 +873,6 @@
   - \[[GenomeRes](http://genome.cshlp.org)\][A single-cell transcriptome atlas of the maturing zebrafish telencephalon [RESOURCES]](http://genome.cshlp.org/cgi/content/short/33/4/658?rss=1). Pandey, S., Moyer, A. J., Thyme, S. B. 	20230501
 
 
-### GenomeBiol
 
   - \[[GenomeBiol](https://genomebiology.biomedcentral.com)\][Genomic hallmarks and therapeutic implications of G0 cell cycle arrest in cancer](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02963-4). Anna J. Wiecek, Stephen J. Cutty, Daniel Kornai, M.., Gareth L. Bond, Alexis R. Barr and Maria Secrier 	20230501
 
@@ -907,7 +885,6 @@
   - \[[GenomeBiol](https://genomebiology.biomedcentral.com)\][Graph construction method impacts variation representation and analyses in a bovine super-pangenome](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02969-y). Alexander S. Leonard, Danang Crysnanto, Xena M. Mapel, Meenu Bhati and Hubert Pausch Mon, 22 May 2023 00:00:00 GM	20230501
 
 
-### NatlSciRev
 
   - \[[NatlSciRev](http://academic.oup.com/nsr)\][Commentary on ‘Quantifying conditions for climate control on coals and evaporites’ by Bao et al.](https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwad111/7136164?rss=1).  Fri, 21 Apr 2023 00:00:00 GM	20230501
 
@@ -944,7 +921,6 @@
   - \[[NatlSciRev](http://academic.oup.com/nsr)\][Collective effects in an incompressible electronic liquid](https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwac251/6815785?rss=1).  Sun, 23 Oct 2022 00:00:00 GM	20230501
 
 
-### NatlSciRev
 
   - \[[NatlSciRev](http://academic.oup.com/nsr)\][Delayed Antarctic melt season reduces albedo feedback](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad157/7181506?rss=1).  Sat, 27 May 2023 00:00:00 GM	20230501
 
@@ -959,14 +935,12 @@
   - \[[NatlSciRev](http://academic.oup.com/nsr)\][Introduction to the Greater Bay Area (Huangpu) international algorithm case competition](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad154/7180018?rss=1).  	20230501
 
 
-### NatlSciRev
 
   - \[[NatlSciRev](http://academic.oup.com/nsr)\][Delayed Antarctic melt season reduces albedo feedback](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad157/7181506?rss=1).  Sat, 27 May 2023 00:00:00 GM	20230501
 
   - \[[NatlSciRev](http://academic.oup.com/nsr)\][Exploring the Vacuum Ultraviolet Photochemistry of Astrochemically Important Triatomic Molecules](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwad158/7181505?rss=1).  Sat, 27 May 2023 00:00:00 GM	20230501
 
 
-### Genetics
 
   - \[[Genetics](http://academic.oup.com/genetics)\][Visual processing in the fly, from photoreceptors to behavior](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyad064/7147603?rss=1).  	20230501
 
@@ -1017,23 +991,36 @@
   - \[[Genetics](http://academic.oup.com/genetics)\][Hotspot of de novo telomere addition stabilizes linear amplicons in yeast grown in sulfate-limiting conditions](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyad010/7005643?rss=1).  	20230501
 
 
-### Genetics
+
+  - \[[Genetics](http://academic.oup.com/genetics)\][Linking genetic and environmental factors through marker effect networks to understand trait plasticity](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyad103/7182560?rss=1).  Mon, 29 May 2023 00:00:00 GM	20230501
 
   - \[[Genetics](http://academic.oup.com/genetics)\][Control of Cellularization, Nuclear Localization, and Antipodal Cell Cluster Development in Maize Embryo Sacs](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyad101/7180095?rss=1).  Fri, 26 May 2023 00:00:00 GM	20230501
 
+
+
   - \[[Genetics](http://academic.oup.com/genetics)\][Impact of pathogen genetics on clinical phenotypes in a population of Talaromyces marneffei from Vietnam](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyad100/7179484?rss=1).  	20230501
 
   - \[[Genetics](http://academic.oup.com/genetics)\][Self-contained Beta-with-Spikes Approximation for Inference Under a Wright-Fisher Model](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyad092/7179474?rss=1).  	20230501
 
 
-### Genetics
 
-  - \[[Genetics](http://academic.oup.com/genetics)\][Impact of pathogen genetics on clinical phenotypes in a population of Talaromyces marneffei from Vietnam](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyad100/7179484?rss=1).  	20230501
+  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Oxygen‐Rich Carbon Nitrides from an Eutectic Template Strategy Stabilize Ni, Fe Nanosites for Electrocatalytic Oxygen Evolution](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300526?af=R). Chun Li, Enrico Lepre, Min Bi, Markus Antonietti, Junwu Zhu, Yongsheng Fu, Nieves López‐Salas Sun, 28 May 2023 20:51:02 -0700	20230501
 
-  - \[[Genetics](http://academic.oup.com/genetics)\][Self-contained Beta-with-Spikes Approximation for Inference Under a Wright-Fisher Model](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyad092/7179474?rss=1).  	20230501
+  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Universal Energy Solution for Triboelectric Sensors Toward the 5G Era and Internet of Things](https://onlinelibrary.wiley.com/doi/10.1002/advs.202302009?af=R). Haiyang Wen, Xiya Yang, Ruiyuan Huang, Duo Zhen..xin Hong, Jialong Duan, Yunlong Zi, Qunwei Tang Sun, 28 May 2023 20:47:48 -0700	20230501
 
+  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Alveoli‐Like Multifunctional Scaffolds for Optical and Electrochemical In Situ Monitoring of Cellular Responses from Type II Pneumocytes](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301395?af=R). Seonghyeon Eom, So Yeon Lee, Jung Tae Park, Inhee Choi Sun, 28 May 2023 20:46:59 -0700	20230501
 
-### AdvancedSci
+  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Smoking‐Induced M2‐TAMs, via circEML4 in EVs, Promote the Progression of NSCLC through ALKBH5‐Regulated m6A Modification of SOCS2 in NSCLC Cells](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300953?af=R). Cheng Cheng, Peiwen Wang, Yi Yang, Xuan Du, Ha..bo Xia, Jinyuan Liu, Lu Lu, Hao Wu, Qizhan Liu Sun, 28 May 2023 20:46:57 -0700	20230501
+
+  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Bone Marrow Mesenchymal Stem Cell‐Derived Dermcidin‐Containing Migrasomes enhance LC3‐Associated Phagocytosis of Pulmonary Macrophages and Protect against Post‐Stroke Pneumonia](https://onlinelibrary.wiley.com/doi/10.1002/advs.202206432?af=R). Tiemei Li, Xiaotao Su, Pinglan Lu, Xinmei Kang,..iu, Xiaohui Deng, Wei Cai, Lei Wei, Zhengqi Lu Sun, 28 May 2023 20:46:39 -0700	20230501
+
+  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Soft Mechanical Metamaterials with Transformable Topology Protected by Stress Caching](https://onlinelibrary.wiley.com/doi/10.1002/advs.202302475?af=R). Jason Christopher Jolly, Binjie Jin, Lishuai Jin..tefano Gonella, Kai Sun, Xiaoming Mao, Shu Yang Sun, 28 May 2023 20:46:34 -0700	20230501
+
+  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Integrated Moist‐Thermoelectric Generator for Efficient Waste Steam Energy Utilization](https://onlinelibrary.wiley.com/doi/10.1002/advs.202206071?af=R). Mingchen Yang, Yin Hu, Sijie Zheng, Ziyang Liu, Weizheng Li, Feng Yan Sun, 28 May 2023 20:46:32 -0700	20230501
+
+  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Magnetic Weyl Semimetal in BaCrSe2 with Long‐Distance Distribution of Weyl Points](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301474?af=R). Wenli Sun, Bingyang Li, Xiaorong Zou, Runhan Li, Baibiao Huang, Ying Dai, Chengwang Niu Sun, 28 May 2023 20:46:24 -0700	20230501
+
+  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Flexible All‐Inorganic Perovskite Photodetector with a Combined Soft‐Hard Layer Produced by Ligand Cross‐Linking](https://onlinelibrary.wiley.com/doi/10.1002/advs.202302005?af=R). Tongyu Shi, Xi Chen, Rui He, Hao Huang, Xinru ..u Zhang, Jiahong Wang, Paul K. Chu, Xue‐Feng Yu Sun, 28 May 2023 20:46:18 -0700	20230501
 
   - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][In Situ Exfoliation Method of Large‐Area 2D Materials](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301243?af=R). Antonija Grubišić‐Čabo, Matteo Michiardi, Charlo.., Magnus H. Berntsen, Qinda Guo, Maciej Dendzik Fri, 26 May 2023 15:15:25 -0700	20230501
 
@@ -1249,18 +1236,6 @@
 
   - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][A Separator with Double Coatings of Li4Ti5O12 and Conductive Carbon for Li‐S Battery of Good Electrochemical Performance](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301386?af=R). Shuang Xia, Jie Song, Qi Zhou, Lili Liu, Jilei..hui Chen, Yankai Liu, Yuping Wu, Teunis van Ree 	20230501
 
-  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Cell‐Based Therapies for Degenerative Musculoskeletal Diseases](https://onlinelibrary.wiley.com/doi/10.1002/advs.202207050?af=R). Pengbin Yin, Yuheng Jiang, Xuan Fang, Daofeng W..Ming Chen, Hao Deng, Peifu Tang, Licheng Zhang 	20230501
-
-  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Surface‐Mediated Spin Locking and Thermal Unlocking in a 2D Molecular Array](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300223?af=R). Iulia Cojocariu, Andreas Windischbacher, Daniel ..eter Puschnig, Vitaliy Feyer, Claus M. Schneider 	20230501
-
-  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Integrated Multifunctional Electronic Skins with Low‐Coupling for Complicated and Accurate Human–Robot Collaboration](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301341?af=R). Chuanyang Ge, Xuyang An, Xinxin He, Zhan Duan, .. PingAn Hu, Jie Zhao, Zhenlong Wang, Jia Zhang Wed, 17 May 2023 15:01:06 -0700	20230501
-
-  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Ultrafast Jahn‐Teller Photoswitching in Cobalt Single‐Ion Magnets](https://onlinelibrary.wiley.com/doi/10.1002/advs.202206880?af=R). Sophie E. Canton, Mykola Biednov, Mátyás Pápai, .., Kaibo Zheng, Marius Retegan, Dmitry Khakhulin Wed, 17 May 2023 14:59:33 -0700	20230501
-
-  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Unidirectional Moisture Delivery via a Janus Photothermal Interface for Indoor Dehumidification: A Smart Roof](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301421?af=R). Wenbo Shi, Haoyu Bai, Moyuan Cao, Xinsheng Wang, Yuzhen Ning, Zhe Li, Kesong Liu, Lei Jiang Wed, 17 May 2023 14:55:22 -0700	20230501
-
-  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Deep Learning Model to Predict Ice Crystal Growth](https://onlinelibrary.wiley.com/doi/10.1002/advs.202207731?af=R). Bor‐Yann Tseng, Chen‐Wei Conan Guo, Yu‐Chen Chien, Jyn‐Ping Wang, Chi‐Hua Yu Wed, 17 May 2023 14:55:18 -0700	20230501
-
   - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Ultrasound Neuromodulation as a New Brain Therapy](https://onlinelibrary.wiley.com/doi/10.1002/advs.202205634?af=R). Roland Beisteiner, Mark Hallett, Andres M. Lozano Wed, 17 May 2023 05:58:59 -0700	20230501
 
   - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Type‐III Superconductivity](https://onlinelibrary.wiley.com/doi/10.1002/advs.202206523?af=R). M. Cristina Diamantini, Carlo A. Trugenberger, S..n, Yu‐Jung Lu, Chi‐Te Liang, Valerii M. Vinokur Wed, 17 May 2023 05:58:59 -0700	20230501
@@ -1374,12 +1349,6 @@
   - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Advanced Composites Inspired by Biological Structures and Functions in Nature: Architecture Design, Strengthening Mechanisms, and Mechanical‐Functional Responses](https://onlinelibrary.wiley.com/doi/10.1002/advs.202207192?af=R). Hanqing Dai, Wenqing Dai, Zhe Hu, Wanlu Zhang, Guoqi Zhang, Ruiqian Guo Wed, 17 May 2023 05:58:59 -0700	20230501
 
   - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Advanced Temporally‐Spatially Precise Technologies for On‐Demand Neurological Disorder Intervention](https://onlinelibrary.wiley.com/doi/10.1002/advs.202207436?af=R). Xiuli Chen, Yusheng Gong, Wei Chen Wed, 17 May 2023 05:58:59 -0700	20230501
-
-  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Size‐Controlled Boron‐Based Bifunctional Photocathodes for High‐Efficiency Photo‐Assisted Li–O2 Batteries](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301682?af=R). Ling Li, Fuquan Ma, Congying Jia, Qi Li, Xuexi..ie Sun, Ruibin Jiang, Zhibin Lei, Zong‐Huai Liu Wed, 17 May 2023 05:32:40 -0700	20230501
-
-  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][A Curcumin‐Modified Coordination Polymers with ROS Scavenging and Macrophage Phenotype Regulating Properties for Efficient Ulcerative Colitis Treatment](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300601?af=R). Hang Yao, Feifei Wang, Hui Chong, Jingjing Wang..n, Xiaofei Yang, Ming Wu, Yuping Li, Huan Pang Wed, 17 May 2023 05:32:39 -0700	20230501
-
-  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Ultrasound‐Responsive Oxygen‐Carrying Pollen for Enhancing Chemo‐Sonodynamic Therapy of Breast Cancer](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300456?af=R). Baojie Wen, Danqing Huang, Chuanhui Song, Jingyang Shan, Yuanjin Zhao 	20230501
 
   - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Perspective and Prospects for Ordered Functional Materials](https://onlinelibrary.wiley.com/doi/10.1002/advs.202300193?af=R). Hai‐Tian Zhang, Tao Zhang, Xiangyi Zhang Fri, 05 May 2023 02:21:39 -0700	20230501
 
@@ -1498,7 +1467,6 @@
   - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Site Diversity and Mechanism of Metal‐Exchanged Zeolite Catalyzed Non‐Oxidative Propane Dehydrogenation](https://onlinelibrary.wiley.com/doi/10.1002/advs.202207756?af=R). Yong Yuan, Zhaoqi Zhao, Raul F. Lobo, Bingjun Xu Fri, 05 May 2023 02:21:39 -0700	20230501
 
 
-### PlantCell
 
   - \[[PlantCell](http://academic.oup.com/plcell)\][Thank You to Reviewers and Editors for 2022](https://academic.oup.com/plcell/article/35/3/947/7067921?rss=1).  	20230501
 
@@ -1541,7 +1509,6 @@
   - \[[PlantCell](http://academic.oup.com/plcell)\][Tomato MED25 regulates fruit ripening by interacting with EIN3-like transcription factors](https://academic.oup.com/plcell/article/35/3/1038/6873965?rss=1).  	20230501
 
 
-### PlantCell
 
   - \[[PlantCell](http://academic.oup.com/plcell)\][Bacterium-enabled transient gene activation by artificial transcription factors for resolving gene regulation in maize](https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koad155/7180262?rss=1).  Fri, 26 May 2023 00:00:00 GM	20230501
 
@@ -1552,7 +1519,6 @@
   - \[[PlantCell](http://academic.oup.com/plcell)\][In the heat of the moment: The miR165/166-PHB module mediates thermotolerance in Arabidopsis](https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koad148/7178005?rss=1).  Wed, 24 May 2023 00:00:00 GM	20230501
 
 
-### NewPhytol
 
   - \[[NewPhytol](https://nph.onlinelibrary.wiley.com/journal/14698137?af=R)\][Phloem development](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19003?af=R). Christian S. Hardtke Sat, 27 May 2023 03:44:59 -0700	20230501
 
@@ -1821,10 +1787,8 @@
   - \[[NewPhytol](https://nph.onlinelibrary.wiley.com/journal/14698137?af=R)\][Rising vapor‐pressure deficit increases nitrogen fixation in a legume crop](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18929?af=R). Daniel Monnens, R. Ford Denison, Walid Sadok 	20230501
 
 
-### PlantPhysiol
 
 
-### NatMethods
 
   - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Simultaneous profiling of spatial gene expression and chromatin accessibility during mouse brain development](https://www.nature.com/articles/s41592-023-01884-1). Fuqing Jiang, Xin Zhou, Yingying Qian, Miao Zhu, L..Fangfang Qu, Guizhong Cui, Kai Chen, Guangdun Peng 	20230501
 
@@ -1843,7 +1807,6 @@
   - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Engineered allostery in light-regulated LOV-Turbo enables precise spatiotemporal control of proximity labeling in living cells](https://www.nature.com/articles/s41592-023-01880-5). Song-Yi Lee, Joleen S. Cheah, Boxuan Zhao, Charles.., Namrata D. Udeshi, Steven A. Carr, Alice Y. Ting 	20230501
 
 
-### Bioinformatics
 
   - \[[Bioinformatics](http://academic.oup.com/bioinformatics)\][IndepthPathway: an integrated tool for in-depth pathway enrichment analysis based on single cell sequencing data](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad325/7181277?rss=1).  Sat, 27 May 2023 00:00:00 GM	20230501
 
@@ -1852,7 +1815,6 @@
   - \[[Bioinformatics](http://academic.oup.com/bioinformatics)\][Online bias-aware disease module mining with ROBUST-Web](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad345/7180269?rss=1).  Fri, 26 May 2023 00:00:00 GM	20230501
 
 
-### PLoSComputBiol
 
   - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Enabling interpretable machine learning for biological data with reliability scores](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011175). K. D. Ahlquist, Lauren A. Sugden, Sohini Ramachandran 2023-05-26	20230501
 
@@ -1915,7 +1877,6 @@
   - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Temporal novelty detection and multiple timescale integration drive <i>Drosophila</i> orientation dynamics in temporally diverse olfactory environments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010606). Viraaj Jayaram, Aarti Sehdev, Nirag Kadakia, Ethan A. Brown, Thierry Emonet 2023-05-11	20230501
 
 
-### BMCBioinformatics
 
   - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][scSemiAAE: a semi-supervised clustering model for single-cell RNA-seq data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05339-4). Zile Wang, Haiyun Wang, Jianping Zhao and Chunhou Zheng Fri, 26 May 2023 00:00:00 GM	20230501
 
@@ -1928,10 +1889,8 @@
   - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Identifying driver pathways based on a parameter-free model and a partheno-genetic algorithm](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05319-8). Jingli Wu, Qinghua Nie, Gaoshi Li and Kai Zhu 	20230501
 
 
-### JIPB
 
 
-### JIPB
 
   - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][Cell type‐specific proteomics uncovers a RAF15‐SnRK2.6/OST1 kinase cascade in guard cells](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13536?af=R). Hongliang Wang, Yubei Wang, Tian Sang, Zhen Lin..ai, Honghong Hu, Chun‐Peng Song, Pengcheng Wang 	20230501
 
@@ -2078,10 +2037,8 @@
   - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][Genome‐scale angiosperm phylogenies based on nuclear, plastome, and mitochondrial datasets](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13455?af=R). Hongyin Hu, Pengchuan Sun, Yongzhi Yang, Jianxiang Ma, Jianquan Liu 	20230501
 
 
-### PlantCommun
 
 
-### PlantJ
 
   - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][ELONGATED HYPOCOTYL5 (HY5) and HY5 HOMOLOG (HYH) maintain shade avoidance suppression in UV‐B](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16328?af=R). Ashutosh Sharma, Ashley J. Pridgeon, Wei Liu, F..ana Sharma, Gareth I. Jenkins, Keara A. Franklin Sat, 27 May 2023 09:48:00 -0700	20230501
 
@@ -2320,7 +2277,6 @@
   - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][A key enzyme for flavin synthesis is required for nitric oxide and reactive oxygen species production in disease resistance](https://onlinelibrary.wiley.com/doi/10.1111/j.0960-7412.2010.04206.x?af=R). Shuta Asai, Keisuke Mase, Hirofumi Yoshioka 	20230501
 
 
-### PlantBiotechnolJ
 
   - \[[PlantBiotechnolJ](https://onlinelibrary.wiley.com/journal/14677652?af=R)\][Issue Information](https://onlinelibrary.wiley.com/doi/10.1111/pbi.13850?af=R).  Fri, 26 May 2023 04:40:35 -0700	20230501
 
