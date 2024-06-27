@@ -853,24 +853,24 @@
 
 ### NatlSciRev
 
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Slow Down in China's Methane Emission Growth](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae223/7699878?rss=1).  Wed, 26 Jun 2024 00:00:00 GM	20240601
+
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Powerful QTL mapping and favorable allele mining in an all-in-one population: a case study of heading date](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae222/7699875?rss=1).  Wed, 26 Jun 2024 00:00:00 GM	20240601
+
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][An ATP-responsive metal-organic framework against periodontitis via synergistic ion-interference-mediated pyroptosis](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae225/7699872?rss=1).  Wed, 26 Jun 2024 00:00:00 GM	20240601
+
   - \[[NatlSciRev](http://academic.oup.com/nsr)\][A novel cathode interphase formation methodology by preferential adsorption of a borate-based electrolyte additive](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae219/7699104?rss=1).  	20240601
 
   - \[[NatlSciRev](http://academic.oup.com/nsr)\][Three-dimensional quantum Griffiths singularity in bulk iron-pnictide superconductors](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae220/7699098?rss=1).  	20240601
-
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Soma-germline communication drives sex maintenance in the Drosophila testis](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae215/7697574?rss=1).  Sat, 22 Jun 2024 00:00:00 GM	20240601
-
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Lewis-base ligand-reshaped interfacial hydrogen-bond network boosts CO2 electrolysis](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae218/7697572?rss=1).  Sat, 22 Jun 2024 00:00:00 GM	20240601
-
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Strong low-energy rattling modes enabled liquid-like ultralow thermal conductivity in a well-ordered solid](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae216/7697558?rss=1).  Sat, 22 Jun 2024 00:00:00 GM	20240601
-
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Harnessing spin effects for heterogeneous single-atom spin catalysis](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae217/7697555?rss=1).  Sat, 22 Jun 2024 00:00:00 GM	20240601
 
 
 ### NatlSciRev
 
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][A novel cathode interphase formation methodology by preferential adsorption of a borate-based electrolyte additive](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae219/7699104?rss=1).  	20240601
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Slow Down in China's Methane Emission Growth](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae223/7699878?rss=1).  Wed, 26 Jun 2024 00:00:00 GM	20240601
 
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Three-dimensional quantum Griffiths singularity in bulk iron-pnictide superconductors](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae220/7699098?rss=1).  	20240601
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Powerful QTL mapping and favorable allele mining in an all-in-one population: a case study of heading date](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae222/7699875?rss=1).  Wed, 26 Jun 2024 00:00:00 GM	20240601
+
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][An ATP-responsive metal-organic framework against periodontitis via synergistic ion-interference-mediated pyroptosis](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae225/7699872?rss=1).  Wed, 26 Jun 2024 00:00:00 GM	20240601
 
 
 ### Genetics
@@ -2760,6 +2760,8 @@
 
 ### BioRxivBio
 
+  - \[[BioRxivBio](http://biorxiv.org)\][ProBASS: a language model with sequence and structural features for predicting the effect of mutations on binding affinity](http://biorxiv.org/cgi/content/short/2024.06.21.600041v1?rss=1). Gurusinghe, S. N. S., Wu, Y., DeGrado, W., Shifman, J. M. 	20240601
+
   - \[[BioRxivBio](http://biorxiv.org)\][RTF: An R package for modelling time course data](http://biorxiv.org/cgi/content/short/2024.06.21.599527v1?rss=1). Brombacher, E., Kreutz, C. 	20240601
 
   - \[[BioRxivBio](http://biorxiv.org)\][Network pharmacological evaluation of active ingredients and potential targets of San Huang Decoction in the treatment of breast cancer](http://biorxiv.org/cgi/content/short/2024.06.20.599797v1?rss=1). Chao, S., Liu, S., Wang, K., Xie, M., Liu, B. 	20240601
@@ -2817,8 +2819,6 @@
   - \[[BioRxivBio](http://biorxiv.org)\][Spatial Transcriptomics Prediction from Histology Images at Single-cell Resolution using RedeHist](http://biorxiv.org/cgi/content/short/2024.06.17.599464v1?rss=1). Zhong, Y., Zhang, J., Ren, X. 	20240601
 
   - \[[BioRxivBio](http://biorxiv.org)\][TransfoRNA: Navigating the Uncertainties of Small RNA Annotation with an Adaptive Machine Learning Strategy](http://biorxiv.org/cgi/content/short/2024.06.19.599329v1?rss=1). Taha, Y., Jehn, J., Kahraman, M., Frank, M., Heuve..., Horos, R., Yau, C., Steinkraus, B., Sikosek, T. 	20240601
-
-  - \[[BioRxivBio](http://biorxiv.org)\][PathoLM: Identifying pathogenicity from the DNA sequence through the Genome Foundation Model](http://biorxiv.org/cgi/content/short/2024.06.18.599629v1?rss=1). Dip, S. A., Shuvo, U. A., Chau, T., Song, H., Choi, P., Wang, X., ZHANG, L. 	20240601
 
 
 ### BioRxivGenomInfor
