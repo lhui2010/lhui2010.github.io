@@ -260,10 +260,132 @@
   - \[[Nature](http://feeds.nature.com/nature/rss/current)\][Gut microbiome discovery provides roadmap for life-saving cancer therapies](https://www.nature.com/articles/d41586-024-02070-9). Giorgia Guglielmi 	20240601
 
 
-### Cell
+### cell-inpress
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Amplification editing enables efficient and precise duplication of DNA from short sequence to megabase and chromosomal scale](https://www.cell.com/cell/fulltext/S0092-8674(24)00637-8?rss=yes). Ruiwen Zhang, Zhou He, Yajing Shi, Xiangkun Sun, X..i Yang, Yuchen Xia, Yan Zhang, Ying Zhang, Hao Yin 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Preclinical proof of principle for orally delivered Th17 antagonist miniproteins](https://www.cell.com/cell/fulltext/S0092-8674(24)00631-7?rss=yes). Stephanie Berger, Franziska Seeger, Ta-Yi Yu, Merv..gel, Matthias Siebeck, Roswitha Gropp, David Baker 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Multiplexed single-cell characterization of alternative polyadenylation regulators](https://www.cell.com/cell/fulltext/S0092-8674(24)00645-7?rss=yes). Madeline H. Kowalski, Hans-Hermann Wessels, Johann..n Hartman, Yuhan Hao, Anshul Kundaje, Rahul Satija 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Open-ST: High-resolution spatial transcriptomics in 3D](https://www.cell.com/cell/fulltext/S0092-8674(24)00636-6?rss=yes). Marie Schott, Daniel León-Periñán, Elena Splendian..iuseppe Macino, Nikos Karaiskos, Nikolaus Rajewsky 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][The primitive endoderm supports lineage plasticity to enable regulative development](https://www.cell.com/cell/fulltext/S0092-8674(24)00595-6?rss=yes). Madeleine Linneberg-Agerholm, Annika Charlotte Sel..onio Barral, Miguel Manzanares, Joshua M. Brickman 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Pan-cancer proteogenomics expands the landscape of therapeutic targets](https://www.cell.com/cell/fulltext/S0092-8674(24)00583-X?rss=yes). Sara R. Savage, Xinpei Yi, Jonathan T. Lei, Bo Wen..Daming Gao, Valentina Hoyos, Qiang Gao, Bing Zhang 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Systematic mapping of organism-scale gene-regulatory networks in aging using population asynchrony](https://www.cell.com/cell/fulltext/S0092-8674(24)00594-4?rss=yes). Matthias Eder, Olivier M.F. Martin, Natasha Oswal,..rnau Sebé-Pedrós, Holger Heyn, Nicholas Stroustrup 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][TERT activation targets DNA methylation and multiple aging hallmarks](https://www.cell.com/cell/fulltext/S0092-8674(24)00592-0?rss=yes). Hong Seok Shim, Jonathan Iaconelli, Xiaoying Shang..el J. Bollong, Peter G. Schultz, Ronald A. DePinho 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][The evolution of developmental biology through conceptual and technological revolutions](https://www.cell.com/cell/fulltext/S0092-8674(24)00632-9?rss=yes). Prisca Liberali, Alexander F. Schier 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Therapeutic potential of co-signaling receptor modulation in hepatitis B](https://www.cell.com/cell/fulltext/S0092-8674(24)00582-8?rss=yes). Francesco Andreata, Chiara Laura, Micol Ravà, Caro..Paola Fisicaro, Luca G. Guidotti, Matteo Iannacone 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Ring-shaped odor coding in the antennal lobe of migratory locusts](https://www.cell.com/cell/fulltext/S0092-8674(24)00580-4?rss=yes). Xingcong Jiang, Eleftherios Dimitriou, Veit Grabe,..enzon, Jürgen Rybak, Bill S. Hansson, Silke Sachse 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][The genomic and cellular basis of biosynthetic innovation in rove beetles](https://www.cell.com/cell/fulltext/S0092-8674(24)00521-X?rss=yes). Sheila A. Kitchen, Thomas H. Naragon, Adrian Brück..Steven R. Davis, Matthew L. Aardema, Joseph Parker 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][A metabolomics pipeline highlights microbial metabolism in bloodstream infections](https://www.cell.com/cell/fulltext/S0092-8674(24)00579-8?rss=yes). Jared R. Mayers, Jack Varon, Ruixuan R. Zhou, Mart.. Sihai D. Zhao, Rebecca M. Baron, Emily P. Balskus 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][NLRC5 senses NAD+ depletion, forming a PANoptosome and driving PANoptosis and inflammation](https://www.cell.com/cell/fulltext/S0092-8674(24)00578-6?rss=yes). Balamurugan Sundaram, Nagakannan Pandian, Hee Jin ..ett-Miller, Peter Vogel, Thirumala-Devi Kanneganti 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][STING orchestrates the neuronal inflammatory stress response in multiple sclerosis](https://www.cell.com/cell/fulltext/S0092-8674(24)00576-2?rss=yes). Marcel S. Woo, Christina Mayer, Lars Binkle-Ladisc..ad, Doron Merkler, Marc Freichel, Manuel A. Friese 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][An atlas of human vector-borne microbe interactions reveals pathogenicity mechanisms](https://www.cell.com/cell/fulltext/S0092-8674(24)00532-4?rss=yes). Thomas M. Hart, Nicole D. Sonnert, Xiaotian Tang, .. Carlyon, Noah W. Palm, Erol Fikrig, Aaron M. Ring 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Retraction Notice to: Genomic Decoding of Neuronal Depolarization by Stimulus-Specific NPAS4 Heterodimers](https://www.cell.com/cell/fulltext/S0092-8674(24)00648-2?rss=yes). G. Stefano Brigidi, Michael G.B. Hayes, Nathaniel ..hristopher Benner, Sven Heinz, Brenda L. Bloodgood 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][A pseudoautosomal glycosylation disorder prompts the revision of dolichol biosynthesis](https://www.cell.com/cell/fulltext/S0092-8674(24)00644-5?rss=yes). Matthew P. Wilson, Takfarinas Kentache, Charlotte ..Gert Matthijs, François Foulquier, Guido T. Bommer 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Correction of age-associated defects in dendritic cells enables CD4+ T cells to eradicate tumors](https://www.cell.com/cell/fulltext/S0092-8674(24)00535-X?rss=yes). Dania Zhivaki, Stephanie N. Kennedy, Josh Park, Fr..Orr Ashenberg, Ramnik J. Xavier, Jonathan C. Kagan 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][TNF-NF-κB-p53 axis restricts in vivo survival of hPSC-derived dopamine neurons](https://www.cell.com/cell/fulltext/S0092-8674(24)00575-0?rss=yes). Tae Wan Kim, So Yeon Koo, Markus Riessland, Fayzan..y Mehta, Ralph Garippa, Doron Betel, Lorenz Studer 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Single-molecule imaging reveals the mechanism of bidirectional replication initiation in metazoa](https://www.cell.com/cell/fulltext/S0092-8674(24)00533-6?rss=yes). Riki Terui, Scott E. Berger, Larissa A. Sambel, Dan Song, Gheorghe Chistol 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Modulation of FGF pathway signaling and vascular differentiation using designed oligomeric assemblies](https://www.cell.com/cell/fulltext/S0092-8674(24)00534-8?rss=yes). Natasha I. Edman, Ashish Phal, Rachel L. Redler, T..e, Gira Bhabha, Hannele Ruohola-Baker, David Baker 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][The rate and nature of mitochondrial DNA mutations in human pedigrees](https://www.cell.com/cell/fulltext/S0092-8674(24)00531-2?rss=yes). Erla R. Árnadóttir, Kristján H.S. Moore, Valdís B...ty, Hákon Jónsson, Kári Stefánsson, Agnar Helgason 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][MTFP1 controls mitochondrial fusion to regulate inner membrane quality control and maintain mtDNA levels](https://www.cell.com/cell/fulltext/S0092-8674(24)00526-9?rss=yes). Luis Carlos Tábara, Stephen P. Burr, Michele Friso..s Petkevicius, Patrick F. Chinnery, Julien Prudent 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][The ribotoxic stress response drives UV-mediated cell death](https://www.cell.com/cell/fulltext/S0092-8674(24)00527-0?rss=yes). Niladri K. Sinha, Connor McKenney, Zhong Y. Yeow, ..Cantley, Alban Ordureau, Sergi Regot, Rachel Green 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Discovery of antimicrobial peptides in the global microbiome with machine learning](https://www.cell.com/cell/fulltext/S0092-8674(24)00522-1?rss=yes). Célio Dias Santos-Júnior, Marcelo D.T. Torres, Yiq..Cepas, Cesar de la Fuente-Nunez, Luis Pedro Coelho 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Heterologous survey of 130 DNA transposons in human cells highlights their functional divergence and expands the genome engineering toolbox](https://www.cell.com/cell/fulltext/S0092-8674(24)00516-6?rss=yes). Tongtong Zhang, Shengjun Tan, Na Tang, Yuanqing Li..iang Chen, Baocheng Guo, Haoyi Wang, Yong E. Zhang 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][POT1 recruits and regulates CST-Polα/primase at human telomeres](https://www.cell.com/cell/fulltext/S0092-8674(24)00493-8?rss=yes). Sarah W. Cai, Hiroyuki Takai, Arthur J. Zaug, Teag..ilgen, Thomas R. Cech, Thomas Walz, Titia de Lange 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Clonal hematopoiesis driven by mutated DNMT3A promotes inflammatory bone loss](https://www.cell.com/cell/fulltext/S0092-8674(24)00492-6?rss=yes). Hui Wang, Kimon Divaris, Bohu Pan, Xiaofei Li, Jon..tea, Triantafyllos Chavakis, George Hajishengallis 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][De novo and salvage purine synthesis pathways across tissues and tumors](https://www.cell.com/cell/fulltext/S0092-8674(24)00520-8?rss=yes). Diem H. Tran, Dohun Kim, Rushendhiran Kesavan, Har..ison, Hao Zhu, Ralph J. DeBerardinis, Gerta Hoxhaj 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][A pseudoautosomal glycosylation disorder prompts the revision of dolichol biosynthesis](https://www.cell.com/cell/fulltext/S0092-8674(24)00467-7?rss=yes). Matthew P. Wilson, Takfarinas Kentache, Charlotte ..Gert Matthijs, François Foulquier, Guido T. Bommer 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][A neural circuit for male sexual behavior and reward](https://www.cell.com/cell/fulltext/S0092-8674(24)00591-9?rss=yes). Daniel W. Bayless, Chung-ha O. Davis, Renzhi Yang,..lda Vicente, Jun B. Ding, Liqun Luo, Nirao M. Shah 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Hypothalamic neurons that mirror aggression](https://www.cell.com/cell/fulltext/S0092-8674(24)00590-7?rss=yes). Taehong Yang, Daniel W. Bayless, Yichao Wei, Dan L..DeNardo, Liqun Luo, Shaul Druckmann, Nirao M. Shah 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][A functional cellular framework for sex and estrous cycle-dependent gene expression and behavior](https://www.cell.com/cell/fulltext/S0092-8674(24)00589-0?rss=yes). Joseph R. Knoedler, Sayaka Inoue, Daniel W. Bayles..Charu Ramakrishnan, Karl Deisseroth, Nirao M. Shah 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Periodic Remodeling in a Neural Circuit Governs Timing of Female Sexual Behavior](https://www.cell.com/cell/fulltext/S0092-8674(24)00588-9?rss=yes). Sayaka Inoue, Renzhi Yang, Adarsh Tantry, Chung-ha.., Marc Tessier-Lavigne, Jun B. Ding, Nirao M. Shah 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Limbic Neurons Shape Sex Recognition and Social Behavior in Sexually Naive Males](https://www.cell.com/cell/fulltext/S0092-8674(24)00587-7?rss=yes). Daniel W. Bayless, Taehong Yang, Matthew M. Mason,..ert A.T. Susanto, Alexandra Lobdell, Nirao M. Shah 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][Structure-based discovery of CFTR potentiators and inhibitors](https://www.cell.com/cell/fulltext/S0092-8674(24)00472-0?rss=yes). Fangyu Liu, Anat Levit Kaplan, Jesper Levring, Jür.. Irwin, Peter Gmeiner, Brian K. Shoichet, Jue Chen 	20240601
+
+  - \[[cell-inpress](https://www.cell.com/archive?publicationCode=cell&rss=yes)\][A vision for global eDNA-based monitoring in a changing world](https://www.cell.com/cell/fulltext/S0092-8674(24)00444-6?rss=yes). Philip Francis Thomsen, Mads Reinholdt Jensen, Eva Egelyng Sigsgaard 	20240601
 
 
-### Cell
+### cell-current
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Wonder and awe: Developmental biology inspires](https://www.cell.com/cell/fulltext/S0092-8674(24)00586-5?rss=yes). The  Editorial team 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Parsing patterns: Emerging roles of tissue self-organization in health and disease](https://www.cell.com/cell/fulltext/S0092-8674(24)00525-7?rss=yes). Raul Ramos, Benjamin Swedlund, Anand K. Ganesan, L..hur D. Lander, Cheng-Ming Chuong, Maksim V. Plikus 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][When boundaries benefit science and society](https://www.cell.com/cell/fulltext/S0092-8674(24)00585-3?rss=yes). Amander T. Clark, Janet Rossant, Robin Lovell-Badge 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Toward developing human organs via embryo models and chimeras](https://www.cell.com/cell/fulltext/S0092-8674(24)00536-1?rss=yes). Jun Wu, Jianping Fu 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Dynamic models of human development and concepts of the individual](https://www.cell.com/cell/fulltext/S0092-8674(24)00537-3?rss=yes). Insoo Hyun 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Developmental and stem cell biology’s bright future](https://www.cell.com/cell/fulltext/S0092-8674(24)00581-6?rss=yes). Jennifer Lewis, Melina Schuh, Jacob H. Hanna, Magd..ti, Zhen Liu, Nicoletta I. Petridou, Sasha Mendjan 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Shinya Yamanaka](https://www.cell.com/cell/fulltext/S0092-8674(24)00584-1?rss=yes). Shinya Yamanaka 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Gut microbiome ecological topology as next-generation biomarkers for cancer immunotherapy](https://www.cell.com/cell/fulltext/S0092-8674(24)00470-7?rss=yes). Lijun Ning, Jie Hong 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][A brainstem maestro conducting the somatic and autonomic motor symphony](https://www.cell.com/cell/fulltext/S0092-8674(24)00528-2?rss=yes). Xiaolin Huang, Yang Dan 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Massively parallel in vivo Perturb-seq reveals cell-type-specific transcriptional networks in cortical development](https://www.cell.com/cell/fulltext/S0092-8674(24)00476-8?rss=yes). Xinhe Zheng, Boli Wu, Yuejia Liu, Sean K. Simmons,.., Zhuhao Wu, Xiangmin Xu, Joshua Z. Levin, Xin Jin 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Rapid DNA unwinding accelerates genome editing by engineered CRISPR-Cas9](https://www.cell.com/cell/fulltext/S0092-8674(24)00457-4?rss=yes). Amy R. Eggers, Kai Chen, Katarzyna M. Soczek, Owen..ney W. Thornton, Peter H. Yoon, Jennifer A. Doudna 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][RNA quality control factors nucleate Clr4/SUV39H and trigger constitutive heterochromatin assembly](https://www.cell.com/cell/fulltext/S0092-8674(24)00468-9?rss=yes). Jasbeer S. Khanduja, Richard I. Joh, Monica M. Per.. Gulka, Willhelm Haas, Steven P. Gygi, Mo Motamedi 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Capturing totipotency in human cells through spliceosomal repression](https://www.cell.com/cell/fulltext/S0092-8674(24)00519-1?rss=yes). Shiyu Li, Min Yang, Hui Shen, Li Ding, Xuehui Lyu, Kexin Lin, Jennie Ong, Peng Du 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][FilamentID reveals the composition and function of metabolic enzyme polymers during gametogenesis](https://www.cell.com/cell/fulltext/S0092-8674(24)00452-5?rss=yes). Jannik Hugener, Jingwei Xu, Rahel Wettstein, Lydia..ber, Adrian Henggeler, Joao Matos, Martin Pilhofer 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Reciprocal conversion between annual and polycarpic perennial flowering behavior in the Brassicaceae](https://www.cell.com/cell/fulltext/S0092-8674(24)00473-2?rss=yes). Dong Zhai, Lu-Yi Zhang, Ling-Zi Li, Zhou-Geng Xu, ..ng, Bo Zhao, Jian Gao, Fu-Xiang Wang, Jia-Wei Wang 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Evolution of diapause in the African turquoise killifish by remodeling the ancient gene regulatory landscape](https://www.cell.com/cell/fulltext/S0092-8674(24)00474-4?rss=yes). Param Priya Singh, G. Adam Reeves, Kévin Contrepoi..berger, Chi-Kuo Hu, Michael P. Snyder, Anne Brunet 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Minimal and hybrid hydrogenases are active from archaea](https://www.cell.com/cell/fulltext/S0092-8674(24)00573-7?rss=yes). Chris Greening, Princess R. Cabotaje, Luis E. Vale.., Anja Spang, Jillian F. Banfield, Gustav Berggren 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Custom scoring based on ecological topology of gut microbiota associated with cancer immunotherapy outcome](https://www.cell.com/cell/fulltext/S0092-8674(24)00538-5?rss=yes). Lisa Derosa, Valerio Iebba, Carolina Alves Costa S..a, Jérôme Wojcik, Guido Kroemer, Laurence Zitvogel 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][ARID1A suppresses R-loop-mediated STING-type I interferon pathway activation of anti-tumor immunity](https://www.cell.com/cell/fulltext/S0092-8674(24)00451-3?rss=yes). Matthew B. Maxwell, Marianne S. Hom-Tedla, Jawoon ..ald S. Shadel, Susan M. Kaech, Diana C. Hargreaves 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Osr2 functions as a biomechanical checkpoint to aggravate CD8+ T cell exhaustion in tumor](https://www.cell.com/cell/fulltext/S0092-8674(24)00448-3?rss=yes). Jinjia Zhang, Junhong Li, Yongqiang Hou, Yao Lin, .., Bailong Xiao, Lilin Ye, Lanfen Chen, Dawang Zhou 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Spinal projecting neurons in rostral ventromedial medulla co-regulate motor and sympathetic tone](https://www.cell.com/cell/fulltext/S0092-8674(24)00447-1?rss=yes). Zicong Zhang, Junfeng Su, Jing Tang, Leeyup Chung,.. Wang, Chinfei Chen, Michael J. Prerau, Zhigang He 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][DNA-based ForceChrono probes for deciphering single-molecule force dynamics in living cells](https://www.cell.com/cell/fulltext/S0092-8674(24)00517-8?rss=yes). Yuru Hu, Hongyun Li, Chen Zhang, Jingjing Feng, We..en, Miao Yu, Xinping Liu, Xinghua Zhang, Zheng Liu 	20240601
+
+  - \[[cell-current](https://www.cell.com/current?publicationCode=cell&rss=yes)\][Human inherited CCR2 deficiency underlies progressive polycystic lung disease](https://www.cell.com/cell/fulltext/S0092-8674(24)00530-0?rss=yes). Anna-Lena Neehus, Brenna Carey, Marija Landekic, P..rapnell, Jean-Laurent Casanova, Jacinta Bustamante 	20240601
 
 
 ### NatBiotechnol
@@ -815,10 +937,218 @@
   - \[[CurrOpinPlantBiol](https://www.sciencedirect.com/journal/current-opinion-in-plant-biology)\][Editorial Board](https://www.sciencedirect.com/science/article/pii/S1369526624000724?dgcid=rss_sd_all).  	20240601
 
 
-### MolPlant
+### molecular-plant-inpress
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][A near-complete cucumber reference genome assembly and Cucumber-DB, a multi-omics database](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00192-8?rss=yes). Jiantao Guan, Han Miao, Zhonghua Zhang, Shaoyun Do..eckles, Xingfang Gu, Sanwen Huang, Shengping Zhang 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][Phenotyping floral attractiveness to pollinators using volatilomics, 3D-imaging and insect monitoring](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00191-6?rss=yes). Filip Slavković, Adnane Boualem, Catherine Dogimont, Abdelhafid Bendahmane 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][Stabilization or degradation? Post-translational modifications of JAZ proteins in plants](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00190-4?rss=yes). Xiaoyan Xu, Jianping Hu, Zheng Yuan 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][Mixing and matching SMXL proteins to fine-tune strigolactone responses](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00189-8?rss=yes). Jenna E. Hountalas, Shelley Lumba 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][Movement of ACC oxidase 3 mRNA from seeds to flesh promotes fruit ripening in apple](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00188-6?rss=yes). Ting Wang, Yi Zheng, Chen Xu, Yulin Deng, Xinyi Ha..ian, Yi Wang, Xinzhong Zhang, Zhenhai Han, Ting Wu 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][CONSTANS alters the circadian clock in Arabidopsis thaliana](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00186-2?rss=yes). Pedro de los Reyes, Gloria Serrano-Bueno, Francisc..Campero, He Gao, Jose M. Romero, Federico Valverde 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][Progressive meristem and single-cell transcriptomes reveal the regulatory mechanisms underlying maize inflorescence development and sex differentiation](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00187-4?rss=yes). Yonghao Sun, Liang Dong, Lu Kang, Wanshun Zhong, David Jackson, Fang Yang 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][Doubled Haploid Technology and Synthetic Apomixis: Recent Advances and Applications in Future Crop Breeding](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00185-0?rss=yes). Yanzhi Qu, Alisdair R. Fernie, Jie Liu, Jianbing Yan 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][The jasmonate pathway promotes nodule symbiosis and suppresses host plant defense in Medicago truncatula](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00184-9?rss=yes). Da Guo, Jingrui Li, Peng Liu, Yuzhan Wang, Na Cao, Xiangling Fang, Tao Wang, Jiangli Dong 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][Nuclear transport receptors underpin plastidial retrograde signaling](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00183-7?rss=yes). Min Jia, Yangnan Gu 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][Guardian of the rice: Unveiling OsSSP1 for broad-spectrum disease resistance](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00182-5?rss=yes). You-Jin Lim, Yong-Hwan Lee 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][Recurrent evolution of seaweed body plan complexity among photosynthetic eukaryotes](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00181-3?rss=yes). Elisa S. Goldbecker, Iker Irisarri, Jan de Vries 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][Plastid engineering with an efficient RNAi delivery system based on bacteriophage MS2 virus-like particles enhances plant resistance to cotton bollworm](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00180-1?rss=yes). Chunmei Jiang, Jinqiu Fu, Fujun Li, Kai Xia, Shengchun Li, Ling Chang, Ralph Bock, Jiang Zhang 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][The biosynthetic pathway of the hallucinogen mescaline and its heterologous reconstruction](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00179-5?rss=yes). Paula Berman, Luis Alejandro de Haro, Ana-Rita Cav.. Heinig, Sagit Meir, Ilana Rogachev, Asaph Aharoni 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][ITPK1 is an InsP6/ADP phosphotransferase that controls phosphate signaling in Arabidopsis](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00152-7?rss=yes). Esther Riemer, Danye Qiu, Debabrata Laha, Robert K..ning J. Jessen, Gabriel Schaaf, Ricardo F.H. Giehl 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][Two MADS-box proteins, AGL9 and AGL15, recruit the FIS-PRC2 complex to trigger the phase transition from endosperm proliferation to embryo development in Arabidopsis](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00178-3?rss=yes). Shen Zhang, Devasantosh Mohanty, Adnan Muzaffar, Min Ni 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][Dynamic modulation of nodulation factor receptor levels by phosphorylation-mediated functional switch of a RING-type E3 ligase during legume nodulation](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00177-1?rss=yes). Hao Li, Yajuan Ou, Jidan Zhang, Kui Huang, Ping Wu, Xiaoli Guo, Hui Zhu, Yangrong Cao 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][Embracing substrate multispecificity in plant ABC transporters](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00176-X?rss=yes). Markus M. Geisler 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][Plant triterpenoid saponins function as susceptibility factors to promote the pathogenicity of Botrytis cinerea](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00156-4?rss=yes). Francisco J. Escaray, Amelia Felipo-Benavent, Cris..goña Balaguer, Maria Pilar Lopez-Gresa, Pablo Vera 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][Non-transcriptional regulatory activity of SMAX1 and SMXL2 mediates karrikin-regulated seedling response to red light in Arabidopsis](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00155-2?rss=yes). Wenwen Chang, Qiao Qiao, Qingtian Li, Xin Li, Yany..ng, Yingchun Wang, Jiayang Li, Bing Wang, Lei Wang 	20240601
+
+  - \[[molecular-plant-inpress](https://www.cell.com/archive?publicationCode=molp&rss=yes)\][A k-mer-based pangenome approach for cataloging seed-storage-protein genes in wheat to facilitate genotype-to-phenotype prediction and improvement of end-use quality](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00154-0?rss=yes). Zhaoheng Zhang, Dan Liu, Binyong Li, Wenxi Wang, J..g, Zhongfu Ni, Qixin Sun, Weilong Guo, Yingyin Yao 	20240601
 
 
-### CurrBiol
+### molecular-plant-current
+
+  - \[[molecular-plant-current](https://www.cell.com/current?publicationCode=molp&rss=yes)\][Dt1-SWEET10a partner: Photoperiodic control of seed weight in soybean](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00124-2?rss=yes). Li-Qing Chen, Lalit Dev Tiwari 	20240601
+
+  - \[[molecular-plant-current](https://www.cell.com/current?publicationCode=molp&rss=yes)\][GRP7 phase separation as an interpreter of temperature cues](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00123-0?rss=yes). Sunita Pathak, Lucia C. Strader 	20240601
+
+  - \[[molecular-plant-current](https://www.cell.com/current?publicationCode=molp&rss=yes)\][Polycomb and trithorax: Their yin-yang dynamics in plants](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00153-9?rss=yes). Fan Xu, Daolei Zhang, Liang Le, Li Pu 	20240601
+
+  - \[[molecular-plant-current](https://www.cell.com/current?publicationCode=molp&rss=yes)\][Satellite-enabled enviromics to enhance crop improvement](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00118-7?rss=yes). Rafael T. Resende, Lee Hickey, Cibele H. Amaral, Lucas L. Peixoto, Gustavo E. Marcatti, Yunbi Xu 	20240601
+
+  - \[[molecular-plant-current](https://www.cell.com/current?publicationCode=molp&rss=yes)\][Evolutionary genomics of climatic adaptation and resilience to climate change in alfalfa](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00126-6?rss=yes). Fan Zhang, Ruicai Long, Zhiyao Ma, Hua Xiao, Xiaod..i Kang, Zhiwu Zhang, Yongfeng Zhou, Qingchuan Yang 	20240601
+
+  - \[[molecular-plant-current](https://www.cell.com/current?publicationCode=molp&rss=yes)\][Activation of stress-response genes by retrograde signaling-mediated destabilization of nuclear importin IMPα-9 and its interactor TPR2](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00121-7?rss=yes). Liping Zeng, Maria Fernanda Gomez Mendez, Jingzhe .., Hao Chen, Brandon Le, Haiyan Ke, Katayoon Dehesh 	20240601
+
+  - \[[molecular-plant-current](https://www.cell.com/current?publicationCode=molp&rss=yes)\][OsPRMT6a-mediated arginine methylation of OsJAZ1 regulates jasmonate signaling and spikelet development in rice](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00127-8?rss=yes). Kun Dong, Fuqing Wu, Siqi Cheng, Shuai Li, Feng Zh..ng-Lei Yang, Qibing Lin, Zhijun Cheng, Jianmin Wan 	20240601
+
+  - \[[molecular-plant-current](https://www.cell.com/current?publicationCode=molp&rss=yes)\][Histological and single-nucleus transcriptome analyses reveal the specialized functions of ligular sclerenchyma cells and key regulators of leaf angle in maize](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00149-7?rss=yes). Qibin Wang, Qiuyue Guo, Qingbiao Shi, Hengjia Yang..ong, Haisen Zhang, Pinghua Li, Bosheng Li, Gang Li 	20240601
+
+  - \[[molecular-plant-current](https://www.cell.com/current?publicationCode=molp&rss=yes)\][The RNA binding protein EHD6 recruits the m6A reader YTH07 and sequesters OsCOL4 mRNA into phase-separated ribonucleoprotein condensates to promote rice flowering](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00150-3?rss=yes). Song Cui, Peizhe Song, Chaolong Wang, Saihua Chen,..iyang Wang, Guifang Jia, Shirong Zhou, Jianmin Wan 	20240601
+
+  - \[[molecular-plant-current](https://www.cell.com/current?publicationCode=molp&rss=yes)\][A circular single-stranded DNA mycovirus infects plants and confers broad-spectrum fungal resistance](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00151-5?rss=yes). Xianhong Wang, Ioly Kotta-Loizou, Robert H.A. Cout..huang Guo, Mengmeng Yang, Wenxing Xu, Guoping Wang 	20240601
+
+  - \[[molecular-plant-current](https://www.cell.com/current?publicationCode=molp&rss=yes)\][WTV2.0: A high-coverage plant volatilomics method with a comprehensive selective ion monitoring acquisition mode](https://www.cell.com/molecular-plant/fulltext/S1674-2052(24)00125-4?rss=yes). Honglun Yuan, Yiding Jiangfang, Zhenhuan Liu, Rong..u Huang, Xianqing Liu, Alisdair R. Fernie, Jie Luo 	20240601
+
+
+### current-biology-inpress
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][A ventral pallidal-thalamocortical circuit mediates the cognitive control of instrumental action](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00763-2?rss=yes). Beatrice K. Leung, Billy Chieng, Serena Becchi, Bernard W. Balleine 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Gap-junction-mediated bioelectric signaling required for slow muscle development and function in zebrafish](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00759-0?rss=yes). Rachel M. Lukowicz-Bedford, Judith S. Eisen, Adam C. Miller 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Tonically active GABAergic neurons in the dorsal periaqueductal gray control instinctive escape in mice](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00745-0?rss=yes). A. Vanessa Stempel, Dominic A. Evans, Oriol Pavón ..zi, Elena Kutsarova, Troy W. Margrie, Tiago Branco 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Impaired photoacclimation in a kleptoplastidic dinoflagellate reveals physiological limits of early stages of endosymbiosis](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00743-7?rss=yes). Sarah Garric, Morgane Ratin, Dominique Marie, Vale.., Ian Probert, Francisco Rodriguez, Christophe Six 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Dopamine neurons drive spatiotemporally heterogeneous striatal dopamine signals during learning](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00746-2?rss=yes). Liv Engel, Amy R. Wolff, Madelyn Blake, Val L. Collins, Sonal Sinha, Benjamin T. Saunders 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Rapid evolutionary tuning of endospore quantity versus quality trade-off via a phase-variable contingency locus](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00744-9?rss=yes). Tom Dongmin Kim, Sadhana Khanal, Leonard E. Bäcker..ickx, Chris Michiels, Jorge Duitama, Abram Aertsen 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Global patterns and drivers of buzzing bees and poricidal plants](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00742-5?rss=yes). Avery L. Russell, Stephen L. Buchmann, John S. Asc.., Diana D. Jolles, Michael C. Orr, Alice C. Hughes 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][A symbiont fungal effector relocalizes a plastidic oxidoreductase to nuclei to induce resistance to pathogens and salt stress](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00741-3?rss=yes). Yingqi Zhang, Ziran Yang, Yang Yang, Aiping Han, L..ng Liu, Yuling Meng, Patrick Schäfer, Weixing Shan 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Prediction of sensorimotor contingencies generates saccadic omission](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00740-1?rss=yes). Antonella Pomè, Nadine Schlichting, Clara Fritz, Eckart Zimmermann 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Bats integrate multiple echolocation and flight tactics to track prey](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00739-5?rss=yes). Nozomi Nishiumi, Emyo Fujioka, Shizuko Hiryu 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][A multifaceted kinase axis regulates plant organ abscission through conserved signaling mechanisms](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00700-0?rss=yes). Sergio Galindo-Trigo, Virendrasinh Khandare, Mark .. Borst, Elwira Smakowska-Luzan, Melinka A. Butenko 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][The geometry of interpersonal synchrony in human dance](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00698-5?rss=yes). Félix Bigand, Roberta Bianco, Sara F. Abalde, Giacomo Novembre 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Temporal information in the anterior cingulate cortex relates to accumulated experiences](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00688-2?rss=yes). Ryan A. Wirt, Talha K. Soluoku, Ryan M. Ricci, Jeremy K. Seamans, James M. Hyman 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Time-mapping and future-oriented behavior in free-ranging wild fruit bats](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00689-4?rss=yes). Lee Harten, Xing Chen, Lior de Marcas, Adi Rachum,..aya Fenigstein Levi, Shira Rosencwaig, Yossi Yovel 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][The synergy between protected area effectiveness and economic growth](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00687-0?rss=yes). Binbin V. Li, Shuyao Wu, Stuart L. Pimm, Jingbo Cui 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Hyperpolarization-activated currents drive neuronal activation sequences in sleep](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00691-2?rss=yes). Dhruv Mehrotra, Daniel Levenstein, Adrian J. Duszk..m A. Booker, Angelika Kwiatkowska, Adrien Peyrache 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Evolution of paralogous multicomponent systems for site-specific O-sialylation of flagellin in Gram-negative and Gram-positive bacteria](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00701-2?rss=yes). Jovelyn Unay, Nicolas Kint, Patrick H. Viollier 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Resource allocation strategies and mechanical constraints drive the diversification of stick and leaf insect eggs](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00685-7?rss=yes). Romain P. Boisseau, H. Arthur Woods 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Deciphering social traits and pathophysiological conditions from natural behaviors in common marmosets](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00676-6?rss=yes). Takaaki Kaneko, Jumpei Matsumoto, Wanyi Lu, Xinche..ki, Hisao Nishijo, Ken-ichi Inoue, Masahiko Takada 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Neural Correlates of the Conscious Perception of Visual Location Lie Outside Visual Cortex](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00816-9?rss=yes). Sirui Liu, Qing Yu, Peter U. Tse, Patrick Cavanagh 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Coinfecting phages impede each other’s entry into the cell](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00675-4?rss=yes). Thu Vu Phuc Nguyen, Yuchen Wu, Tianyou Yao, Jimmy ... Trinh, Lanying Zeng, Yann R. Chemla, Ido Golding 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Long days induce adaptive secondary dormancy in the seeds of the Mediterranean plant Aethionema arabicum](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00686-9?rss=yes). Zsuzsanna Mérai, Kai Graeber, Fei Xu, Mattia Donà,..bner-Metzger, Ortrun Mittelsten Scheid, Liam Dolan 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Pheromone representation in the ant antennal lobe changes with age](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00674-2?rss=yes). Taylor Hart, Lindsey E. Lopes, Dominic D. Frank, Daniel J.C. Kronauer 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Experimental recreationist noise alters behavior and space use of wildlife](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00673-0?rss=yes). Katherine A. Zeller, Mark A. Ditmer, John R. Squir.. Chris A. Wang, Jacinta Plucinski, Jesse R. Barber 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Chromatin-associated cohesin turns over extensively and forms new cohesive linkages in Drosophila oocytes during meiotic prophase](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00677-8?rss=yes). Muhammad A. Haseeb, Katherine A. Weng, Sharon E. Bickel 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Brown planthoppers manipulate rice sugar transporters to benefit their own feeding](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00671-7?rss=yes). Lingyuan Yu, Yumeng Chen, Xuan Zeng, Yonggen Lou, Ian T. Baldwin, Ran Li 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Soft-tissue fossilization illuminates the stepwise evolution of the ray-finned fish brain](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00670-5?rss=yes). Rodrigo T. Figueroa, Luiz Carlos Weinschütz, Sam Giles, Matt Friedman 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][A new interpretation of Pikaia reveals the origins of the chordate body plan](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00669-9?rss=yes). Giovanni Mussini, M. Paul Smith, Jakob Vinther, Im..n J.E. Murdock, David A.T. Harper, Frances S. Dunn 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Mechanosensory bristles mediate avoidance behavior by triggering sustained local motor activity in Drosophila melanogaster](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00664-X?rss=yes). Alexandra M. Medeiros, Anna F. Hobbiss, Gonçalo Borges, Marta Moita, César S. Mendes 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Ecological diversification of a cyanobacterium through divergence of its novel chlorophyll d-based light-harvesting system](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00665-1?rss=yes). Nikea J. Ulrich, Gaozhong Shen, Donald A. Bryant, Scott R. Miller 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Prefrontal cortical ripples mediate top-down suppression of hippocampal reactivation during sleep memory consolidation](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00616-X?rss=yes). Justin D. Shin, Shantanu P. Jadhav 	20240601
+
+  - \[[current-biology-inpress](https://www.cell.com/archive?publicationCode=curbio&rss=yes)\][Viral infection disrupts intestinal homeostasis via Sting-dependent NF-κB signaling in Drosophila](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00607-9?rss=yes). Jared C. Nigg, Mauro Castelló-Sanjuán, Hervé Blanc..avier Godron, Allison J. Bardin, Maria-Carla Saleh 	20240601
+
+
+### current-biology-current
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][When raptors soar no more](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00736-X?rss=yes). Michael Gross 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Chris Stringer](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00663-8?rss=yes). Chris Stringer 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Engrams](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00605-5?rss=yes). Paul W. Frankland, Sheena A. Josselyn, Stefan Köhler 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Oldest southern sauropterygian reveals early marine reptile globalization](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00375-0?rss=yes). Benjamin P. Kear, Aubrey J. Roberts, George Young,..iel J. Mantle, Isaias Santos Barros, Jørn H. Hurum 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Insect ecology: Tracking migratory butterflies through pollen](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00600-6?rss=yes). David G. James 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Chromosome segregation: Brushing up on centromeres](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00587-6?rss=yes). Kerry Bloom 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Limb coordination: Coming together to bounce along](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00610-9?rss=yes). Scott L. Hooper 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Ecology: Operationalize biodiversity theory](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00588-8?rss=yes). Nico Eisenhauer 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][RNA: De-silencing to the rescue](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00609-2?rss=yes). James P. Held, Maulik R. Patel 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Symbiosis: Aquatic apicomplexans shedding light on disguised associations](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00601-8?rss=yes). Harald Gruber-Vodicka, Henry Berndt, Igor Duarte 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Coral-reef ecology: Expanding urchin disease threatens ecosystem balance](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00602-X?rss=yes). Mya Breitbart, Ian Hewson 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Mitochondrial biology: Unique membrane remodeling from the matrix](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00608-0?rss=yes). Jason A. Mears 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Evolution: Bridging the sabertooth gap(e)](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00615-8?rss=yes). Borja Figueirido 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Cascading social-ecological benefits of biodiversity for agriculture](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00599-2?rss=yes). Nian-Feng Wan, Matteo Dainese, Yu-Quan Wang, Michel Loreau 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Cooperative transport in sea star locomotion](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00382-8?rss=yes). Theodora Po, Eva Kanso, Matthew J. McHenry 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Global insect herbivory and its response to climate change](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00536-0?rss=yes). Mu Liu, Peixi Jiang, Jonathan M. Chase, Xiang Liu 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Coincident development and synchronization of sleep-dependent delta in the cortex and medulla](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00574-8?rss=yes). Midha Ahmad, Jangjin Kim, Brett Dwyer, Greta Sokoloff, Mark S. Blumberg 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Global distribution and environmental correlates of marine bioturbation](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00575-X?rss=yes). Shuang Zhang, Martin Solan, Lidya Tarhan 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Ancient genomes revealed the complex human interactions of the ancient western Tibetans](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00581-5?rss=yes). Fan Bai, Yichen Liu, Shargan Wangdue, Tianyi Wang,..o, Yan Tong, Tinley Tsring, Zehui Chen, Qiaomei Fu 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][A dynamin superfamily-like pseudoenzyme coordinates with MICOS to promote cristae architecture](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00468-8?rss=yes). Abhishek Kumar, Mehmet Oguz Gok, Kailey N. Nguyen,..deman, Sergio A. Muñoz-Gómez, Jonathan R. Friedman 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Gut tumors in flies alter the taste valence of an anti-tumorigenic bitter compound](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00594-3?rss=yes). Nicole Y. Leung, Chiwei Xu, Joshua Shing Shun Li, ..T. Breault, Xi He, Norbert Perrimon, Craig Montell 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Eukaryotic genomic data uncover an extensive host range of mirusviruses](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00598-0?rss=yes). Hongda Zhao, Lingjie Meng, Hiroyuki Hikida, Hiroyuki Ogata 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][A noradrenergic pathway for the induction of pain by sleep loss](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00603-1?rss=yes). Qianqian Lou, Hong-Rui Wei, Danyang Chen, Yuzhuo Z..g, Sen Qun, Di Wang, Yanli Luo, Zhi Zhang, Yan Jin 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][A subiculum-hypothalamic pathway functions in dynamic threat detection and memory updating](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00604-3?rss=yes). Juliette M.A. Viellard, Fernando F. Melleu, Alicia..o A. Oliveira, Simone C. Motta, Newton S. Canteras 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][A dynamic network model predicts the phenotypes of multicellular clusters from cellular properties](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00612-2?rss=yes). Piyush Nanda, Julien Barrere, Thomas LaBar, Andrew W. Murray 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Pollen metabarcoding reveals the origin and multigenerational migratory pathway of an intercontinental-scale butterfly outbreak](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00680-8?rss=yes). Johanna Luise Gorki, Roger López-Mañas, Llorenç Sá..arimon, Roger Vila, Tomasz Suchan, Gerard Talavera 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Mass mortality of diadematoid sea urchins in the Red Sea and Western Indian Ocean](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00531-1?rss=yes). Lachan Roth, Gal Eviatar, Lisa-Maria Schmidt, Mai ..uleiman Abdallah, Jean-Pascal Quod, Omri Bronstein 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Convergence and molecular evolution of floral fragrance after independent transitions to self-fertilization](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00537-2?rss=yes). Natalia Joanna Woźniak, Kevin Sartori, Christian K..osa, Michael Lenhard, Joachim Kopka, Adrien Sicard 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][An extinct north American porcupine with a South American tail](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00582-7?rss=yes). Natasha S. Vitek, Jennifer C. Hoeflich, Isaac Maga.. Granatosky, Richard C. Hulbert, Jonathan I. Bloch 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Stimulation of caudal inferior and middle frontal gyri disrupts planning during spoken interaction](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00592-X?rss=yes). Gregg A. Castellucci, Christopher K. Kovach, Farha..hristianson, Jeremy D.W. Greenlee, Michael A. Long 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][CMTR-1 RNA methyltransferase mutations activate widespread expression of a dopaminergic neuron-specific mitochondrial complex I gene](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00593-1?rss=yes). Joshua D. Meisel, Presli P. Wiesenthal, Vamsi K. Mootha, Gary Ruvkun 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Variations in touch representation in the hummingbird and zebra finch forebrain](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00595-5?rss=yes). Andrea H. Gaede, Pei-Hsuan Wu, Duncan B. Leitch 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][A new and widespread group of fish apicomplexan parasites](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00597-9?rss=yes). Anthony M. Bonacolta, Joana Krause-Massaguer, Nico J. Smit, Paul C. Sikkel, Javier del Campo 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Ciliary intrinsic mechanisms regulate dynamic ciliary extracellular vesicle release from sensory neurons](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00613-4?rss=yes). Juan Wang, Josh Saul, Inna A. Nikonorova, Carlos N..wer, Ken C. Nguyen, David H. Hall, Maureen M. Barr 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][The rise of pelagic sharks and adaptive evolution of pectoral fin morphology during the Cretaceous](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00614-6?rss=yes). Phillip C. Sternes, Lars Schmitz, Timothy E. Higham 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Maternal investment evolves with larger body size and higher diversification rate in sharks and rays](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00617-1?rss=yes). Christopher G. Mull, Matthew W. Pennell, Kara E. Yopak, Nicholas K. Dulvy 	20240601
+
+  - \[[current-biology-current](https://www.cell.com/current?publicationCode=curbio&rss=yes)\][Altering arabinans increases Arabidopsis guard cell flexibility and stomatal opening](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00678-X?rss=yes). Sarah Carroll, Sam Amsbury, Clinton H. Durney, Ric..ichard J. Morris, Julie E. Gray, Andrew J. Fleming 	20240601
 
 
 ### MolBiolEvol
@@ -2419,7 +2749,166 @@
   - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][Structural insights into the unusual core photocomplex from a triply extremophilic purple bacterium, Halorhodospira halochloris](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13628?af=R). Chen‐Hui Qi, Guang‐Lei Wang, Fang‐Fang Wang, Ji..ihiro Kimura, Zheng‐Yu Wang‐Otomo, Long‐Jiang Yu 	20240601
 
 
-### PlantCommun
+### plant-communications-inpress
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][TWAS facilitates gene-scale trait genetic dissection through gene expression, structural variations, and alternative splicing in soybean](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00327-4?rss=yes). Delin Li, Qi Wang, Yu Tian, Xiangguang Lyv, Hao Zh..nable, James C. Schnable, Ying-Hui Li, Li-Juan Qiu 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][lcQTH: rapid quantitative trait mapping through tracing parental haplotype with ultra-low-coverage sequencing](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00325-0?rss=yes). Wenxi Wang, Zhe Chen, Zhengzhao Yang, Zihao Wang, ..eng, Zhenqi Su, Zhongfu Ni, Qixin Sun, Weilong Guo 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Molecular mechanisms underlying negative effects of transient heatwaves on crop fertility](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00326-2?rss=yes). Qian Yao, Ping Li, Xin Wang, Shuhua Liao, Pu Wang, Shoubing Huang 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Green apple production delivers environmental and economic benefits in China](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00323-7?rss=yes). Di Liu, Jiuliang Xu, Xuexian Li, Fusuo Zhang 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Suppression of host plant defense by bacterial small RNAs packaged in outer membrane vesicles](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00321-3?rss=yes). Yan Wu, Sai Wang, Peihong Wang, Wenhan Nie, Iftikh.. Ahmad, Panagiotis F. Sarris, Gongyou Chen, Bo Zhu 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Leveraging a new thermosensor for heat-smart future agriculture](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00324-9?rss=yes). Ali Raza, Qamar U. Zaman, Zhangli Hu 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][The biosynthesis of asiaticoside and madecassoside reveals a tandem duplication-directed evolution of glycoside glycosyltransferases in the Apiales](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00322-5?rss=yes). Han Xiaoyang, Zhao Jingyi, Zhou Hong, Zhou Xuan, Deng Zixin, Liu Zhenhua, Yu Yi 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][LAZY4 acts additively with the starch–statolith-dependent gravity-sensing pathway to regulate shoot gravitropism and tiller angle in rice](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00213-X?rss=yes). Wenguang Wang, Linzhou Huang, Yuqi Song, Songtao G..angbing Meng, Dali Zeng, Jiayang Li, Yonghong Wang 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][GhATL68b Regulates Cotton Fiber Cell Development by Ubiquitinating the Enzyme Required for β-oxidation of Polyunsaturated Fatty Acids](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00320-1?rss=yes). Xin Li, Gai Huang, Yifan Zhou, Kun Wang, Yuxian Zhu 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Dual-Extraction Modeling: A multimodal deep learning architecture for phenotypic prediction and functional gene mining of complex traits](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00319-5?rss=yes). Yanlin Ren, Chenhua Wu, He Zhou, Xiaona Hu, Zhenyan Miao 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][A KNOX Ⅱ transcription factor suppresses the NLR immune receptor BRG8-mediated immunity in rice](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00318-3?rss=yes). Siliang Xu, Xinghua Wei, Qinqin Yang, Dongxiu Hu, ..ng, Yue Feng, Qun Xu, Mengchen Zhang, Yaolong Yang 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Haplotype-resolved T2T genome assemblies and pangenome graph of pear reveal diverse patterns of allele-specific expression and genomic basis of fruit quality traits](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00317-1?rss=yes). Qionghou Li, Xin Qiao, Lanqing Li, Chao Gu, Hao Yi..g, Loren H. Rieseberg, Shaoling Zhang, Shutian Tao 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][DeepCBA: a deep learning framework for gene expression prediction in maize based on DNA sequence and chromatin interaction](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00293-1?rss=yes). Zhenye Wang, Yong Peng, Jie Li, Jiying Li, Hao Yua..ngjie Xing, Weihan Shi, Jianbing Yan, Jianxiao Liu 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][OsNLP3 enhances grain weight and reduces grain chalkiness in rice](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00315-8?rss=yes). Liang-Qi Sun, Yu Bai, Jie Wu, Shi-Jun Fan, Si-Yan ..ng Xu, Zhong Zhao, Cheng-Bin Xiang, Zi-Sheng Zhang 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Single-cell transcriptome atlases of soybean root and mature nodule reveal new regulatory programs controlling the nodulation process.](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00292-X?rss=yes). Sergio Alan Cervantes-Pérez, Prince Zogli, Sahand ..n, Samik Bhattacharya, Jasper Kläver, Marc Libault 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Streamlined whole-genome genotyping through NGS-enhanced thermal asymmetric interlaced (TAIL)-PCR](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00291-8?rss=yes). Sheng Zhao, Yue Wang, Zhenghang Zhu, Peng Chen, Wu..Lu, Yong Xiang, Yuwen Liu, Qian Qian, Yuxiao Chang 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Brassinosteroid biosynthesis and signaling: Conserved and diversified functions of core genes across multiple plant species](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00290-6?rss=yes). Brian Zebosi, Erik Vollbrecht, Norman B. Best 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][The PRR–EC complex and SWR1 chromatin remodeling complex function cooperatively to represses nighttime hypocotyl elongation by modulating PIF4 expression in Arabidopsis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00289-X?rss=yes). Jin Hoon Won, Jeonghyang Park, Hong Gil Lee, Sangrae Shim, Hongwoo Lee, Eunkyoo Oh, Pil Joon Seo 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][The haplotype-resolved T2T genome assembly of the wild potato species Solanum commersonii provides molecular insights into its freezing tolerance](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00288-8?rss=yes). Yang Feng, Jie Zhou, Dianjue Li, Zhen Wang, Cheng Peng, Guangtao Zhu 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Single-nucleus RNA and ATAC sequencing analyses provide molecular insights into early pod development of peanut fruit](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00287-6?rss=yes). Yuanyuan Cui, Yanning Su, Jianxin Bian, Xue Han, H.., Lihui Li, Tianyu Li, Xing Wang Deng, Xiaoqin Liu 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Single-cell network analysis reveals gene expression programs for Arabidopsis root development and metabolism](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00286-4?rss=yes). Ershang Han, Zhenxing Geng, Yue Qin, Yuewei Wang, Shisong Ma 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][An improved plant prime editor for efficient generation of multiple-nucleotide variations and structural variations in rice](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00284-0?rss=yes). Zhaohui Zhong, Tingting Fan, Yao He, Shishi Liu, X.. Xu, Jingqi Ren, Hua Yuan, Zhengyan Xu, Yong Zhang 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][TrG2P: A transfer-learning-based tool integrating multi-trait data for accurate prediction of crop yield](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00283-9?rss=yes). Jinlong Li, Dongfeng Zhang, Feng Yang, Qiusi Zhang..yun Han, Jinliang Yang, Kaiyi Wang, Chunjiang Zhao 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][A faster killing effect of plastid-mediated RNA interference on a leaf beetle through induced dysbiosis of the gut bacteria](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00282-7?rss=yes). Yiqiu Zhang, Zebin Ke, Letian Xu, Yang Yang, Ling Chang, Jiang Zhang 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Whole-genome resequencing identifies candidate genes and allelic variation in the MdNADP-ME promoter that regulate fruit malate and fructose contents in apple](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00281-5?rss=yes). Weihong Fu, Lin Zhao, Wanjun Qiu, Xu Xu, Meng Ding, Liming Lan, Shenchun Qu, Sanhong Wang 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][The genomes of seven economic Caesalpinioideae trees provide insights into polyploidization history and secondary metabolite biosynthesis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00214-1?rss=yes). Rong Chen, Sihan Meng, Anqi Wang, Fan Jiang, Lihua Yuan, Lihong Lei, Hengchao Wang, Wei Fan 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Genomic variation, environmental adaptation, and feralization in ramie, an ancient fiber crop](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00212-8?rss=yes). Zeng-Yuan Wu, Mark A. Chapman, Jie Liu, Richard I... Monro, Zhi-Peng Li, Richard T. Corlett, De-Zhu Li 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][A single-cell transcriptome atlas reveals the trajectory of early cell fate transition during callus induction in Arabidopsis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00211-6?rss=yes). Ruilian Yin, Ruiying Chen, Keke Xia, Xun Xu 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Leafhopper salivary carboxylesterase suppresses JA-Ile synthesis to facilitate initial arbovirus transmission in rice phloem](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00209-8?rss=yes). Yunhua Chi, Hongxiang Zhang, Siyu Chen, Yu Cheng, ..Dongsheng Jia, Qian Chen, Hongyan Chen, Taiyun Wei 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Diverse nucleotide substitutions in rice base editing mediated by novel TadA variants](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00196-2?rss=yes). Man Yu, Yongjie Kuang, Chenyang Wang, Xuemei Wu, S.., Wenxian Sun, Xueping Zhou, Bin Ren, Huanbin Zhou 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][A rare inter-haplotypic recombination at the S-locus contributed to the loss of self-incompatibility in trifoliate orange](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00210-4?rss=yes). Jianbing Hu, Furong Guo, Zezhen Du, Peng Chen, Chu..iao Jiao, Zongcheng Lin, Maurice Bosch, Lijun Chai 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Clathrin light chains negatively regulate plant immunity by hijacking the autophagy pathway](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00207-4?rss=yes). Hu-Jiao Lan, Jie Ran, Wen-Xu Wang, Lei Zhang, Ni-N..teven A. Whitham, Barbara J. Baker, Jian-Zhong Liu 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][UDP-glucosyltransferase 71C4 controls the flux of phenylpropanoid metabolism to shape cotton seed development](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00208-6?rss=yes). Yiwen Cao, Zegang Han, Zhiyuan Zhang, Lu He, Chuju..an, Sunyi Yan, Zhanfeng Si, Yan Hu, Tianzhen Zhang 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Spatially distributed cytokinins: Metabolism, signaling, and transport](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00206-2?rss=yes). Jiangzhe Zhao, Jingqi Wang, Jie Liu, Penghong Zhang, Guzel Kudoyarova, Chang-Jun Liu, Kewei Zhang 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Complete genome assembly provides insights into the centromere architecture of pumpkin (Cucurbita maxima)](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00205-0?rss=yes). Qingguo Zeng, Minghua Wei, Shuai Li, Haiyan Wang, .., Li Yang, Xinzheng Li, Zhilong Bie, Qiusheng Kong 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Pollen-expressed RLCKs control pollen tube burst](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00204-9?rss=yes). Yin-Jiao Xu, Ting Luo, Peng-Min Zhou, Wei-Qi Wang, Wei-Cai Yang, Hong-Ju Li 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Insights into dammarane-type triterpenoid saponin biosynthesis from the telomere-to-telomere genome of Gynostemma pentaphyllum](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00202-5?rss=yes). Lingling Yun, Chuyi Zhang, Tongtong Liang, Yu Tian..ng Shen, Jianhe Wei, Ying Li, Baolin Guo, Chao Sun 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Pull the fuzes: Processing protein precursors to generate apoplastic danger signals for triggering plant immunity](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00201-3?rss=yes). Daniele Del Corpo, Daniele Coculo, Marco Greco, Giulia De Lorenzo, Vincenzo Lionetti 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][OsPHR2-mediated recruitment of Pseudomonadaceae enhances rice phosphorus uptake](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00200-1?rss=yes). Jianping Liu, Weifeng Xu, Qian Zhang, Wencheng Lia.., Shu Chen, Jinyong Yang, Zhengrui Wang, Feiyun Xu 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Underground communication: Long non-coding RNA signaling in the plant rhizosphere](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00197-4?rss=yes). Muhammad Fahad, Leeza Tariq, Sajid Muhammad, Liang Wu 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][The VAMP-associated protein VAP27-1 plays a crucial role in plant resistance to ER stress by modulating ER–PM contact architecture in Arabidopsis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00199-8?rss=yes). Yi Man, Yue Zhang, Linghui Chen, Junhui Zhou, Yufe..ng, Xiaojuan Li, Yun Li, Yanping Jing, Jinxing Lin 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][BjuIR: A multi-omics database with various tools for accelerating functional genomics research in Brassica juncea](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00195-0?rss=yes). Linna Zhang, Jinyuan Xiao, Congyuan Liang, Yifan C..ng Liu, Zhengjie Wan, Zhiquan Yang, Qing-Yong Yang 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][The NAC056 transcription factor confers freezing tolerance by positively regulating expression of CBFs and NIA1 in Arabidopsis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00193-7?rss=yes). Peipei Xu, Wei Ma, Huafeng Feng, Weiming Cai 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][The PHYB–FOF2–VOZ2 module functions to fine-tune flowering in response to changes in light quality by modulating FLC expression in Arabidopsis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00192-5?rss=yes). Lina Qu, Ming Zhong, Feifei Duan, Xinmei Li, Jiaxi..gying Tang, Reqing He, Xuanming Liu, Xiaoying Zhao 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Telomere-to-telomere genome assemblies of cultivated and wild soybean provide insights into evolution and domestication under structural variation](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00189-5?rss=yes). Kai-Hua Jia, Xiaoyan Zhang, Lei-Lei Li, Tian-Le Sh..Si, Rumei Tian, Zhenya Qian, Hanfeng Ding, Nana Li 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][OsLESV and OsESV1 promote transitory and storage starch biosynthesis to determine rice grain quality and yield](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00135-4?rss=yes). Nannan Dong, Guiai Jiao, Ruijie Cao, Sanfeng Li, S..Shikai Hu, Shaoqing Tang, Xiangjin Wei, Peisong Hu 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][BreedingAIDB: A database integrating crop genome-to-phenotype paired data with machine learning tools applicable to breeding](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00136-6?rss=yes). Zijie Shen, Enhui Shen, Kun Yang, Zuoqian Fan, Qian-Hao Zhu, Longjiang Fan, Chu-Yu Ye 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][ESR2–HDA6 complex negatively regulates auxin biosynthesis to delay callus initiation in Arabidopsis leaf explants during tissue culture](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00134-2?rss=yes). Kyounghee Lee, Hobin Yoon, Ok-Sun Park, Jongbu Lim, Sang-Gyu Kim, Pil Joon Seo 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][The TELOMERE REPEAT BINDING proteins TRB4 and TRB5 function as transcriptional activators of PRC2-controlled genes to regulate plant development](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00132-9?rss=yes). Simon Amiard, Léa Feit, Emmanuel Vanrobays, Lauria..Fredy Barneche, Christophe Tatout, Aline V. Probst 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][A reference-grade genome of the xerophyte Ammopiptanthus mongolicus sheds light on its evolution history in legumes and drought-tolerance mechanisms](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00133-0?rss=yes). Lei Feng, Fei Teng, Na Li, Jia-Cheng Zhang, Bian-J..ai-Ming Ngai, Li-Zhe An, Hon-Ming Lam, Jun-Xian He 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Cotton BLH1 and KNOX6 antagonistically modulate fiber elongation via regulation of linolenic acid biosynthesis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00129-9?rss=yes). Tingting Jia, Huiqin Wang, Shiyan Cui, Zihan Li, Yongcui Shen, Hongbin Li, Guanghui Xiao 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][A predictive model for ethylene-mediated auxin and cytokinin patterning in the Arabidopsis root](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00128-7?rss=yes). Simon Moore, George Jervis, Jennifer F. Topping, Chunli Chen, Junli Liu, Keith Lindsey 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][GWAS unravels acid phosphatase ACP2 as a photosynthesis regulator under phosphate starvation conditions through modulating serine metabolism in rice](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00127-5?rss=yes). Sushuang Liu, Zhan Xu, Jemaa Essemine, Yanmin Liu,..undong Liu, Feixue Zhang, Zubair Iqbal, Mingnan Qu 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Decomposition of dynamic transcriptomic responses during effector-triggered immunity reveals conserved responses in two distinct plant cell populations](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00124-X?rss=yes). Xiaotong Liu, Daisuke Igarashi, Rachel A. Hillmer,..Lu, Kenichi Tsuda, Chad L. Myers, Fumiaki Katagiri 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Engineer and split an efficient hypercompact CRISPR–CasΦ genome editor in plants](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00123-8?rss=yes). Yan Sun, Jianjian Hu, Zhichao Hu, Hejie Zhou, Yuho..ou, Yuqiang Liu, Tingdong Li, Chao Li, Jianmin Wan 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][CCaP1/CCaP2/CCaP3 interact with plasma membrane H+-ATPases and promote thermo-responsive growth by regulating cell wall modification in Arabidopsis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00122-6?rss=yes). Jing-Jing Wang, Juan Gao, Wei Li, Jian-Xiang Liu 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Genomes of Meniocus linifolius and Tetracme quadricornis reveal the ancestral karyotype and genomic features of core Brassicaceae](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00120-2?rss=yes). Jie Liu, Shi-Zhao Zhou, Yun-Long Liu, Bin-Yan Zhao.., Hong-Tao Li, Dun-Yan Tan, Jin-Yong Hu, De-Zhu Li 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][CLAIR: An integrated lipid database across multiple crop species](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00084-1?rss=yes). Bing He, Mengjia Bu, Qiang Lin, Zhengwei Fu, Junhu..nyang Li, Ruonan Li, Wei Hua, Wanfei Liu, Peng Cui 	20240601
+
+  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Chromosome-scale genome assembly-assisted identification of Brassica napus BnDCPA1 for improvement of plant architecture and yield heterosis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00083-X?rss=yes). Chuanji Zhao, Xiaobo Cui, Meili Xie, Yi Zhang, Lin..g, Chaobo Tong, Qiong Hu, Lijiang Liu, Shengyi Liu 	20240601
+
+
+### plant-communications-current
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Efficient heterologous biosynthesis of verazine, a metabolic precursor of the anti-cancer drug cyclopamine, in Nicotiana benthamiana](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00051-8?rss=yes). Chengxi Kou, Jingling Liu, Xue Yin, Di He, Jia Liu, Xin Hua, Rui Ma, Wei Sun, Zheyong Xue, Pengda Ma 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Structural changes in the conversion of an Arabidopsis outward-rectifying K+ channel into an inward-rectifying channel](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00072-5?rss=yes). Xudong Gao, Xia Xu, Tengfei Sun, Yuhan Lu, Yutian .. Jiaqi Zhou, Peng Fu, Yanming Zhang, Guanghui Yang 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Telomere-to-telomere genome assemblies of two Chinese Baijiu-brewing sorghum landraces](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00203-7?rss=yes). Jiandong Bao, Heng Zhang, Fulin Wang, Lin Li, Xuem..n Liu, Guowei Zhai, Heng Xu, Fucheng Lin, Ying Zhu 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][A complete assembly of the sorghum BTx623 reference genome](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00285-2?rss=yes). Yuan Deng, Peng Zhou, Fei Li, Jing Wang, Kun Xie, .., Baoqing Dun, Xiaochun Lu, Xianmin Diao, Qiang He 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Stress Knowledge Map: A knowledge graph resource for systems biology analysis of plant stress responses](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00190-1?rss=yes). Carissa Bleker, Živa Ramšak, Andras Bittner, Vid P.., Markus Teige, Ute C. Vothknecht, Kristina Gruden 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Boosting genome editing in plants with single transcript unit surrogate reporter systems](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00191-3?rss=yes). Xu Tang, Qiurong Ren, Xiaodan Yan, Rui Zhang, Li L..uelian Zheng, Yiping Qi, Hongyuan Song, Yong Zhang 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Sulfated peptides and their receptors: Key regulators of plant development and stress adaptation](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00188-3?rss=yes). Liming He, Liangfan Wu, Jia Li 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Cytochrome P450 CitCYP97B modulates carotenoid accumulation diversity by hydroxylating β-cryptoxanthin in Citrus](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00076-2?rss=yes). Yingzi Zhang, Jiajing Jin, Nan Wang, Quan Sun, Di ..i, Junli Ye, Lijun Chai, Zongzhou Xie, Xiuxin Deng 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Differential leaf flooding resilience in Arabidopsis thaliana is controlled by ethylene signaling-activated and age-dependent phosphorylation of ORESARA1](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00077-4?rss=yes). Tom Rankenberg, Hans van Veen, Mastoureh Sedaghatm..ien A. Stouten, Salma Balazadeh, Rashmi Sasidharan 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][The protein phosphatase qGL3/OsPPKL1 self-regulates its degradation to orchestrate brassinosteroid signaling in rice](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00078-6?rss=yes). Xiuying Gao, Jianbo Li, Jing Yin, Yiheng Zhao, Zho.. Lijuan Ma, Baoyi Zhang, Hongsheng Zhang, Ji Huang 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Plant cuticles repress organ initiation and development during skotomorphogenesis in Arabidopsis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00079-8?rss=yes). Yuru Ma, Wenwen Chang, Yongpeng Li, Jiahui Xu, Yon.., Lei Wang, Yu Sun, Lin Guo, Hao Zhang, Xigang Liu 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Nuclear phylogenomics of Asteraceae with increased sampling provides new insights into convergent morphological and molecular evolution](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00080-4?rss=yes). Guojin Zhang, Junbo Yang, Caifei Zhang, Bohan Jiao..i-Rong Zhang, Lian-Ming Gao, Tiangang Gao, Hong Ma 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Hydrogen peroxide sulfenylates and inhibits the photorespiratory enzyme PGLP1 to modulate plant thermotolerance](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00081-6?rss=yes). Zheng-Wei Fu, Feng Ding, Bing-Lei Zhang, Wen-Cheng.., Shi-Hang Fan, Yu-Rui Feng, Ying-Tang Lu, Wei Hua 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Biosynthetic pathway of prescription cucurbitacin IIa and high-level production of key triterpenoid intermediates in engineered yeast and tobacco](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00055-5?rss=yes). Geng Chen, Zhaokuan Guo, Yanyu Shu, Yan Zhao, Lei ..anze Liu, Shengchao Yang, Guanghui Zhang, Bing Hao 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Genome assembly of autotetraploid Actinidia arguta highlights adaptive evolution and enables dissection of important economic traits](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00085-3?rss=yes). Xue-Mei Lu, Xiao-Fen Yu, Guo-Qiang Li, Ming-Hao Qu..ng, Yongbo Liu, Lei Gao, Jin-Hu Wu, Yan-Chang Wang 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][RETINOBLASTOMA RELATED 1 switches mitosis to meiosis in rice](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00086-5?rss=yes). Yongjie Miao, Hanli You, Huixin Liu, Yangzi Zhao, .. Ding Tang, Baohui Liu, Kewei Zhang, Zhukuan Cheng 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][GhCTSF1, a short PPR protein with a conserved role in chloroplast development and photosynthesis, participates in intron splicing of rpoC1 and ycf3-2 transcripts in cotton](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00087-7?rss=yes). Yuzhu Huo, Mengxue Cheng, Meiju Tang, Meng Zhang, ..Yang, Yating Zheng, Tong Zhao, Peng He, Jianing Yu 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][The MYB transcription factor OsMYBxoc1 regulates resistance to Xoc by directly repressing transcription of the iron transport gene OsNRAMP5 in rice](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00088-9?rss=yes). Haimiao Zhang, Baolong Sun, Wei Wu, Yang Li, Ziyi ..hong Lu, Haipeng Zhao, Lingguang Kong, Xinhua Ding 	20240601
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Functional mechanism study of the allelochemical myrigalone A identifies a group of ultrapotent inhibitors of ethylene biosynthesis in plants](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00075-0?rss=yes). George Heslop-Harrison, Kazumi Nakabayashi, Ana Es..badí, Gerhard Leubner-Metzger, Robin S.B. Williams 	20240601
 
 
 ### PlantJ
