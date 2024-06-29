@@ -1351,24 +1351,22 @@
 
 ### NatlSciRev
 
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Polyoxometalates: metallodrug agents for combating amyloid aggregation](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae226/7701423?rss=1).  Fri, 28 Jun 2024 00:00:00 GM	20240601
+
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Swarming caddisflies in the mid-Cretaceous](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae227/7701419?rss=1).  Fri, 28 Jun 2024 00:00:00 GM	20240601
+
   - \[[NatlSciRev](http://academic.oup.com/nsr)\][Slow Down in China's Methane Emission Growth](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae223/7699878?rss=1).  Wed, 26 Jun 2024 00:00:00 GM	20240601
 
   - \[[NatlSciRev](http://academic.oup.com/nsr)\][Powerful QTL mapping and favorable allele mining in an all-in-one population: a case study of heading date](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae222/7699875?rss=1).  Wed, 26 Jun 2024 00:00:00 GM	20240601
 
   - \[[NatlSciRev](http://academic.oup.com/nsr)\][An ATP-responsive metal-organic framework against periodontitis via synergistic ion-interference-mediated pyroptosis](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae225/7699872?rss=1).  Wed, 26 Jun 2024 00:00:00 GM	20240601
-
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][A novel cathode interphase formation methodology by preferential adsorption of a borate-based electrolyte additive](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae219/7699104?rss=1).  	20240601
-
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Three-dimensional quantum Griffiths singularity in bulk iron-pnictide superconductors](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae220/7699098?rss=1).  	20240601
 
 
 ### NatlSciRev
 
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Slow Down in China's Methane Emission Growth](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae223/7699878?rss=1).  Wed, 26 Jun 2024 00:00:00 GM	20240601
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Polyoxometalates: metallodrug agents for combating amyloid aggregation](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae226/7701423?rss=1).  Fri, 28 Jun 2024 00:00:00 GM	20240601
 
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Powerful QTL mapping and favorable allele mining in an all-in-one population: a case study of heading date](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae222/7699875?rss=1).  Wed, 26 Jun 2024 00:00:00 GM	20240601
-
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][An ATP-responsive metal-organic framework against periodontitis via synergistic ion-interference-mediated pyroptosis](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae225/7699872?rss=1).  Wed, 26 Jun 2024 00:00:00 GM	20240601
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Swarming caddisflies in the mid-Cretaceous](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae227/7701419?rss=1).  Fri, 28 Jun 2024 00:00:00 GM	20240601
 
 
 ### Genetics
@@ -3555,6 +3553,8 @@
 
 ### BioRxivBio
 
+  - \[[BioRxivBio](http://biorxiv.org)\][Nanopore Direct RNA Sequencing Reveals Virus-Induced Changes in the Transcriptional Landscape in Human Bronchial Epithelial Cells](http://biorxiv.org/cgi/content/short/2024.06.26.600852v1?rss=1). Schroeder, S., Wang, D., Booth, J. L., Wu, W., Kig..N., Lettow, M., Bates, A., Pan, C., Metcalf, J. P. 	20240601
+
   - \[[BioRxivBio](http://biorxiv.org)\][Unbiased and comprehensive identification of viral encoded circular RNAs in a large range of viral species and families](http://biorxiv.org/cgi/content/short/2024.06.24.600382v1?rss=1). Chasseur, A. S., Bellefroid, M., Galais, M., Gong,..et, N. A., Muylkens, B., Van Lint, C., Coupeau, D. 	20240601
 
   - \[[BioRxivBio](http://biorxiv.org)\][A machine learning and drug repurposing approach to target ferroptosis in colorectal cancer stratified by sex and KRAS](http://biorxiv.org/cgi/content/short/2024.06.24.600340v1?rss=1). Yan, H., Shen, X., Yao, Y., Khan, S., Ma, S., JOHNSON, C. 	20240601
@@ -3613,10 +3613,12 @@
 
   - \[[BioRxivBio](http://biorxiv.org)\][DirectHRD enables sensitive scar-based classification of homologous recombination deficiency (HRD)](http://biorxiv.org/cgi/content/short/2024.06.21.600073v1?rss=1). Liu, R., Roberts, E., Parsons, H. A., Stover, E. H..D., Liu, J. F., Mayer, E. L., Adalsteinsson, V. A. 	20240601
 
-  - \[[BioRxivBio](http://biorxiv.org)\][ProBASS: a language model with sequence and structural features for predicting the effect of mutations on binding affinity](http://biorxiv.org/cgi/content/short/2024.06.21.600041v1?rss=1). Gurusinghe, S. N. S., Wu, Y., DeGrado, W., Shifman, J. M. 	20240601
-
 
 ### BioRxivGenomInfor
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][A role for condensin-mediator interaction in mitotic chromosomal organization](http://biorxiv.org/cgi/content/short/2024.06.26.600663v1?rss=1). Iwasaki, O., Tashiro, S., Chung, C., Hayashi, T., ..goe, M., Marmorstein, R., Noda, N. N., Noma, K.-i. 	20240601
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Improved BioCyc Operon Prediction: Revisiting theOperon Prediction Problem](http://biorxiv.org/cgi/content/short/2024.06.23.600222v1?rss=1). Midford, P. E., Cadigan, J., Karp, P. D. 	20240601
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Human cancer genomes harbor the mutational signature of tobacco-specific nitrosamines NNN and NNK](http://biorxiv.org/cgi/content/short/2024.06.28.600253v1?rss=1). Korenjak, M., Temiz, N. A., Keita, S. A., Chavanel..nkin, S., Virard, F., Peterson, L. A., Zavadil, J. 	20240601
 
@@ -3673,8 +3675,4 @@
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Female lineages and changing kinship patterns in Neolithic Catalhöyük](http://biorxiv.org/cgi/content/short/2024.06.23.600259v1?rss=1). Yuncu, E., Kucukakdag Dogu, A., Kaptan, D., Kilic,..S., Kirdok, E., Pilloud, M., Larsen, C. S., Haddow 	20240601
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Genetic association data are broadly consistent with stabilizing selection shaping human common diseases and traits](http://biorxiv.org/cgi/content/short/2024.06.19.599789v1?rss=1). Koch, E. M., Connally, N. J., Baya, N. A., Reeve, ..M., Lander, E. S., Bloemendhal, A., Sunyaev, S. R. 	20240601
-
-  - \[[BioRxivGenomInfor](http://biorxiv.org)\][DiffuST: a latent diffusion model for spatial transcriptomics denoising](http://biorxiv.org/cgi/content/short/2024.06.19.599672v1?rss=1). Jiao, S., Lu, D., Zeng, X., Wang, T., Wang, Y., Dong, Y., Peng, J. 	20240601
-
-  - \[[BioRxivGenomInfor](http://biorxiv.org)\][A genome resource for the marine annelid Platynereis dumerilii](http://biorxiv.org/cgi/content/short/2024.06.21.600153v1?rss=1). Mutemi, K. N., Simakov, O., Pan, L., Santangeli, L.. V., Hui, J., Helm, C., Ozpolat, B. D., Arendt, D. 	20240601
 
