@@ -3569,6 +3569,16 @@
 
 ### BioRxivBio
 
+  - \[[BioRxivBio](http://biorxiv.org)\][Deciphering BRCAness Phenotype in Cancer: A Graph Convolutional Neural Network Approach with Layer-wise Relevance Propagation Analysis](http://biorxiv.org/cgi/content/short/2024.06.26.600328v1?rss=1). Yang, J., Chereda, H., Dünitz, J., Bleckmann, A., Beissbarth, T. 	20240601
+
+  - \[[BioRxivBio](http://biorxiv.org)\][AntiCPs-CompML: A Comprehensive Fast Track ML method to predict Anti-Corona Peptides](http://biorxiv.org/cgi/content/short/2024.06.27.601090v1?rss=1). Bist, P. S., Bhattarai, S., Tayara, H., Chong, K. T. 	20240601
+
+  - \[[BioRxivBio](http://biorxiv.org)\][MetaLATTE: Metal Binding Prediction via Multi-Task Learning on Protein Language Model Latents](http://biorxiv.org/cgi/content/short/2024.06.26.600843v1?rss=1). Zhang, Y., He, P., Hsu, A., Chatterjee, P. 	20240601
+
+  - \[[BioRxivBio](http://biorxiv.org)\][InterLabelGO+: Unraveling label correlations in protein function prediction](http://biorxiv.org/cgi/content/short/2024.06.26.600816v1?rss=1). Liu, Q., Zhang, C., Freddolino, L. 	20240601
+
+  - \[[BioRxivBio](http://biorxiv.org)\][RNA-ligand interaction scoring via data perturbation and augmentation modeling](http://biorxiv.org/cgi/content/short/2024.06.26.600802v1?rss=1). Ma, H., Gao, L., Jin, Y., Bai, Y., Liu, X., Bao, P., Liu, K., Xu, Z. Z., Lu, Z. J. 	20240601
+
   - \[[BioRxivBio](http://biorxiv.org)\][KATMAP: Inferring splicing factor activity and regulatory targets from knockdown data](http://biorxiv.org/cgi/content/short/2024.06.25.600605v1?rss=1). McGurk, M. P., McWatters, D. C., Burge, C. B. 	20240601
 
   - \[[BioRxivBio](http://biorxiv.org)\][In silico generation and augmentation of regulatory variants from massively parallel reporter assay using conditional variational autoencoder](http://biorxiv.org/cgi/content/short/2024.06.25.600715v1?rss=1). Jin, W., Xia, Y., Sai, S. R., Liu, Y., Chen, L. 	20240601
@@ -3619,18 +3629,10 @@
 
   - \[[BioRxivBio](http://biorxiv.org)\][EnVhog: an extended view of the viral protein space on Earth](http://biorxiv.org/cgi/content/short/2024.06.25.600602v1?rss=1). Bucio, R. E. P., Enault, F., Galiez, C. 	20240601
 
-  - \[[BioRxivBio](http://biorxiv.org)\][PlantRNA-FM: An Interpretable RNA Foundation Model for Exploration 1 Functional RNA Motifs in Plants](http://biorxiv.org/cgi/content/short/2024.06.24.600509v1?rss=1). Yu, H., Yang, H., Sun, W., Yan, Z., Yang, X., Zhang, H., DING, Y., Li, K. 	20240601
-
-  - \[[BioRxivBio](http://biorxiv.org)\][HyDRA: a pipeline for integrating long- and short-read RNAseq data for custom transcriptome assembly](http://biorxiv.org/cgi/content/short/2024.06.24.600544v1?rss=1). Almeida, I., Lu, X., Edwards, S., Bitar, M., French, J. D. 	20240601
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Semi-Automatic Detection of Errors in Genome-Scale Metabolic Models](http://biorxiv.org/cgi/content/short/2024.06.24.600481v1?rss=1). Moyer, D. C., Reimertz, J., Segre, D., Fuxman Bass, J. I. 	20240601
-
-  - \[[BioRxivBio](http://biorxiv.org)\][ColocZStats: A Z-Stack Signal Colocalization Extension Tool for 3D Slicer](http://biorxiv.org/cgi/content/short/2024.06.23.599080v1?rss=1). Chen, X., Thakur, T., Jeyasekharan, A. D., Benoukraf, T., Meruvia-Pastor, O. 	20240601
-
-  - \[[BioRxivBio](http://biorxiv.org)\][A Computational Approach to Interpreting the Embedding Space of Dimension Reduction](http://biorxiv.org/cgi/content/short/2024.06.23.600292v1?rss=1). Zhang, B., Uno, K., Kodama, H., Himori, K., Matsui, Y. 	20240601
-
 
 ### BioRxivGenomInfor
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Exploring DNA movement through the application of droplet based high efficient chromatin conformation capture (DropHiChew) and loop velocity](http://biorxiv.org/cgi/content/short/2024.06.26.600744v1?rss=1). Tang, C., Zhang, C., Xie, Y., Tan, C., Chen, Z., Guo, M. 	20240601
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][High efficient chromatin conformation capture without pre-enrichment (HiChew) in single cells](http://biorxiv.org/cgi/content/short/2024.06.25.600609v1?rss=1). Tang, C., Chen, Z., Xie, Y., Tan, C., Ruan, F., Luo, M., Zhang, C., Guo, M., Fang, Y. 	20240601
 
@@ -3689,6 +3691,4 @@
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Resolving the three-dimensional interactome of Human Accelerated Regions during human and chimpanzee neurodevelopment](http://biorxiv.org/cgi/content/short/2024.06.25.600691v1?rss=1). Pal, A., Noble, M. A., Morales, M., Pal, R., Baumg..ang, J. W., Yim, K. M., Uebbing, S., Noonan, J. P. 	20240601
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Analysis of coding gene expression from small RNA sequencing](http://biorxiv.org/cgi/content/short/2024.06.21.600062v1?rss=1). Azadova, A., Ekperuoh, A., Brooke, G. N., Marco, A. 	20240601
-
-  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Vertebrates show coordinated elevated expression of mitochondrial and nuclear genes after birth: a conserved metabolic switch](http://biorxiv.org/cgi/content/short/2024.06.25.600612v1?rss=1). Medini, H., Mishmar, D. 	20240601
 
