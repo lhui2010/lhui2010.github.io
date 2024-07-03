@@ -424,6 +424,10 @@
 
 ### NatGenet
 
+  - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Genetic gear switches drive cancer immune evasion](https://www.nature.com/articles/s41588-024-01778-8).  	20240701
+
+  - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Homopolymer switches mediate adaptive mutability in mismatch repair-deficient colorectal cancer](https://www.nature.com/articles/s41588-024-01777-9). Hamzeh Kayhanian, William Cross, Suzanne E. M. van.. Kai-Keen Shiu, Hugo J. G. Snippert, Marnix Jansen 	20240701
+
   - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][A ΔNp63–MED12 axis drives basal-like identity in pancreatic cancer](https://www.nature.com/articles/s41588-024-01797-5).  	20240701
 
   - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Improving transparency of computational tools for variant effect prediction](https://www.nature.com/articles/s41588-024-01821-8). Rachel Karchin, Predrag Radivojac, Anne O’Donnell-..Greenblatt, Michael Y. Tolstorukov, Dmitriy Sonkin 	20240701
@@ -435,10 +439,6 @@
   - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Understanding the genetic complexity of puberty timing across the allele frequency spectrum](https://www.nature.com/articles/s41588-024-01798-4). Katherine A. Kentistou, Lena R. Kaisinger, Stasa S..ansson, Felix R. Day, John R. B. Perry, Ken K. Ong 	20240701
 
   - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][A common flanking variant is associated with enhanced stability of the <i>FGF14</i>-SCA27B repeat locus](https://www.nature.com/articles/s41588-024-01808-5). David Pellerin, Giulia F. Del Gobbo, Madeline Cous..lka, Bernard Brais, Stephan Zuchner, Matt C. Danzi 	20240701
-
-  - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Nitrogen uptake and productive tiller formation in rice](https://www.nature.com/articles/s41588-024-01796-6).  	20240701
-
-  - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][A proposal for an inclusive working definition of genetic discrimination to promote a more coherent debate](https://www.nature.com/articles/s41588-024-01786-8). Beatrice Kaiser, Diya Uberoi, Maili C. Raven-Adams..osalyn Ryan, Augusto Valderrama-Aguirre, Yann Joly 	20240701
 
 
 ### NatCommun
@@ -3511,6 +3511,10 @@
 
 ### BioRxivBio
 
+  - \[[BioRxivBio](http://biorxiv.org)\][Identification of cuproptosis and ferroptosis-related subtypes and development of a prognostic signature in colon cancer](http://biorxiv.org/cgi/content/short/2024.06.30.601455v1?rss=1). He, Y., Liu, F., Jiang, Z. 	20240701
+
+  - \[[BioRxivBio](http://biorxiv.org)\][SPACEc: A Streamlined, Interactive Python Workflow for Multiplexed Image Processing and Analysis](http://biorxiv.org/cgi/content/short/2024.06.29.601349v1?rss=1). Tan, Y., Kempchen, T. N., Becker, M., Haist, M., F.. Rech, A. J., Fan, R., Hickey, J. W., Nolan, G. P. 	20240701
+
   - \[[BioRxivBio](http://biorxiv.org)\][StarSignDNA: Signature tracing for accurate representation of mutational processes](http://biorxiv.org/cgi/content/short/2024.06.29.601345v1?rss=1). Bope, c. D., Kalyanasundaram, S., Rand, K. D., Lingjaerde, O. C., Hovig, E., Nakken, S. 	20240701
 
   - \[[BioRxivBio](http://biorxiv.org)\][MitoStructSeg: A Comprehensive Platform for Mitochondrial Structure Segmentation and Analysis](http://biorxiv.org/cgi/content/short/2024.06.28.601295v1?rss=1). Wang, X., Cai, B., Jia, Z., Chen, Y., Guo, S., Liu, Z., Wan, X., Zhang, F., Hu, B. 	20240701
@@ -3566,10 +3570,6 @@
   - \[[BioRxivBio](http://biorxiv.org)\][TCRfinder: Improved TCR virtual screening for novel antigenic peptides with tailored language models](http://biorxiv.org/cgi/content/short/2024.06.27.601008v1?rss=1). Li, Y., Zhang, C., Zhang, X., Zhang, Y. 	20240701
 
   - \[[BioRxivBio](http://biorxiv.org)\][Deep Learning-Based Classification of CRISPR Loci Using Repeat Sequences](http://biorxiv.org/cgi/content/short/2024.06.27.601093v1?rss=1). Liao, X., Li, Y., Wu, Y., Li, X., Shang, X. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Ultra-fast variant effect prediction using biophysical transcription factor binding models](http://biorxiv.org/cgi/content/short/2024.06.26.600873v1?rss=1). Hosseini, R., Balci, A. T., Kostka, D., Chikina, M. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][CryoViT: Efficient Segmentation of Cryogenic Electron Tomograms with Vision Foundation Models](http://biorxiv.org/cgi/content/short/2024.06.26.600701v1?rss=1). Gupte, S. R., Hou, C., Wu, G.-H., Galaz-Montoya, J. G., Chiu, W., Yeung-Levy, S. 	20240701
 
 
 ### BioRxivGenomInfor
