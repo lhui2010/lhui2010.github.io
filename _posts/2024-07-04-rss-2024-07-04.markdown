@@ -1289,16 +1289,18 @@
 
 ### NatlSciRev
 
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][The preface: toward higher Tc superconductivity under lower pressure: from binary to ternary superhydrides](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae210/7705618?rss=1).  Wed, 03 Jul 2024 00:00:00 GM	20240701
+
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Rescue dead MnO2 for stable electrolytic Zn-Mn redox-flow battery: a metric of mediated and catalytic kinetics](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae230/7705617?rss=1).  Wed, 03 Jul 2024 00:00:00 GM	20240701
+
   - \[[NatlSciRev](http://academic.oup.com/nsr)\][Detecting biomarkers by dynamic nuclear polarization enhanced magnetic resonance](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae228/7701796?rss=1).  Sat, 29 Jun 2024 00:00:00 GM	20240701
-
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Polyoxometalates: metallodrug agents for combating amyloid aggregation](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae226/7701423?rss=1).  Fri, 28 Jun 2024 00:00:00 GM	20240701
-
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Swarming caddisflies in the mid-Cretaceous](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae227/7701419?rss=1).  Fri, 28 Jun 2024 00:00:00 GM	20240701
 
 
 ### NatlSciRev
 
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Detecting biomarkers by dynamic nuclear polarization enhanced magnetic resonance](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae228/7701796?rss=1).  Sat, 29 Jun 2024 00:00:00 GM	20240701
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][The preface: toward higher Tc superconductivity under lower pressure: from binary to ternary superhydrides](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae210/7705618?rss=1).  Wed, 03 Jul 2024 00:00:00 GM	20240701
+
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Rescue dead MnO2 for stable electrolytic Zn-Mn redox-flow battery: a metric of mediated and catalytic kinetics](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae230/7705617?rss=1).  Wed, 03 Jul 2024 00:00:00 GM	20240701
 
 
 ### Genetics
