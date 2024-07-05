@@ -2925,6 +2925,14 @@
 
 ### BioRxivBio
 
+  - \[[BioRxivBio](http://biorxiv.org)\][BiRNA-BERT Allows Efficient RNA Language Modeling with Adaptive Tokenization](http://biorxiv.org/cgi/content/short/2024.07.02.601703v1?rss=1). Tahmid, M. T., Shahgir, H. S., Mahbub, S., Dong, Y., Bayzid, M. S. 	20240701
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Spatial gene expression at single-cell resolution from histology using deep learning with GHIST](http://biorxiv.org/cgi/content/short/2024.07.02.601790v1?rss=1). Fu, X., Cao, Y., Bian, B., Wang, C., Graham, D., P..manathan, N., Patrick, E., Kim, J., Yang, J. Y. H. 	20240701
+
+  - \[[BioRxivBio](http://biorxiv.org)\][MAJIQ V3 offers improvements in accuracy, performance, and usability for splicing analysis from RNA sequencing](http://biorxiv.org/cgi/content/short/2024.07.02.601792v1?rss=1). Aicher, J. K., Slaff, B. M., Jewell, S., Barash, Y. 	20240701
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Compressive Pangenomics Using Mutation-Annotated Networks](http://biorxiv.org/cgi/content/short/2024.07.02.601807v1?rss=1). Walia, S., Motwani, H., Smith, K., Corbett-Detig, R., Turakhia, Y. 	20240701
+
   - \[[BioRxivBio](http://biorxiv.org)\][Prediction of single-cell chromatin compartments from single-cell chromosome structures by MaxComp](http://biorxiv.org/cgi/content/short/2024.07.02.600897v1?rss=1). Zhan, Y., Musella, F., Alber, F. 	20240701
 
   - \[[BioRxivBio](http://biorxiv.org)\][Metagenomic peek into a corn mummy](http://biorxiv.org/cgi/content/short/2024.07.02.601727v1?rss=1). Solymosi, N., Pap, B., Nagy, S. A., Toth, A. G., K..J., Maroti, G., Csabai, I., Kothay, K., Magyar, D. 	20240701
@@ -2976,14 +2984,6 @@
   - \[[BioRxivBio](http://biorxiv.org)\][Navigating the Maze of Mass Spectra: A Machine-Learning Guide to Identifying Diagnostic Ions in O-Glycan Analysis](http://biorxiv.org/cgi/content/short/2024.06.28.601175v1?rss=1). Urban, J., Joeres, R., Thomes, L., Thomsson, K. A., Bojar, D. 	20240701
 
   - \[[BioRxivBio](http://biorxiv.org)\][Maloja: simple and scalable Snakemake workflow orchestration in the cloud](http://biorxiv.org/cgi/content/short/2024.06.28.601236v1?rss=1). Giustizia, J., Hodgson, W., Andress, C., Bilkhu, S., Macklin, J., Kess, T. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Active surveillance for influenza A virus in swine reveals within-farm reassortment and cocirculation of distinct subtypes and genetic clades](http://biorxiv.org/cgi/content/short/2024.06.28.601245v1?rss=1). Thomas, M. N., Janzen, G. M., Markin, A. K., Sharm.., G., Baker, A. L., Gauger, P. C., Anderson, T. K. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][ADM: Adaptive Graph Diffusion for Meta-Dimension Reduction](http://biorxiv.org/cgi/content/short/2024.06.28.601128v1?rss=1). Feng, J., Yong, L., Yu, T. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][SCEMENT: Scalable and Memory Efficient Integration of Large-scale Single Cell RNA-sequencing Data](http://biorxiv.org/cgi/content/short/2024.06.27.601027v1?rss=1). Chockalingam, S. P., Aluru, M., Aluru, S. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Ultrafast and accurate sequence alignment and clustering of viral genomes](http://biorxiv.org/cgi/content/short/2024.06.27.601020v1?rss=1). Zielezinski, A., Gudys, A., Barylski, J., Siminski, K., Rozwalak, P., Dutilh, B. E., Deorowicz, S. 	20240701
 
 
 ### BioRxivGenomInfor
