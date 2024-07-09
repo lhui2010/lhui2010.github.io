@@ -2973,6 +2973,10 @@
 
 ### BioRxivBio
 
+  - \[[BioRxivBio](http://biorxiv.org)\][UCS: a unified approach to cell segmentation for subcellular spatial transcriptomics](http://biorxiv.org/cgi/content/short/2024.07.08.601384v1?rss=1). Chen, Y., Xu, X., Wan, X., Xiao, J., Yang, C. 	20240701
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Reinforcement learning guides single-cell sequencing in decoding lineage and cell fate decisions](http://biorxiv.org/cgi/content/short/2024.07.04.602019v1?rss=1). Fu, Z., Wang, S., Sun, K., Xu, B., Ye, X., Wen, Z...M., Chen, M., Chen, F., Xu, Y., Chen, S., Wang, J. 	20240701
+
   - \[[BioRxivBio](http://biorxiv.org)\][Heli-SMACC: Helicase-targeting SMAll Molecule Compound Collection](http://biorxiv.org/cgi/content/short/2024.07.04.602122v1?rss=1). Martin, H.-J., Hossain, M. A., Wellnitz, J., Keles..mith, C., Willson, T. M., Muratov, E., Tropsha, A. 	20240701
 
   - \[[BioRxivBio](http://biorxiv.org)\][Exploring Effector Protein Dynamics and Natural Fungicidal Potential in Rice Blast Pathogen Magnaporthe oryzae](http://biorxiv.org/cgi/content/short/2024.07.04.602162v1?rss=1). Ferdausi, J., Robin, T. B., Nasrin, S., Ahmed, I.,.., S. N., Moin, A. T., Patil, R. B., Hossain, M. S. 	20240701
@@ -3028,10 +3032,6 @@
   - \[[BioRxivBio](http://biorxiv.org)\][MAJIQ V3 offers improvements in accuracy, performance, and usability for splicing analysis from RNA sequencing](http://biorxiv.org/cgi/content/short/2024.07.02.601792v1?rss=1). Aicher, J. K., Slaff, B. M., Jewell, S., Barash, Y. 	20240701
 
   - \[[BioRxivBio](http://biorxiv.org)\][Compressive Pangenomics Using Mutation-Annotated Networks](http://biorxiv.org/cgi/content/short/2024.07.02.601807v1?rss=1). Walia, S., Motwani, H., Smith, K., Corbett-Detig, R., Turakhia, Y. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Prediction of single-cell chromatin compartments from single-cell chromosome structures by MaxComp](http://biorxiv.org/cgi/content/short/2024.07.02.600897v1?rss=1). Zhan, Y., Musella, F., Alber, F. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Metagenomic peek into a corn mummy](http://biorxiv.org/cgi/content/short/2024.07.02.601727v1?rss=1). Solymosi, N., Pap, B., Nagy, S. A., Toth, A. G., K..J., Maroti, G., Csabai, I., Kothay, K., Magyar, D. 	20240701
 
 
 ### BioRxivGenomInfor
