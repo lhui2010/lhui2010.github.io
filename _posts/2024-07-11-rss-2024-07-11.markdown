@@ -2987,6 +2987,12 @@
 
 ### BioRxivBio
 
+  - \[[BioRxivBio](http://biorxiv.org)\][Predicting Enzyme Functions Using Contrastive Learning with Hierarchical Enzyme Structure Information](http://biorxiv.org/cgi/content/short/2024.07.07.602424v1?rss=1). Duan, H., Li, Z., Wu, Y., Chen, W., Xia, L. C. 	20240701
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Mutational Constraint Analysis Workflow for Overlapping Short Open Reading Frames and Genomic Neighbours](http://biorxiv.org/cgi/content/short/2024.07.07.602395v1?rss=1). Danner, M., Begemann, M., Kraft, F., Elbracht, M., Kurth, I., Krause, J. 	20240701
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Extracellular vesicle-derived miRNA-mediated cell-cell communication inference for single-cell transcriptomic data with miRTalk](http://biorxiv.org/cgi/content/short/2024.07.07.602386v1?rss=1). Shao, X., Li, C., Qian, J., Yang, H., Yang, X., Liao, J., Xu, X., Fan, X. 	20240701
+
   - \[[BioRxivBio](http://biorxiv.org)\][Accelerated Missense Mutation Identification in Intrinsically Disordered Proteins using Deep Learning](http://biorxiv.org/cgi/content/short/2024.07.07.602404v1?rss=1). Bhattacharya, A., Seth, S. 	20240701
 
   - \[[BioRxivBio](http://biorxiv.org)\][Tumor Subtype Classification Tool for HPV-associated Head and Neck Cancers](http://biorxiv.org/cgi/content/short/2024.07.05.601906v1?rss=1). Li, S., Grab, B. F., Qin, T., Soppe, S., Lopez, E...l, S., D'Silva, N. J., Rozek, L. S., Sartor, M. A. 	20240701
@@ -3040,12 +3046,6 @@
   - \[[BioRxivBio](http://biorxiv.org)\][SOFisher: Reinforcement Learning-Guided Experiment Designs for Spatial Omics](http://biorxiv.org/cgi/content/short/2024.07.05.602236v1?rss=1). Li, Z., Wu, W., Cui, Y., Jian, S., Yuan, Z. 	20240701
 
   - \[[BioRxivBio](http://biorxiv.org)\][MIST: an interpretable and flexible deep learning framework for single-T cell transcriptome and receptor analysis](http://biorxiv.org/cgi/content/short/2024.07.05.602192v1?rss=1). Lai, W., Li, Y., Luo, O. J. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Bayesian phylodynamics of early vertebrate development in BEAST 2](http://biorxiv.org/cgi/content/short/2024.07.04.601658v1?rss=1). Zwaans, A., Seidel, S., Manceau, M., Stadler, T. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][SPArrOW: a flexible, interactive and scalable pipeline for spatial transcriptomics analysis](http://biorxiv.org/cgi/content/short/2024.07.04.601829v1?rss=1). Pollaris, L., Vanneste, B., Rombaut, B., Defauw, A..urinck, R., Scott, C. L., Guilliams, M., Saeys, Y. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][From a single sequence to evolutionary trajectories: protein language models capture the evolutionary potential of SARS-CoV-2 protein sequences](http://biorxiv.org/cgi/content/short/2024.07.05.602129v1?rss=1). Lamb, K. D., Hughes, J., Lytras, S., Koci, O., Young, F., Grove, J., Yuan, K., Robertson, D. L. 	20240701
 
 
 ### BioRxivGenomInfor
