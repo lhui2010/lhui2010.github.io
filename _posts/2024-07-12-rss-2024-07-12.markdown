@@ -1329,24 +1329,22 @@
 
 ### NatlSciRev
 
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Pan-cancer integrative analyses dissect the remodeling of endothelial cells in human cancers](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae231/7712496?rss=1).  	20240701
+
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Electron-injection-engineering induced dual-phase MoO2.8F0.2/MoO2.4F0.6 heterostructure for magnesium storage](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae238/7712495?rss=1).  	20240701
+
   - \[[NatlSciRev](http://academic.oup.com/nsr)\][Seawater barium and sulfide removal improved marine habitability for the Cambrian Explosion of early animals](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae237/7710134?rss=1).  	20240701
 
   - \[[NatlSciRev](http://academic.oup.com/nsr)\][New ionizable lipids reduces the lipid to mRNA ration for base editing](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae224/7710129?rss=1).  	20240701
 
   - \[[NatlSciRev](http://academic.oup.com/nsr)\][Technologies for investigating single-molecule chemical reactions](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae236/7710126?rss=1).  	20240701
-
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Semimetal-triggered covalent interaction in Pt-based intermetallics for fuel-cell electrocatalysis](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae233/7709480?rss=1).  Mon, 08 Jul 2024 00:00:00 GM	20240701
-
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Will the fibers of the future be considered fibers?](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae235/7709473?rss=1).  Mon, 08 Jul 2024 00:00:00 GM	20240701
 
 
 ### NatlSciRev
 
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Seawater barium and sulfide removal improved marine habitability for the Cambrian Explosion of early animals](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae237/7710134?rss=1).  	20240701
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Pan-cancer integrative analyses dissect the remodeling of endothelial cells in human cancers](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae231/7712496?rss=1).  	20240701
 
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][New ionizable lipids reduces the lipid to mRNA ration for base editing](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae224/7710129?rss=1).  	20240701
-
-  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Technologies for investigating single-molecule chemical reactions](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae236/7710126?rss=1).  	20240701
+  - \[[NatlSciRev](http://academic.oup.com/nsr)\][Electron-injection-engineering induced dual-phase MoO2.8F0.2/MoO2.4F0.6 heterostructure for magnesium storage](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwae238/7712495?rss=1).  	20240701
 
 
 ### Genetics
@@ -3147,6 +3145,8 @@
 
 ### BioRxivBio
 
+  - \[[BioRxivBio](http://biorxiv.org)\][Optimizing murine sample sizes for RNA-seq studies revealed from large-scale comparative analysis](http://biorxiv.org/cgi/content/short/2024.07.08.602525v1?rss=1). Halasz, G., Schmahl, J., Negron, N., Ni, M., Atwal, G. S., Glass, D. J. 	20240701
+
   - \[[BioRxivBio](http://biorxiv.org)\][Faster model-based estimation of ancestry proportions](http://biorxiv.org/cgi/content/short/2024.07.08.602454v1?rss=1). Meisner, J., Santander, C., Refoyo Martinez, A. 	20240701
 
   - \[[BioRxivBio](http://biorxiv.org)\][Elucidating the Type 2 Diabetes Regulatory Network: Identification of EGFR as a Key Hub and Novel Drug Candidates](http://biorxiv.org/cgi/content/short/2024.07.08.602441v1?rss=1). Romero, R., Cohen, C. A. 	20240701
@@ -3204,8 +3204,6 @@
   - \[[BioRxivBio](http://biorxiv.org)\][Breaking free from references: a consensus-based approach for community profiling with long amplicon nanopore data](http://biorxiv.org/cgi/content/short/2024.07.04.602031v1?rss=1). Stock, W., Rousseau, C., Dierickx, G., D'hondt, S...., Dittami, S. M., van der Loos, L., De Clerck, O. 	20240701
 
   - \[[BioRxivBio](http://biorxiv.org)\][Benchmarking algorithms for spatially variable gene identification in spatial transcriptomics](http://biorxiv.org/cgi/content/short/2024.07.04.602147v1?rss=1). Chen, X., Ran, Q., Tang, J., Chen, Z., Huang, S., Shi, X., Xi, R. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][GeneSurfer Enables Transcriptome-wide Exploration and Functional Annotation of Gene Co-expression Modules in 3D Spatial Transcriptomics Data](http://biorxiv.org/cgi/content/short/2024.07.05.602230v1?rss=1). Li, C., Thijssen, J., Kroes, T., van der Burg, X., van der Weerd, L., Höllt, T., Lelieveldt, B. 	20240701
 
 
 ### BioRxivGenomInfor
