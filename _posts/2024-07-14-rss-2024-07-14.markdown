@@ -437,6 +437,8 @@
 
 ### NatCommun
 
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Exceptional figure of merit achieved in boron-dispersed GeTe-based thermoelectric composites](https://www.nature.com/articles/s41467-024-50175-6). Yilin Jiang, Bin Su, Jincheng Yu, Zhanran Han, Hai.., Zhen-Hua Ge, Jing Feng, Fu-Hua Sun, Jing-Feng Li 	20240701
+
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Ising meson spectroscopy on a noisy digital quantum simulator](https://www.nature.com/articles/s41467-024-50206-2). Christopher Lamb, Yicheng Tang, Robert Davis, Ananda Roy 	20240701
 
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Unlocking the potential of biogas systems for energy production and climate solutions in rural communities](https://www.nature.com/articles/s41467-024-50091-9). Tao Luo, Bo Shen, Zili Mei, Anders Hove, Keyi Ju 	20240701
@@ -450,8 +452,6 @@
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Contact-electro-catalytic CO<sub>2</sub> reduction from ambient air](https://www.nature.com/articles/s41467-024-50118-1). Nannan Wang, Wenbin Jiang, Jing Yang, Haisong Feng..AN, Yong-Wei Zhang, Daoai Wang, Enyi Ye, Zibiao Li 	20240701
 
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Selective and stable CO<sub>2</sub> electroreduction at high rates via control of local H<sub>2</sub>O/CO<sub>2</sub> ratio](https://www.nature.com/articles/s41467-024-50269-1). Junmei Chen, Haoran Qiu, Yilin Zhao, Haozhou Yang,..Jiayi Chen, Lei Chen, Ya Liu, Liejin Guo, Lei Wang 	20240701
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Clinical features associated with Neo<i>RAS</i> wild-type metastatic colorectal cancer A SCRUM-Japan GOZILA substudy](https://www.nature.com/articles/s41467-024-50026-4). Hiroki Osumi, Eiji Shinozaki, Yoshiaki Nakamura, T.. Hideaki Bando, Kensei Yamaguchi, Takayuki Yoshino 	20240701
 
 
 ### NatEcolEvol
@@ -3119,6 +3119,14 @@
 
 ### BioRxivBio
 
+  - \[[BioRxivBio](http://biorxiv.org)\][Kidney mRNA-protein expression correlation: What can we learn from the Human Protein Atlas?](http://biorxiv.org/cgi/content/short/2024.07.12.601822v1?rss=1). Acoba, D., Reznichenko, A. 	20240701
+
+  - \[[BioRxivBio](http://biorxiv.org)\][STRPsearch: fast detection of structured tandem repeat proteins](http://biorxiv.org/cgi/content/short/2024.07.10.602726v1?rss=1). Mozaffari, S., Arrias, P. N., Clementel, D., Piove.. D., Ferrari, C., Tosatto, S. C. E., Monzon, A. M. 	20240701
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Pseudo-perplexity in One Fell Swoop for Protein Fitness Estimation](http://biorxiv.org/cgi/content/short/2024.07.09.602754v1?rss=1). Kantroo, P., Wagner, G., Machta, B. 	20240701
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Where the patterns are: repetition-aware compression for colored de Bruijn graphs](http://biorxiv.org/cgi/content/short/2024.07.09.602727v1?rss=1). Campanelli, A., Pibiri, G. E., Fan, J., Patro, R. 	20240701
+
   - \[[BioRxivBio](http://biorxiv.org)\][scGFT: single-cell RNA-seq data augmentation using generative Fourier transformer](http://biorxiv.org/cgi/content/short/2024.07.09.602768v1?rss=1). Nouri, N. 	20240701
 
   - \[[BioRxivBio](http://biorxiv.org)\][HERMES: Holographic Equivariant neuRal network model for Mutational Effect and Stability prediction](http://biorxiv.org/cgi/content/short/2024.07.09.602403v1?rss=1). Visani, G. M., Pun, M. N., Galvin, W., Daniel, E., Borisiak, K., Wagura, U., Nourmohammad, A. 	20240701
@@ -3170,14 +3178,6 @@
   - \[[BioRxivBio](http://biorxiv.org)\][BacTermFinder: A Comprehensive and General Bacterial Terminator Finder using a CNN Ensemble](http://biorxiv.org/cgi/content/short/2024.07.05.602086v1?rss=1). Taheri Ghahfarokhi, S. M. A., Pena-Castillo, L. 	20240701
 
   - \[[BioRxivBio](http://biorxiv.org)\][DNA walk of specific fused oncogenes exhibit distinct fractal geometric characteristics in nucleotide patterns](http://biorxiv.org/cgi/content/short/2024.07.05.602166v1?rss=1). Das, A., Sehgal, M., Singh, A., Goyal, R., Prabhak..sariev, I., Kulkarni, P., Jolly, M. K., Salgia, R. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][UCS: a unified approach to cell segmentation for subcellular spatial transcriptomics](http://biorxiv.org/cgi/content/short/2024.07.08.601384v1?rss=1). Chen, Y., Xu, X., Wan, X., Xiao, J., Yang, C. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Reinforcement learning guides single-cell sequencing in decoding lineage and cell fate decisions](http://biorxiv.org/cgi/content/short/2024.07.04.602019v1?rss=1). Fu, Z., Wang, S., Sun, K., Xu, B., Ye, X., Wen, Z...M., Chen, M., Chen, F., Xu, Y., Chen, S., Wang, J. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Heli-SMACC: Helicase-targeting SMAll Molecule Compound Collection](http://biorxiv.org/cgi/content/short/2024.07.04.602122v1?rss=1). Martin, H.-J., Hossain, M. A., Wellnitz, J., Keles..mith, C., Willson, T. M., Muratov, E., Tropsha, A. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Exploring Effector Protein Dynamics and Natural Fungicidal Potential in Rice Blast Pathogen Magnaporthe oryzae](http://biorxiv.org/cgi/content/short/2024.07.04.602162v1?rss=1). Ferdausi, J., Robin, T. B., Nasrin, S., Ahmed, I.,.., S. N., Moin, A. T., Patil, R. B., Hossain, M. S. 	20240701
 
 
 ### BioRxivGenomInfor
