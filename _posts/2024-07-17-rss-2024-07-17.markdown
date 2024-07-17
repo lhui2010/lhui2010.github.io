@@ -3205,6 +3205,20 @@
 
 ### BioRxivBio
 
+  - \[[BioRxivBio](http://biorxiv.org)\][A new alignment-free method: Subsequence Correlation Coefficient Vector(SCCFV) for influenza A comparison using virus genomes](http://biorxiv.org/cgi/content/short/2024.07.12.603253v1?rss=1). He, L., Yu, Z., Wu, X., Zhu, Y. 	20240701
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Composite Hedges Nanopores: A High INDEL-Correcting Codec System for Rapid and Portable DNA Data Readout](http://biorxiv.org/cgi/content/short/2024.07.12.603190v1?rss=1). Zhao, X., Li, J., Fan, Q., Dai, J., Long, Y., Liu, R., Zhai, J., Pan, Q., Li, Y. 	20240701
+
+  - \[[BioRxivBio](http://biorxiv.org)\][The discovery of phages in the Substantia Nigra and its implication for Parkinson's Disease](http://biorxiv.org/cgi/content/short/2024.07.13.603353v1?rss=1). Zhao, Y., Xiong, C., Wang, B., Li, D., Liu, J., Wei, S., Hou, Y., Zhou, Y., Zheng, R. 	20240701
+
+  - \[[BioRxivBio](http://biorxiv.org)\][The state-of-the-art machine learning model for Plasma Protein Binding Prediction: computational modeling with OCHEM and experimental validation](http://biorxiv.org/cgi/content/short/2024.07.12.603170v1?rss=1). Han, Z., Xia, Z., Xia, J., Tetko, I. V., Wu, S. 	20240701
+
+  - \[[BioRxivBio](http://biorxiv.org)\][CircCNNs, a convolutional neural network framework to better understand the biogenesis of exonic circRNAs](http://biorxiv.org/cgi/content/short/2024.07.12.603307v1?rss=1). Wang, C., Liang, C. 	20240701
+
+  - \[[BioRxivBio](http://biorxiv.org)\][ProtParts, an automated web server for clustering and partitioning protein datasets](http://biorxiv.org/cgi/content/short/2024.07.12.603234v1?rss=1). Li, Y., Barra, C. 	20240701
+
+  - \[[BioRxivBio](http://biorxiv.org)\][CompareM2 is a genomes-to-report pipeline for comparing microbial genomes](http://biorxiv.org/cgi/content/short/2024.07.12.603264v1?rss=1). Kobel, C. M., Aho, V. T. E., Oeyaas, O., Noerskov-Lauritsen, N., Woodcroft, B. J., Pope, P. B. 	20240701
+
   - \[[BioRxivBio](http://biorxiv.org)\][Importance of transcript variants in transcriptome analyses](http://biorxiv.org/cgi/content/short/2024.07.11.603122v1?rss=1). Vo, K., Mohamadi, R., Sharma, Y., Mohamadi, A., Fields, P. E., Rumi, M. A. K. 	20240701
 
   - \[[BioRxivBio](http://biorxiv.org)\][CryoSamba: self-supervised deep volumetric denoising for cryo-electron tomography data](http://biorxiv.org/cgi/content/short/2024.07.11.603117v1?rss=1). Costa-Filho, J. I., Theveny, L., de Sautu, M., Kirchhausen, T. 	20240701
@@ -3250,20 +3264,6 @@
   - \[[BioRxivBio](http://biorxiv.org)\][Pymportx: Facilitating Next-Generation Transcriptomics Analysis in Python](http://biorxiv.org/cgi/content/short/2024.07.12.598873v1?rss=1). Pena Gonzalez, P., Lozano-Paredes, D., Rojo, J. L., Bote-Curiel, L., Sanchez-Arevalo Lobo, V. J. 	20240701
 
   - \[[BioRxivBio](http://biorxiv.org)\][Enhanced sensitivity of TAPscan v4 enables comprehensive analysis of streptophyte transcription factor evolution](http://biorxiv.org/cgi/content/short/2024.07.13.602682v1?rss=1). Petroll, R., Varshney, D., Hiltemann, S., Finke, H., Schreiber, M., de Vries, J., Rensing, S. A. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Kidney mRNA-protein expression correlation: What can we learn from the Human Protein Atlas?](http://biorxiv.org/cgi/content/short/2024.07.12.601822v1?rss=1). Acoba, D., Reznichenko, A. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][STRPsearch: fast detection of structured tandem repeat proteins](http://biorxiv.org/cgi/content/short/2024.07.10.602726v1?rss=1). Mozaffari, S., Arrias, P. N., Clementel, D., Piove.. D., Ferrari, C., Tosatto, S. C. E., Monzon, A. M. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Pseudo-perplexity in One Fell Swoop for Protein Fitness Estimation](http://biorxiv.org/cgi/content/short/2024.07.09.602754v1?rss=1). Kantroo, P., Wagner, G., Machta, B. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Where the patterns are: repetition-aware compression for colored de Bruijn graphs](http://biorxiv.org/cgi/content/short/2024.07.09.602727v1?rss=1). Campanelli, A., Pibiri, G. E., Fan, J., Patro, R. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][scGFT: single-cell RNA-seq data augmentation using generative Fourier transformer](http://biorxiv.org/cgi/content/short/2024.07.09.602768v1?rss=1). Nouri, N. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][HERMES: Holographic Equivariant neuRal network model for Mutational Effect and Stability prediction](http://biorxiv.org/cgi/content/short/2024.07.09.602403v1?rss=1). Visani, G. M., Pun, M. N., Galvin, W., Daniel, E., Borisiak, K., Wagura, U., Nourmohammad, A. 	20240701
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Visual analysis of spatial transcriptomics data with RedeViz](http://biorxiv.org/cgi/content/short/2024.07.09.602652v1?rss=1). Wang, D., Ren, X. 	20240701
 
 
 ### BioRxivGenomInfor
