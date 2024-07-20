@@ -441,6 +441,14 @@
 
 ### NatCommun
 
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Reversible metal cluster formation on Nitrogen-doped carbon controlling electrocatalyst particle size with subnanometer accuracy](https://www.nature.com/articles/s41467-024-50379-w). Janis Timoshenko, Clara Rettenmaier, Dorottya Hurs..ecilio de Oliveira Monteiro, Beatriz Roldan Cuenya 	20240701
+
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Unsupervised representation learning of chromatin images identifies changes in cell state and tissue organization in DCIS](https://www.nature.com/articles/s41467-024-50285-1). Xinyi Zhang, Saradha Venkatachalapathy, Daniel Pay..laudio Tripodo, Caroline Uhler, G. V. Shivashankar 	20240701
+
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Tumor detection by analysis of both symmetric- and hemi-methylation of plasma cell-free DNA](https://www.nature.com/articles/s41467-024-50471-1). Xu Hua, Hui Zhou, Hui-Chen Wu, Julia Furnari, Cori..ce, Peter Canoll, Regina M. Santella, Zhiguo Zhang 	20240701
+
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Electrochromic windows with fast response and wide dynamic range for visible-light modulation without traditional electrodes](https://www.nature.com/articles/s41467-024-50542-3). Zhuofei Jia, Yiming Sui, Long Qian, Xi Ren, Yunxia.., Rui Yao, Lumeng Wang, Dongliang Chao, Cheng Yang 	20240701
+
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Author Correction: Coherent electric field control of orbital state of a neutral nitrogen-vacancy center](https://www.nature.com/articles/s41467-024-50127-0). Hodaka Kurokawa, Keidai Wakamatsu, Shintaro Nakaza..ino, Hiromitsu Kato, Yuhei Sekiguchi, Hideo Kosaka 	20240701
 
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Author Correction: Kalium channelrhodopsins effectively inhibit neurons](https://www.nature.com/articles/s41467-024-50250-y). Stanislav Ott, Sangyu Xu, Nicole Lee, Ivan Hong, J..h Jesuthasan, Yasunori Saheki, Adam Claridge-Chang 	20240701
@@ -448,14 +456,6 @@
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Author Correction: Alkali cation-induced cathodic corrosion in Cu electrocatalysts](https://www.nature.com/articles/s41467-024-50241-z). Shikai Liu, Yuheng Li, Di Wang, Shibo Xi, Haoming .. Jaramillo, Lei Wang, Pieremanuele Canepa, Qian He 	20240701
 
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Author Correction: Evolutionarily related host and microbial pathways regulate fat desaturation in <i>C. elegans</i>](https://www.nature.com/articles/s41467-024-50246-8). Bennett W. Fox, Maximilian J. Helf, Russell N. Bur.. Ying K. Zhang, Siu Sylvia Lee, Frank C. Schroeder 	20240701
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Author Correction: Downregulation of rhodopsin is an effective therapeutic strategy in ameliorating peripherin-2-associated inherited retinal disorders](https://www.nature.com/articles/s41467-024-50140-3). Christian T. Rutan Woods, Mustafa S. Makia, Tylor .. Y. Arshavsky, Muna I. Naash, Muayyad R. Al-Ubaidi 	20240701
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Author Correction: Cerebral vascular amyloid seeds drive amyloid β-protein fibril assembly with a distinct anti-parallel structure](https://www.nature.com/articles/s41467-024-50272-6). Feng Xu, Ziao Fu, Sharmila Dass, AnnMarie E. Kotar..ne Davis, Steven O. Smith, William E. Van Nostrand 	20240701
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Electron iso-density surfaces provide a thermodynamically consistent representation of atomic and molecular surfaces](https://www.nature.com/articles/s41467-024-50408-8). Amin Alibakhshi, Lars V. Schäfer 	20240701
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][High-purity ethylene production via indirect carbon dioxide electrochemical reduction](https://www.nature.com/articles/s41467-024-50522-7). Wenpeng Ni, Houjun Chen, Naizhuo Tang, Ting Hu, Wei Zhang, Yan Zhang, Shiguo Zhang 	20240701
 
 
 ### NatEcolEvol
