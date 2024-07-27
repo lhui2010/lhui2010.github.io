@@ -103,6 +103,8 @@
 
 ### Nature
 
+  - \[[Nature](http://feeds.nature.com/nature/rss/current)\][Publisher Correction: Interferon subverts an AHR–JUN axis to promote CXCL13<sup>+</sup> T cells in lupus](https://www.nature.com/articles/s41586-024-07845-8). Calvin Law, Vanessa Sue Wacleche, Ye Cao, Arundhat..er, Judd F. Hultquist, Jaehyuk Choi, Deepak A. Rao 	20240701
+
   - \[[Nature](http://feeds.nature.com/nature/rss/current)\][Elusive high-energy neutrinos spotted at LHC](https://www.nature.com/articles/d41586-024-02465-8).  	20240701
 
   - \[[Nature](http://feeds.nature.com/nature/rss/current)\][Strokes can damage the heart — but reining in the immune system might help](https://www.nature.com/articles/d41586-024-02426-1).  	20240701
@@ -250,8 +252,6 @@
   - \[[Nature](http://feeds.nature.com/nature/rss/current)\][AI &amp; robotics briefing: Digital primordial soup creates ‘computational life’](https://www.nature.com/articles/d41586-024-02431-4). Katrina Krämer 	20240701
 
   - \[[Nature](http://feeds.nature.com/nature/rss/current)\][Dopamine-mediated interactions between short- and long-term memory dynamics](https://www.nature.com/articles/s41586-024-07819-w). Cheng Huang, Junjie Luo, Seung Je Woo, Lucas A. Ro..adhuvanthi Kannan, Ganesh Vasan, Mark J. Schnitzer 	20240701
-
-  - \[[Nature](http://feeds.nature.com/nature/rss/current)\][I pioneered a method to study cement using a particle accelerator](https://www.nature.com/articles/d41586-024-02387-5). Virginia Gewin 	20240701
 
 
 ### cell-inpress
