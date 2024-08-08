@@ -441,6 +441,14 @@
 
 ### NatCommun
 
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Multi-omics and pharmacological characterization of patient-derived glioma cell lines](https://www.nature.com/articles/s41467-024-51214-y). Min Wu, Tingting Wang, Nan Ji, Ting Lu, Ran Yuan, .., Yongping You, Wei Zhang, Qianghu Wang, Jian Chen 	20240801
+
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Oxophilic gallium single atoms bridged ruthenium clusters for practical anion-exchange membrane electrolyzer](https://www.nature.com/articles/s41467-024-51200-4). Chenhui Zhou, Jia Shi, Zhaoqi Dong, Lingyou Zeng, .. Zhang, Lin Gu, Fan Lv, Mingchuan Luo, Shaojun Guo 	20240801
+
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Controlled interlayer exciton ionization in an electrostatic trap in atomically thin heterostructures](https://www.nature.com/articles/s41467-024-51128-9). Andrew Y. Joe, Andrés M. Mier Valdivia, Luis A. Ja... Hone, Mikhail D. Lukin, Hongkun Park, Philip Kim 	20240801
+
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Multi-omic analysis of Huntington’s disease reveals a compensatory astrocyte state](https://www.nature.com/articles/s41467-024-50626-0). Fahad Paryani, Ji-Sun Kwon, Christopher W. Ng, Kel..man, Andrew S. Yoo, Vilas Menon, Osama Al-Dalahmah 	20240801
+
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Author Correction: A One Health framework for exploring zoonotic interactions demonstrated through a case study](https://www.nature.com/articles/s41467-024-51222-y). Amélie Desvars-Larrive, Anna Elisabeth Vogl, Gavri..Liuhuaying Yang, Anja Joachim, Annemarie Käsbohrer 	20240801
 
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Author Correction: dsRNAi-mediated silencing of PIAS2beta specifically kills anaplastic carcinomas by mitotic catastrophe](https://www.nature.com/articles/s41467-024-51057-7). Joana S. Rodrigues, Miguel Chenlo, Susana B. Bravo.., José Manuel Cameselle-Teijeiro, Clara V. Alvarez 	20240801
@@ -448,14 +456,6 @@
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Enantioselective synthesis of γ-chiral amides via copper-catalyzed reductive relay hydroaminocarbonylation](https://www.nature.com/articles/s41467-024-51048-8). Yang Yuan, Youcan Zhang, Xiao-Feng Wu 	20240801
 
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Profiling IgG and IgA antibody responses during vaccination and infection in a high-risk gonorrhoea population](https://www.nature.com/articles/s41467-024-51053-x). Lenka Stejskal, Angela Thistlethwaite, Fidel Ramir..ristoph Tang, Eduard J. Sanders, Jeremy P. Derrick 	20240801
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Ultra-highly efficient enrichment of uranium from seawater via studtite nanodots growth-elution cycle](https://www.nature.com/articles/s41467-024-50951-4). Peng Gao, Yezi Hu, Zewen Shen, Guixia Zhao, Ruiqin.., Feng Chu, Zhuoyu Ji, Xiangke Wang, Xiubing Huang 	20240801
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Adaptive gene loss in the common bean pan-genome during range expansion and domestication](https://www.nature.com/articles/s41467-024-51032-2). Gaia Cortinovis, Leonardo Vincenzi, Robyn Anderson..y, Massimo Delledonne, David Edwards, Roberto Papa 	20240801
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Pushing redox potentials to highly positive values using inert fluorobenzenes and weakly coordinating anions](https://www.nature.com/articles/s41467-024-50669-3). Christian Armbruster, Malte Sellin, Matthis Seiler..r, Valentin Radtke, Johannes Hunger, Ingo Krossing 	20240801
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Distinct regulation of ATM signaling by DNA single-strand breaks and APE1](https://www.nature.com/articles/s41467-024-50836-6). Haichao Zhao, Jia Li, Zhongsheng You, Howard D. Lindsay, Shan Yan 	20240801
 
 
 ### NatEcolEvol
