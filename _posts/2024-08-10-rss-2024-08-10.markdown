@@ -424,6 +424,22 @@
 
 ### NatGenet
 
+  - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Single-cell technologies meet Hi-C](https://www.nature.com/articles/s41588-024-01855-y). Jim R. Hughes, James O. J. Davies 	20240801
+
+  - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Genetic risk factors for COVID-19 and influenza are largely distinct](https://www.nature.com/articles/s41588-024-01844-1). Jack A. Kosmicki, Anthony Marcketta, Deepika Sharm.. Baras, Goncalo R. Abecasis, Manuel A. R. Ferreira 	20240801
+
+  - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][The Ruminant Telomere-to-Telomere (RT2T) Consortium](https://www.nature.com/articles/s41588-024-01835-2). Theodore S. Kalbfleisch, Stephanie D. McKay, Brend.. P. L. Smith, Rachel J. O’Neill, Benjamin D. Rosen 	20240801
+
+  - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Promoting equity in polygenic risk assessment through global collaboration](https://www.nature.com/articles/s41588-024-01843-2). Iftikhar J. Kullo 	20240801
+
+  - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Reference genome sequence and population genomic analysis of peas provide insights into the genetic basis of Mendelian and other agronomic traits](https://www.nature.com/articles/s41588-024-01867-8). Na Liu, Xiaolong Lyu, Xueying Zhang, Guwen Zhang, ..ng Zhang, Liangsheng Zhang, Ting Zhao, Yaming Gong 	20240801
+
+  - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Stopped clinical trials give evidence for the value of genetics](https://www.nature.com/articles/s41588-024-01834-3). Emily King 	20240801
+
+  - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Rewiring gene circuitry for plant improvement](https://www.nature.com/articles/s41588-024-01806-7). Alexander T. Borowsky, Julia Bailey-Serres 	20240801
+
+  - \[[NatGenet](http://feeds.nature.com/ng/rss/current)\][Guidance for estimating penetrance of monogenic disease-causing variants in population cohorts](https://www.nature.com/articles/s41588-024-01842-3). Caroline F. Wright, Luke N. Sharp, Leigh Jackson, ..Heidi L. Rehm, Kashyap A. Patel, Michael N. Weedon 	20240801
+
 
 ### NatCommun
 
