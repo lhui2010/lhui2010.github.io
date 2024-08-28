@@ -2648,6 +2648,22 @@
 
 ### NatMethods
 
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][A structural learning method to uncover how information between single cells flows](https://www.nature.com/articles/s41592-024-02381-9).  	20240801
+
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Inferring pattern-driving intercellular flows from single-cell and spatial transcriptomics](https://www.nature.com/articles/s41592-024-02380-w). Axel A. Almet, Yuan-Chen Tsai, Momoko Watanabe, Qing Nie 	20240801
+
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Unleashing the power of biomaterials to enhance organoid differentiation and function](https://www.nature.com/articles/s41592-024-02393-5). Samira Musah, Hamidreza Arzaghi 	20240801
+
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Small data methods in omics: the power of one](https://www.nature.com/articles/s41592-024-02390-8). Kevin G. Johnston, Steven F. Grieco, Qing Nie, Fabian J. Theis, Xiangmin Xu 	20240801
+
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][WebAtlas pipeline for integrated single-cell and spatial transcriptomic data](https://www.nature.com/articles/s41592-024-02371-x). Tong Li, David Horsfall, Daniela Basurto-Lozada, K..A. Teichmann, Muzlifah Haniffa, Omer Ali Bayraktar 	20240801
+
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Stem cell science starters](https://www.nature.com/articles/s41592-024-02398-0). Vivien Marx 	20240801
+
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Splicing inhibition unlocks human totipotency](https://www.nature.com/articles/s41592-024-02386-4). Jean Nakhle 	20240801
+
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][The human brain revealed](https://www.nature.com/articles/s41592-024-02389-1). Rita Strack 	20240801
+
 
 ### JIPB
 
