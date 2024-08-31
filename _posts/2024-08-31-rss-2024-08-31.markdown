@@ -439,6 +439,8 @@
 
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][scCAD: Cluster decomposition-based anomaly detection for rare cell identification in single-cell expression data](https://www.nature.com/articles/s41467-024-51891-9). Yunpei Xu, Shaokai Wang, Qilong Feng, Jiazhi Xia, Yaohang Li, Hong-Dong Li, Jianxin Wang 	20240801
 
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][A catalog of small proteins from the global microbiome](https://www.nature.com/articles/s41467-024-51894-6). Yiqian Duan, Célio Dias Santos-Júnior, Thomas Seba..Kuhn, Xing-Ming Zhao, Peer Bork, Luis Pedro Coelho 	20240801
+
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Author Correction: Unraveling iron oxides as abiotic catalysts of organic phosphorus recycling in soil and sediment matrices](https://www.nature.com/articles/s41467-024-52106-x). Jade J. Basinski, Sharon E. Bone, Annaleise R. Kle..ry K. Druschel, Aaron Thompson, Ludmilla Aristilde 	20240801
 
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Author Correction: Targeting glutamine metabolism slows soft tissue sarcoma growth](https://www.nature.com/articles/s41467-024-51623-z). Pearl Lee, Dania Malik, Nicholas Perkons, Peiwei H..ence P. F. Gade, Aalim M. Weljie, M. Celeste Simon 	20240801
@@ -448,8 +450,6 @@
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Legionella pneumophila evades host-autophagic clearance using phosphoribosyl-polyubiquitin chains](https://www.nature.com/articles/s41467-024-51277-x). Minhyeong Choi, Minwoo Jeong, Sangwoo Kang, Hayoung Jeon, Donghyuk Shin 	20240801
 
   - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Molecular recognition of an odorant by the murine trace amine-associated receptor TAAR7f](https://www.nature.com/articles/s41467-024-51793-w). Anastasiia Gusach, Yang Lee, Armin Nikpour Khoshgr..jan Vaidehi, Simone N. Weyand, Christopher G. Tate 	20240801
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Interdomain-linkers control conformational transitions in the SLC23 elevator transporter UraA](https://www.nature.com/articles/s41467-024-51814-8). Benedikt T. Kuhn, Jonathan Zöller, Iwan Zimmermann..lian D. Langer, Markus A. Seeger, Eric R. Geertsma 	20240801
 
 
 ### NatEcolEvol
@@ -3766,6 +3766,8 @@
 
 ### BioRxivGenomInfor
 
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Extensive transmission and variation in a functional receptor for praziquantel resistance in endemic Schistosoma mansoni](http://biorxiv.org/cgi/content/short/2024.08.29.610291v1?rss=1). Berger, D. J., Park, S.-K., Crellen, T., Vianney, .. M., Marchant, J. S., Doyle, S. R., Webster, J. P. 	20240801
+
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Identification of the sex determination region and the development of a marker to distinguish males and females in megai abalone (Haliotis gigantea)](http://biorxiv.org/cgi/content/short/2024.08.29.610404v1?rss=1). Kina, T., Hara, M., Hirase, S., Kikuchi, K. 	20240801
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Centromeric transposable elements and epigenetic status drive karyotypic variation in the eastern hoolock gibbon](http://biorxiv.org/cgi/content/short/2024.08.29.610280v1?rss=1). Hartley, G. A., Okhovat, M., Hoyt, S. J., Fuller, ..e, L., Stergachis, A., Carbone, L., O'Neill, R. J. 	20240801
@@ -3823,6 +3825,4 @@
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Uncovering methylation-dependent genetic effects on regulatory element function in diverse genomes](http://biorxiv.org/cgi/content/short/2024.08.23.609412v1?rss=1). Petersen, R. M., Vockley, C. M., Lea, A. J. 	20240801
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Single-cell analysis of the somatic mutational landscape in human chondrocytes during aging and in osteoarthritis](http://biorxiv.org/cgi/content/short/2024.08.24.609506v1?rss=1). Ren, P., Zheng, C., Pang, Y., Sun, S., Wang, Q., X..lov, A. Y., Dong, X., Gao, J., Zhang, C., Vijg, J. 	20240801
-
-  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Large Serine Integrase Off-target Discovery and Validation for Therapeutic Genome Editing](http://biorxiv.org/cgi/content/short/2024.08.23.609471v1?rss=1). Hazelbaker, D. Z., Mehta, J. B., McGinnis, C., San.. J., Bakalar, M. H., Finn, J. D., O'Connell, D. J. 	20240801
 
