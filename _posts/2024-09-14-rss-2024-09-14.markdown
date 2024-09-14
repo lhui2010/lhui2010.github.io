@@ -3207,6 +3207,8 @@
 
 ### BioRxivBio
 
+  - \[[BioRxivBio](http://biorxiv.org)\][Mouse-Geneformer: A Deep Learning Model for Mouse Single-Cell Transcriptome and Its Cross-Species Utility](http://biorxiv.org/cgi/content/short/2024.09.09.611960v1?rss=1). Shigenobu, S., Ito, K., Hirakawa, T., Fujiyoshi, H., Yamashita, T. 	20240901
+
   - \[[BioRxivBio](http://biorxiv.org)\][Doblin: Inferring dominant clonal lineages from DNA barcoding time-series](http://biorxiv.org/cgi/content/short/2024.09.08.611892v1?rss=1). Serohijos, A., Gagne-Leroux, D., Gencel, M. 	20240901
 
   - \[[BioRxivBio](http://biorxiv.org)\][genomesizeR: An R package for genome size prediction](http://biorxiv.org/cgi/content/short/2024.09.08.611926v1?rss=1). Mercier, C., Elleouet, J., Garrett, L., Wakelin, S. A. 	20240901
@@ -3264,8 +3266,6 @@
   - \[[BioRxivBio](http://biorxiv.org)\][The FAIR Data Point Populator: collaborative FAIRification and population of FAIR Data Points](http://biorxiv.org/cgi/content/short/2024.09.06.611505v1?rss=1). Wijnbergen, D., Kaliyaperumal, R., Burger, K., Bon.. Silva Santos, L. O., Mons, B., Roos, M., Mina, E. 	20240901
 
   - \[[BioRxivBio](http://biorxiv.org)\][Utilizing Protein Bioinformatics to Delve Deeper Into Immunopeptidomic Datasets](http://biorxiv.org/cgi/content/short/2024.09.05.611486v1?rss=1). Boughter, C. T. 	20240901
-
-  - \[[BioRxivBio](http://biorxiv.org)\][A consensus single-cell transcriptomic atlas of dermal fibroblast heterogeneity](http://biorxiv.org/cgi/content/short/2024.09.05.611379v1?rss=1). Ascension, A. M., Izeta, A. 	20240901
 
 
 ### BioRxivGenomInfor
