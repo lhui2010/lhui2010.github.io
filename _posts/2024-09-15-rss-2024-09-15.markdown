@@ -3211,6 +3211,14 @@
 
 ### BioRxivBio
 
+  - \[[BioRxivBio](http://biorxiv.org)\][A high-throughput phenotypic screen combined with an ultra-large-scale deep learning-based virtual screening reveals novel scaffolds of antibacterial compounds](http://biorxiv.org/cgi/content/short/2024.09.11.612340v1?rss=1). Scalia, G., Rutherford, S. T., Lu, Z., Buchholz, K.. Bengio, Y., Regev, A., Tan, M.-W., Biancalani, T. 	20240901
+
+  - \[[BioRxivBio](http://biorxiv.org)\][SVbyEye: A visual tool to characterize structural variation among whole genome assemblies](http://biorxiv.org/cgi/content/short/2024.09.11.612418v1?rss=1). Porubsky, D., Guitart, X., Yoo, D., Dishuck, P. C., Harvey, W. T., Eichler, E. E. 	20240901
+
+  - \[[BioRxivBio](http://biorxiv.org)\][LoVis4u: Locus Visualisation tool for comparative genomics](http://biorxiv.org/cgi/content/short/2024.09.11.612399v1?rss=1). Egorov, A. A., Atkinson, G. C. 	20240901
+
+  - \[[BioRxivBio](http://biorxiv.org)\][ScReNI: single-cell regulatory network inference through integrating scRNA-seq and scATAC-seq data](http://biorxiv.org/cgi/content/short/2024.09.10.612385v1?rss=1). Xu, X., Liang, Y., Tang, M., Wang, J., Wang, X., Li, Y., Wang, J. 	20240901
+
   - \[[BioRxivBio](http://biorxiv.org)\][3D Molecular Pretraining via Localized Geometric Generation](http://biorxiv.org/cgi/content/short/2024.09.10.612249v1?rss=1). Sun, Y., Chen, K., Liu, K., Ye, Q. 	20240901
 
   - \[[BioRxivBio](http://biorxiv.org)\][Associations on the Fly, a new feature aiming to facilitate exploration of the Open Targets Platform evidence](http://biorxiv.org/cgi/content/short/2024.09.10.612089v1?rss=1). Cruz-Castillo, C., Fumis, L., Mehta, C., Martinez-..mona, M., Ochoa, D., McDonagh, E. M., Buniello, A. 	20240901
@@ -3262,14 +3270,6 @@
   - \[[BioRxivBio](http://biorxiv.org)\][Novae: a graph-based foundation model for spatial transcriptomics data](http://biorxiv.org/cgi/content/short/2024.09.09.612009v1?rss=1). Blampey, Q., Benkirane, H., Bercovici, N., Andre, F., Cournede, P.-H. 	20240901
 
   - \[[BioRxivBio](http://biorxiv.org)\][Inferring cell differentiation maps from lineage tracing data](http://biorxiv.org/cgi/content/short/2024.09.09.611835v1?rss=1). Sashittal, P., Zhang, R., Law, B., Strzalkowski, A., Schmidt, H., Bolondi, A., Chan, M., Raphael, B. 	20240901
-
-  - \[[BioRxivBio](http://biorxiv.org)\][niiv: Fast Self-supervised Neural ImplicitIsotropic Volume Reconstruction](http://biorxiv.org/cgi/content/short/2024.09.07.611785v1?rss=1). Troidl, J., Liang, Y., Beyer, J., Tavakoli, M., Danzl, J. G., Hadwiger, M., Pfister, H., Tompkin, J. 	20240901
-
-  - \[[BioRxivBio](http://biorxiv.org)\][bayesReact: Expression-coupled regulatory motif analysis detects microRNA activity in cancer and at the single cell level](http://biorxiv.org/cgi/content/short/2024.09.10.612047v1?rss=1). Rasmussen, A. M., Bouchard-Cote, A., Pedersen, J. S. 	20240901
-
-  - \[[BioRxivBio](http://biorxiv.org)\][CNValidatron, automated validation of CNV calls using computer vision](http://biorxiv.org/cgi/content/short/2024.09.09.612035v1?rss=1). Montalbano, S., Ingason, A., Werge, T., Gaadin, J...sson, H., Walters, B., Jonsson, G., Stefansson, K. 	20240901
-
-  - \[[BioRxivBio](http://biorxiv.org)\][EmbSAM: Cell boundary localization and Segment Anything Model for fast images of developing embryos](http://biorxiv.org/cgi/content/short/2024.09.07.611795v1?rss=1). Zhao, C., Li, Z., Zhang, P., Chen, Y., Ye, P., Won..Chan, L.-Y., Yan, H., Tang, C., Guan, G., Zhao, Z. 	20240901
 
 
 ### BioRxivGenomInfor
