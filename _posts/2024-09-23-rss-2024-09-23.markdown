@@ -2439,6 +2439,22 @@
 
 ### NatMethods
 
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][A modular chemigenetic calcium indicator for multiplexed in vivo functional imaging](https://www.nature.com/articles/s41592-024-02411-6). Helen Farrants, Yichun Shuai, William C. Lemon, Ch..hen, Yajie Liang, Luke D. Lavis, Eric R. Schreiter 	20240901
+
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Gene-level alignment of single-cell trajectories](https://www.nature.com/articles/s41592-024-02378-4). Dinithi Sumanaweera, Chenqu Suo, Ana-Maria Cujba, ..in B. Meyer, Bianca Dumitrascu, Sarah A. Teichmann 	20240901
+
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Why they take risks](https://www.nature.com/articles/s41592-024-02432-1). Vivien Marx 	20240901
+
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][A polarized FGF8 source specifies frontotemporal signatures in spatially oriented cell populations of cortical assembloids](https://www.nature.com/articles/s41592-024-02412-5). Camilla Bosone, Davide Castaldi, Thomas Rainer Bur..eppe Testa, Veronica Krenn, Jürgen Arthur Knoblich 	20240901
+
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Search and match across spatial omics samples at single-cell resolution](https://www.nature.com/articles/s41592-024-02410-7). Zefang Tang, Shuchen Luo, Hu Zeng, Jiahao Huang, Xin Sui, Morgan Wu, Xiao Wang 	20240901
+
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Genomics 2 Proteins portal: a resource and discovery tool for linking genetic screening outputs to protein sequences and structures](https://www.nature.com/articles/s41592-024-02409-0). Seulki Kwon, Jordan Safer, Duyen T. Nguyen, David ..in, Arthur J. Campbell, Alex Burgin, Sumaiya Iqbal 	20240901
+
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Arkitekt: streaming analysis and real-time workflows for microscopy](https://www.nature.com/articles/s41592-024-02404-5). Johannes Roos, Stéphane Bancelin, Tom Delaire, Ale..alland, U. Valentin Nägerl, Jean-Baptiste Sibarita 	20240901
+
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Author Correction: scGHOST: identifying single-cell 3D genome subcompartments](https://www.nature.com/articles/s41592-024-02462-9). Kyle Xiong, Ruochi Zhang, Jian Ma 	20240901
+
 
 ### JIPB
 
