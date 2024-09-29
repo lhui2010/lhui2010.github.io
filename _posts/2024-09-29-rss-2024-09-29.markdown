@@ -3742,16 +3742,6 @@
 
 ### BMCBioinformatics
 
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Turbocharging protein binding site prediction with geometric attention, inter-resolution transfer learning, and homology-based augmentation](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05923-2). Daeseok Lee, Wonjun Hwang, Jeunghyun Byun and Bonggun Shin Fri, 20 Sep 2024 00:00:00 GM	20240901
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Leveraging gene correlations in single cell transcriptomic data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05926-z). Kai Silkwood, Emmanuel Dollinger, Joshua Gervin, Scott Atwood, Qing Nie and Arthur D. Lander Wed, 18 Sep 2024 00:00:00 GM	20240901
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Taxanorm: a novel taxa-specific normalization approach for microbiome data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05918-z). Ziyue Wang, Dillon Lloyd, Shanshan Zhao and Alison Motsinger-Reif Mon, 16 Sep 2024 00:00:00 GM	20240901
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Mining impactful discoveries from the biomedical literature](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05881-9). Erwan Moreau, Orla Hardiman, Mark Heverin and Declan O’Sullivan Mon, 16 Sep 2024 00:00:00 GM	20240901
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Distinguishing word identity and sequence context in DNA language models](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05869-5). Melissa Sanabria, Jonas Hirsch and Anna R. Poetsch Fri, 13 Sep 2024 00:00:00 GM	20240901
-
 
 ### BioRxivBio
 
