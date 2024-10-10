@@ -433,22 +433,6 @@
 
 ### NatCommun
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Enhancing fairness in AI-enabled medical systems with the attribute neutral framework](https://www.nature.com/articles/s41467-024-52930-1). Lianting Hu, Dantong Li, Huazhang Liu, Xuanhui Che.. Jiajie Tang, Peixin Lu, Chao Xiong, Huiying Liang 	20241001
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Disordered regions of human eIF4B orchestrate a dynamic self-association landscape](https://www.nature.com/articles/s41467-024-53136-1). Bikash Chandra Swain, Pascale Sarkis, Vanessa Ung,..ercadante, Cameron D. Mackereth, Mikayel Aznauryan 	20241001
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][A population of Vasa2 and Piwi1 expressing cells generates germ cells and neurons in a sea anemone](https://www.nature.com/articles/s41467-024-52806-4). Paula Miramón-Puértolas, Eudald Pascual-Carreras, Patrick R. H. Steinmetz 	20241001
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][High-resolution and programmable RNA-IN and RNA-OUT genetic circuit in living mammalian cells](https://www.nature.com/articles/s41467-024-52962-7). Min Zhang, Xue Zhang, Yongyue Xu, Yanhui Xiang, Bo Zhang, Zhen Xie, Qiong Wu, Chunbo Lou 	20241001
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Tandem microplastic degradation and hydrogen production by hierarchical carbon nitride-supported single-atom iron catalysts](https://www.nature.com/articles/s41467-024-53055-1). Jingkai Lin, Kunsheng Hu, Yantao Wang, Wenjie Tian.. Sun, Huayang Zhang, Emiliano Cortés, Shaobin Wang 	20241001
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Retraction Note: Systems engineering of <i>Escherichia coli</i> for high-level glutarate production from glucose](https://www.nature.com/articles/s41467-024-53070-2). Zhilan Zhang, Ruyin Chu, Wanqing Wei, Wei Song, Chao Ye, Xiulai Chen, Jing Wu, Liming Liu, Cong Gao 	20241001
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Author Correction: Targeting HDAC6 to treat heart failure with preserved ejection fraction in mice](https://www.nature.com/articles/s41467-024-52831-3). Sara Ranjbarvaziri, Aliya Zeng, Iris Wu, Amara Gre..gast, Mohammad A. Mandegar, Timothy Hoey, Jin Yang 	20241001
-
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Moiré-engineered light-matter interactions in MoS<sub>2</sub>/WSe<sub>2</sub> heterobilayers at room temperature](https://www.nature.com/articles/s41467-024-53083-x). Qiaoling Lin, Hanlin Fang, Alexei Kalaboukhov, Yua..as Stenger, Zhipei Sun, Martijn Wubs, Sanshui Xiao 	20241001
-
 
 ### NatEcolEvol
 
