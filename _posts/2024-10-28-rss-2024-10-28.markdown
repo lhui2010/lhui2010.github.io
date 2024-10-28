@@ -3186,6 +3186,8 @@
 
   - \[[BioRxivB  - \[[BioRxivBio](http://biorxiv.org)\][Metagenomics-Toolkit: The Flexible and Efficient Cloud-Based Metagenomics Workflow featuring Machine Learning-Enabled Resource Allocation](http://biorxiv.org/cgi/content/short/2024.10.22.619569v1?rss=1). Belmann, P., Osterholz, B., Kleinboelting, N., Puehler, A., Schlueter, A., Sczyrba, A. 	20241001
 
+  - \[[BioRxivBio](http://biorxiv.org)\][K-mer analysis of long-read alignment pileups for structural variant genotyping](http://biorxiv.org/cgi/content/short/2024.10.22.  - \[[BioRxivBio](http://biorxiv.org)\][Metagenomics-Toolkit: The Flexible and Efficient Cloud-Based Metagenomics Workflow featuring Machine Learning-Enabled Resource Allocation](http://biorxiv.org/cgi/content/short/2024.10.22.619569v1?rss=1). Belmann, P., Osterholz, B., Kleinboelting, N., Puehler, A., Schlueter, A., Sczyrba, A. 	20241001
+
   - \[[BioRxivBio](http://biorxiv.org)\][K-mer analysis of long-read alignment pileups for structural variant genotyping](http://biorxiv.org/cgi/content/short/2024.10.22.619642v1?rss=1). ENGLISH, A. C., Cunial, F., Metcalf, G. A., Gibbs, R. A., Sedlazeck, F. J. 	20241001
 
   - \[[BioRxivBio](http://biorxiv.org)\][Deep generalizable prediction of RNA secondary structure via base pair motif energy](http://biorxiv.org/cgi/content/short/2024.10.22.619430v1?rss=1). Zhu, H., Tang, F., Quan, Q., Chen, K., Xiong, P., Zhou, S. K. 	20241001
