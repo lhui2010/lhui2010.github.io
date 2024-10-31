@@ -3385,7 +3385,9 @@
 
   - \[[BioRxivBio](http://biorxiv.org)\][Semi-supervised Contrastive Learning for Bioactivity Prediction using Cell Painting Image Data](http://biorxiv.org/cgi/content/short/2024.10.26.620435v1?rss=1). Bushiri Pwesombo, D., Beese, C., Schmied, C., Sun, H. 	20241001
 
-, Jie, H., Ng, K. W., Gavish, M., Herrmann, I. 	20241001
+  - \[[BioRxivBio](http://biorxiv.org)\][Unified knowledge-driven network inference from omics data](http://biorxiv.org/cgi/content/short/2024.10.26.620390v1?rss=1). Rodriguez-Mier, P., Garrido-Rodriguez, M., Gabor, A., Saez-Rodriguez, J. 	20241001
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Harnessing Smartphone RGB Imagery and LiDAR Point Cloud for Enhanced Leaf Nitrogen and Shoot Biomass Assessment - Chinese Spinach as a Case Study](http://biorxiv.org/cgi/content/short/2024.10.26.620395v1?rss=1). Harikumar, A., Shenhar, I., R.Pebes-Trujillo, M., .., M., Jie, H., Ng, K. W., Gavish, M., Herrmann, I. 	20241001
 
   - \[[BioRxivBio](http://biorxiv.org)\][Benchmarking HelixFold3-Predicted Holo Structures for Relative Free Energy Perturbation Calculations](http://biorxiv.org/cgi/content/short/2024.10.27.620454v1?rss=1). Furui, K., Ohue, M. 	20241001
 
