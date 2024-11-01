@@ -3331,6 +3331,59 @@
 
 ### BioRxivGenomInfor
 
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Improved Allele Frequencies in gnomAD through Local A  - \[[BioRxivBio](http://biorxiv.org)\][To fly, or not to fly, that is the question: A deep learning model for peptide detectability prediction in mass spectrometry](http://biorxiv.org/cgi/content/short/2024.10.28.620610v1?rss=1). Abdul-Khalek, N., Picciani, M., Wimmer, R., Overgaard, M. T., Wilhelm, M., Gregersen Echers, S. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][NeuroTD: A Time-Frequency Based Multimodal Learning Approach to Analyze Time Delays in Neural Activities](http://biorxiv.org/cgi/content/short/2024.10.28.620662v1?rss=1). Huang, X., Kalafut, N. C., Alatkar, S., Li, A. Z., Dong, Q., Chang, Q., Wang, D. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][AlphaFold 2, but not AlphaFold 3, predicts confident but unrealistic beta-solenoid structures for repeat proteins](http://biorxiv.org/cgi/content/short/2024.10.30.621056v1?rss=1). Pratt, O. S., Elliott, L. G., Haon, M., Mesdaghi, ... M., Simpkin, A. J., Rigden, D. J., Rigden, D. J. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Deep generative design of neutralizing nanobodies againstSARS-CoV-2 variants](http://biorxiv.org/cgi/content/short/2024.10.29.620982v1?rss=1). Huo, L., Tian, T., Xu, Y., Qin, Q., Jiang, X., Huang, Q. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][LIMPACAT：Multi-Omics Attention Transformer for Immune Prediction in Liver Cancer Using Whole-Slide Imaging](http://biorxiv.org/cgi/content/short/2024.10.28.620410v1?rss=1). Chiu, Y. J. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Shared Transcriptomic Signatures Reveal Synaptic Pruning as a Link Between Alzheimer's Disease and Epilepsy](http://biorxiv.org/cgi/content/short/2024.10.28.618752v1?rss=1). Li, H., Li, J., Chen, M., Liu, X., Sun, Y., Wu, J..., Chen, S., Deng, Z., Hong, M., Wei, N.-L., Ji, X. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][TaxonGPT: Taxonomic Classification Using Generative Artificial Intelligence](http://biorxiv.org/cgi/content/short/2024.10.28.618575v1?rss=1). Huang, H., Li, T., Wang, Z., Seldon, D., Rodrigo, A. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][VAPOR: Variational autoencoder with transport operators decouples co-occurring biological processes in development](http://biorxiv.org/cgi/content/short/2024.10.27.620534v1?rss=1). Sheng, J., Wang, D. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Cloudgene 3: Transforming Nextflow Pipelines into Powerful Web Services](http://biorxiv.org/cgi/content/short/2024.10.27.620456v1?rss=1). Forer, L., Schoenherr, S. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Exploring genetic signatures of zoonotic influenza A virus at the swine-human interface with phylogenetic and ancestral sequence reconstruction](http://biorxiv.org/cgi/content/short/2024.10.26.619880v1?rss=1). Anker, K. M., Ciucani, M. M., Nissen, J. N., Anderson, T. K., Pedersen, A. G., Trebbien, R. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN](http://biorxiv.org/cgi/content/short/2024.10.27.620535v1?rss=1). Xue, S., Zhu, F., Chen, J., Min, W. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Automated Harmonization and Large-Scale Integration of Heterogeneous Biomedical Sample Metadata Using Large Language Models](http://biorxiv.org/cgi/content/short/2024.10.26.620145v1?rss=1). Higashi, K., Nakagawa, Z., Yamada, T., Mori, H. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Chemoenzymatic Synthesis Planning Guided by Reaction Type Score](http://biorxiv.org/cgi/content/short/2024.10.25.620365v1?rss=1). Li, H., Liu, X., Jiang, G., Zhao, H. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Identifying Modulators of Cellular Responses by Heterogeneity-sequencing](http://biorxiv.org/cgi/content/short/2024.10.28.620481v1?rss=1). Berg, K., Sakellaridi, L., Rummel, T., Hennig, T.,..sty, B. K., Doelken, L., Saliba, A.-E., Erhard, F. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][GenePert: Leveraging GenePT Embeddings for Gene Perturbation Prediction](http://biorxiv.org/cgi/content/short/2024.10.27.620513v1?rss=1). Chen, Y. T., Zou, J. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][scMultiNODE: Integrative Model for Multi-Modal Temporal Single-Cell Data](http://biorxiv.org/cgi/content/short/2024.10.27.620531v1?rss=1). Zhang, J., Chakravarthy, M., Singh, R. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Semi-supervised Contrastive Learning for Bioactivity Prediction using Cell Painting Image Data](http://biorxiv.org/cgi/content/short/2024.10.26.620435v1?rss=1). Bushiri Pwesombo, D., Beese, C., Schmied, C., Sun, H. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Unified knowledge-driven network inference from omics data](http://biorxiv.org/cgi/content/short/2024.10.26.620390v1?rss=1). Rodriguez-Mier, P., Garrido-Rodriguez, M., Gabor, A., Saez-Rodriguez, J. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Harnessing Smartphone RGB Imagery and LiDAR Point Cloud for Enhanced Leaf Nitrogen and Shoot Biomass Assessment - Chinese Spinach as a Case Study](http://biorxiv.org/cgi/content/short/2024.10.26.620395v1?rss=1). Harikumar, A., Shenhar, I., R.Pebes-Trujillo, M., .., M., Jie, H., Ng, K. W., Gavish, M., Herrmann, I. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Benchmarking HelixFold3-Predicted Holo Structures for Relative Free Energy Perturbation Calculations](http://biorxiv.org/cgi/content/short/2024.10.27.620454v1?rss=1). Furui, K., Ohue, M. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Disentangling the CHAOS of intrinsic disorder in human proteins](http://biorxiv.org/cgi/content/short/2024.10.26.620428v1?rss=1). de Vries, I., Bak, J., Alvarez Salmoral, D., Xie, R., Borza, R., Konijnenberg, M., Perrakis, A. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][SpatialPPI 2.0: Enhancing Protein-Protein Interaction Prediction through Inter-Residue Analysis in Graph Attention Networks](http://biorxiv.org/cgi/content/short/2024.10.25.620355v1?rss=1). Hu, W., Ohue, M. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Integer programming framework for pangenome-based genome inference](http://biorxiv.org/cgi/content/short/2024.10.27.620212v1?rss=1). Chandra, G., Hossen, M. H., Scholz, S., Dilthey, A. T., Gibney, D., Jain, C. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Integration of protein and coding sequences enables mutual augmentation of the language model](http://biorxiv.org/cgi/content/short/2024.10.24.620004v1?rss=1). Zhao, H.-R., Cheng, M.-T., Zhu, J., Wang, H., Yang..hen, E., Li, H., Han, S.-J., Chen, Y., Zhou, C.-Z. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Towards Robust Evaluation of Protein Generative Models: A Systematic Analysis of Metrics](http://biorxiv.org/cgi/content/short/2024.10.25.620213v1?rss=1). Strashnov, P., Shevtsov, A., Meshchaninov, V., Ivanova, M., Nikolaev, F., Kardymon, O., Vetrov, D. 	20241101
+
+
+### BioRxivGenomInfor
+
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Improved Allele Frequencies in gnomAD through Local Ancestry Inference](http://biorxiv.org/cgi/content/short/2024.10.30.620961v1?rss=1). Atkinson, E. G., Kore, P., Wilson, M., Tiao, G., C..Consortium,, Rehm, H., Daly, M., Karczewski, K. J. 	20241101
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][LCL: Contrastive Learning for Lineage Barcoded scRNA-seq Data](http://biorxiv.org/cgi/content/short/2024.10.28.620670v1?rss=1). Yang, S. J., Wang, Y., Lin, K. Z. 	20241101
