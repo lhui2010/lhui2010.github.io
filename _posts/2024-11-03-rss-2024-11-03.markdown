@@ -441,21 +441,21 @@
 
 ### NatCommun
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][HiDDEN: a machine learning method for detection of disease-relevant populations in case-control single-cell transcriptomics data](https://www.nature.com/articles/s41467-024-53666-8). Aleksandrina Goeva, Michael-John Dolan, Judy Luu, ..ia, Rebecca Boiarsky, Rajat M. Gupta, Evan Macosko 	20241101
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Bio-sourced flexible supramolecular glasses for dynamic and full-color phosphorescence](https://www.nature.com/articles/s41467-024-53963-2). Fei Nie, Dongpeng Yan 	20241101
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Distinct <i>Escherichia coli</i> transcriptional profiles in the guts of recurrent UTI sufferers revealed by pangenome hybrid selection](https://www.nature.com/articles/s41467-024-53829-7). Mark G. Young, Timothy J. Straub, Colin J. Worby, ..igail L. Manson, Scott J. Hultgren, Ashlee M. Earl 	20241101
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Making sense of eastern Asian Late Quaternary hominin variability](https://www.nature.com/articles/s41467-024-53918-7). Christopher J. Bae, Xiujie Wu 	20241101
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][A comprehensive comparison of tools for fitting mutational signatures](https://www.nature.com/articles/s41467-024-53711-6). Matúš Medo, Charlotte K. Y. Ng, Michaela Medová 	20241101
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Molecular mechanism of parental H3/H4 recycling at a replication fork](https://www.nature.com/articles/s41467-024-53187-4). Fritz Nagae, Yasuto Murayama, Tsuyoshi Terakawa 	20241101
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Long-distance decay-less spin transport in indirect excitons in a van der Waals heterostructure](https://www.nature.com/articles/s41467-024-53445-5). Zhiwen Zhou, E. A. Szwed, D. J. Choksy, L. H. Fowler-Gerace, L. V. Butov 	20241101
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][ELO-6 expression predicts longevity in isogenic populations of <i>Caenorhabditis elegans</i>](https://www.nature.com/articles/s41467-024-53887-x). Weilin Kong, Guoli Gu, Tong Dai, Beibei Chen, Yanli Wang, Zheng Zeng, Mintie Pu 	20241101
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Human iPSC-derived neural stem cells displaying radial glia signature exhibit long-term safety in mice](https://www.nature.com/articles/s41467-024-53613-7). Marco Luciani, Chiara Garsia, Stefano Beretta, Ing..i, Annarita Miccio, Vasco Meneghini, Angela Gritti 	20241101
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Effectiveness of BNT162b2 XBB vaccine in the US Veterans Affairs Healthcare System](https://www.nature.com/articles/s41467-024-53842-w). Aisling R. Caffrey, Haley J. Appaneal, Vrishali V... Luis Jodar, Kerry L. LaPlante, John M. McLaughlin 	20241101
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Decomposing causality into its synergistic, unique, and redundant components](https://www.nature.com/articles/s41467-024-53373-4). Álvaro Martínez-Sánchez, Gonzalo Arranz, Adrián Lozano-Durán 	20241101
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Unsupervised representation learning of Kohn–Sham states and consequences for downstream predictions of many-body effects](https://www.nature.com/articles/s41467-024-53748-7). Bowen Hou, Jinyuan Wu, Diana Y. Qiu 	20241101
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][ChromaFold predicts the 3D contact map from single-cell chromatin accessibility](https://www.nature.com/articles/s41467-024-53628-0). Vianne R. Gao, Rui Yang, Arnav Das, Renhe Luo, Han..r Y. Rudensky, Ari M. Melnick, Christina S. Leslie 	20241101
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Atomically resolved imaging of the conformations and adsorption geometries of individual β-cyclodextrins with non-contact AFM](https://www.nature.com/articles/s41467-024-53555-0). Márkó Grabarics, Benjamín Mallada, Shayan Edalatma..han Rauschenbach, Pavel Jelínek, Bruno de la Torre 	20241101
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Motorless transport of microtubules along tubulin, RanGTP, and salt gradients](https://www.nature.com/articles/s41467-024-53656-w). Suin Shim, Bernardo Gouveia, Beatrice Ramm, Venecia A. Valdez, Sabine Petry, Howard A. Stone 	20241101
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][CLSTN3B promotes lipid droplet maturation and lipid storage in mouse adipocytes](https://www.nature.com/articles/s41467-024-53750-z). Chuanhai Zhang, Mengchen Ye, Kamran Melikov, Dengb.. McDonald, Kaitlyn Eckert, Mei-Jung Lin, Xing Zeng 	20241101
 
 
 ### NatEcolEvol
@@ -1449,66 +1449,16 @@
 
 ### Genetics
 
-  - \[[Genetics](http://academic.oup.com/genetics)\][Interaction between ESCRT-III proteins and the yeast SERINC homolog Tms1](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae132/7756704?rss=1).  Fri, 13 Sep 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][An anatomical atlas of Drosophila melanogaster—the wild-type](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae129/7750380?rss=1).  Fri, 06 Sep 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Conserved signaling modules regulate filamentous growth in fungi: a model for eukaryotic cell differentiation](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae122/7750198?rss=1).  Fri, 06 Sep 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Transcriptomic analysis of meiotic genes during the mitosis-to-meiosis transition in Drosophila females](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae130/7748294?rss=1).  	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Asymptotically exact fit for linear mixed model in genetic association studies](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae143/7745785?rss=1).  Fri, 30 Aug 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Transformation of meiotic drive into hybrid sterility in Drosophila](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae133/7743219?rss=1).  Wed, 28 Aug 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][In vivo dissection of the mouse tyrosine catabolic pathway with CRISPR-Cas9 identifies modifier genes affecting hereditary tyrosinemia type 1](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae139/7740024?rss=1).  Fri, 23 Aug 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Neurogenesis in Caenorhabditis elegans](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae116/7738076?rss=1).  Wed, 21 Aug 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][The emerging H3K9me3 chromatin landscape during zebrafish embryogenesis](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae138/7738016?rss=1).  Wed, 21 Aug 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Correction to: Genetics of Bacteria: a call for papers](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae137/7737261?rss=1).  	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Direct inference of the distribution of fitness effects of spontaneous mutations from recombinant inbred Caenorhabditis elegans mutation accumulation lines](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae136/7733330?rss=1).  Wed, 14 Aug 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Automated cell lineage reconstruction using label-free 4D microscopy](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae135/7733329?rss=1).  Wed, 14 Aug 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][The geometry of admixture in population genetics: the blessing of dimensionality](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae134/7733241?rss=1).  Wed, 14 Aug 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Fdo1, Fkh1, Fkh2, and the Swi6–Mbp1 MBF complex regulate Mcd1 levels to impact eco1 rad61 cell growth in Saccharomyces cerevisiae](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae128/7729208?rss=1).  Wed, 07 Aug 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Comparative analysis of new mScarlet-based red fluorescent tags in Caenorhabditis elegans](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae126/7727755?rss=1).  	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Tdh3 and Rom2 are functional modulators of a conserved condensate-resident RNA-binding protein, Scd6, in Saccharomyces cerevisiae](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae127/7726149?rss=1).  Fri, 02 Aug 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Adapting and optimizing GCaMP8f for use in Caenorhabditis elegans](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae125/7723628?rss=1).  Mon, 29 Jul 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Candida albicans PPR proteins are required for the expression of respiratory Complex I subunits](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae124/7723236?rss=1).  Mon, 29 Jul 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Poly(U) polymerase activity in Caenorhabditis elegans regulates abundance and tailing of sRNA and mRNA](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae120/7721997?rss=1).  Sun, 28 Jul 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][PACS-1 variant protein is aberrantly localized in Caenorhabditis elegans model of PACS1/PACS2 syndromes](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae118/7717637?rss=1).  Sat, 20 Jul 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][ADR-2 regulates fertility and oocyte fate in Caenorhabditis elegans](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae114/7717260?rss=1).  Fri, 19 Jul 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][RABR-1, an atypical Rab-related GTPase, cell-nonautonomously restricts somatosensory dendrite branching](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae113/7717258?rss=1).  Fri, 19 Jul 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][SHC-3: a previously unidentified C. elegans Shc family member functions in the insulin-like signaling pathway to enhance survival during L1 arrest](https://academic.oup.com/genetics/article/doi/10.1093/genetics/iyae093/7691211?rss=1).  	20241101
-
 
 ### Genetics
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Leveraging a new data resource to define the response of C. neoformans to environmental signals](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyae178/7863345?rss=1).  Fri, 01 Nov 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Dominant myosin storage myopathy mutations disrupt striated muscles in Drosophila and the myosin tail-tail interactome of human cardiac thick filaments](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyae174/7863344?rss=1).  Fri, 01 Nov 2024 00:00:00 GM	20241101
-
-  - \[[Genetics](http://academic.oup.com/genetics)\][Parental-effect gene-drive elements under partial selfing, or why do Caenorhabditis genomes have hyperdivergent regions?](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyae175/7852876?rss=1).  Wed, 30 Oct 2024 00:00:00 GM	20241101
 
 
 ### Genetics
 
 
 ### AdvancedSci
+
+  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][A Core‐Brush Nanoplatform with Enhanced Lubrication and Anti‐Inflammatory Properties for Osteoarthritis Treatment](https://onlinelibrary.wiley.com/doi/10.1002/advs.202406027?af=R). Yingying Liu, Zhiyan Ma, Xin Wang, Jiaming Lian..ngyu Zhang, Jiayu Ren, Shuping Zhang, Yajun Liu Fri, 01 Nov 2024 03:41:04 -0700	20241101
 
   - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Boosting the Sodiation Kinetics of Sn Anode Using a Yolk–Shell Nanohybrid Structure for High‐Rate and Ultrastable Sodium‐Ion Batteries](https://onlinelibrary.wiley.com/doi/10.1002/advs.202408450?af=R). Hyojun Lim, Seungho Yu, Wonyoung Chang, Kyung Yoon Chung, Wonchang Choi, Sang‐Ok Kim 	20241101
 
@@ -1821,8 +1771,6 @@
   - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Exploring the Frontiers of Cell Temperature Measurement and Thermogenesis](https://onlinelibrary.wiley.com/doi/10.1002/advs.202402135?af=R). Hanliang Zhu, Haotian Xu, Yue Zhang, Jan Brodsk.., Imrich Gablech, Marie Korabečná, Pavel Neuzil Mon, 28 Oct 2024 11:26:23 -0700	20241101
 
   - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][EPO Deficiency Upregulates GADD45b/p38 MAPK Axis, Mediating Schizophrenia‐Related Synaptic and Cognitive Impairments](https://onlinelibrary.wiley.com/doi/10.1002/advs.202406979?af=R). Cuiping Guo, Wensheng Li, Yi Liu, Xiaoqing Tao,..zhi Wang, Rong Liu, Shusheng Li, Xiaochuan Wang Mon, 28 Oct 2024 11:25:01 -0700	20241101
-
-  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][In Situ Constructing Robust Interface by Deep Eutectic Polymeric Electrolyte Enables High Performance Lithium Metal Batteries with High‐Loading Cathode](https://onlinelibrary.wiley.com/doi/10.1002/advs.202411421?af=R). Zixuan Fang, Ming Zhang, Zhihao Zhang, Jitao Li..tian Wu, Haiping Zhou, Ziqiang Xu, Mengqiang Wu Mon, 28 Oct 2024 05:50:01 -0700	20241101
 
   - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Real Time Tracking of Nanoconfined Water‐Assisted Ion Transfer in Functionalized Graphene Derivatives Supercapacitor Electrodes](https://onlinelibrary.wiley.com/doi/10.1002/advs.202307583?af=R). Akshay Kumar K. Padinjareveetil, Martin Pykal, A..os, Radek Zbořil, Michal Otyepka, Martin Pumera Wed, 23 Oct 2024 02:52:26 -0700	20241101
 
@@ -2206,7 +2154,9 @@
 
   - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Optimal Electrocatalyst Design Strategies for Acidic Oxygen Evolution](https://onlinelibrary.wiley.com/doi/10.1002/advs.202401975?af=R). Dongdong Zhang, Qilong Wu, Liyun Wu, Lina Cheng, Keke Huang, Jun Chen, Xiangdong Yao Wed, 16 Oct 2024 05:55:07 -0700	20241101
 
-  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Nanomaterials that Aid in the Di  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][3‐Hydroxythiophenol‐Formaldehyde Resin Microspheres Modulated by Sulfhydryl Groups for Highly Efficient Photocatalytic Synthesis of H2O2](https://onlinelibrary.wiley.com/doi  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Toward Diverse Plant Proteins for Food Innovation](https://onlinelibrary.wiley.com/doi/10.1002/advs.202408150?af=R). Woojeong Kim, Canice Chun‐Yin Yiu, Yong Wang, Weibiao Zhou, Cordelia Selomulya Wed, 16 Oct 2024 05:55:07 -0700	20241101
+  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Nanomaterials that Aid in the Diagnosis and Treatment of Alzheimer's Disease, Resolving Blood–Brain Barrier Crossing Ability](https://onlinelibrary.wiley.com/doi/10.1002/advs.202403473?af=R). Qingting Song, Junyou Li, Ting Li, Hung‐Wing Li Wed, 16 Oct 2024 05:55:07 -0700	20241101
+
+  - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Toward Diverse Plant Proteins for Food Innovation](https://onlinelibrary.wiley.com/doi/10.1002/advs.202408150?af=R). Woojeong Kim, Canice Chun‐Yin Yiu, Yong Wang, Weibiao Zhou, Cordelia Selomulya Wed, 16 Oct 2024 05:55:07 -0700	20241101
 
   - \[[AdvancedSci](https://onlinelibrary.wiley.com/journal/21983844?af=R)\][Recent Advances in Transparent Electrodes and Their Multimodal Sensing Applications](https://onlinelibrary.wiley.com/doi/10.1002/advs.202405099?af=R). Majed Althumayri, Ritu Das, Ramu Banavath, Levent Beker, Alin M. Achim, Hatice Ceylan Koydemir Wed, 16 Oct 2024 05:55:07 -0700	20241101
 
@@ -2256,6 +2206,10 @@
 
 
 ### NewPhytol
+
+  - \[[NewPhytol](https://nph.onlinelibrary.wiley.com/journal/14698137?af=R)\][CPK28‐mediated phosphorylation enhances nitrate transport activity of NRT2.1 during nitrogen deprivation](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.20236?af=R). Lindi Yue, Mengyuan Liu, Jiahui Liao, Kaina Zhang, Wei‐Hua Wu, Yang Wang Sat, 02 Nov 2024 00:10:45 -0700	20241101
+
+  - \[[NewPhytol](https://nph.onlinelibrary.wiley.com/journal/14698137?af=R)\][Binding of PtoRAP2.12 to demethylated and accessible chromatin regions in the PtoGntK promoter stimulates growth of poplar](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.20228?af=R). Yuling He, Jiaxuan Zhou, Chenfei Lv, Jinhan Zha..ang Quan, Dan Wang, Deqiang Zhang, Qingzhang Du Fri, 01 Nov 2024 23:23:14 -0700	20241101
 
   - \[[NewPhytol](https://nph.onlinelibrary.wiley.com/journal/14698137?af=R)\][Linking seedling wood anatomical trade‐offs with drought and seedling growth and survival in tropical dry forests](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.20222?af=R). Andrés González‐Melo, Beatriz Salgado‐Negret, Na..ista, Juan Felipe Solorzano, María Natalia Umaña 	20241101
 
@@ -2483,7 +2437,9 @@
 
   - \[[NewPhytol](https://nph.onlinelibrary.wiley.com/journal/14698137?af=R)\][Tip of the iceberg? Three novel TOPLESS‐interacting effectors of the gall‐inducing fungus Ustilago maydis](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.19967?af=R). Mamoona Khan, Simon Uhse, Janos Bindics, Benjam.., Riaz Tabassum, Kishor D. Ingole, Armin Djamei Wed, 02 Oct 2024 21:37:39 -0700	20241101
 
-  - \[[NewPhytol](https://nph.onlinelibrary.wiley.com/journal/14698137?af=R)\][RACK1 links phyB and BES1 to coordinate brassinosteroid‐dependent root meristem development](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.20055?af=R). Wei Zh  - \[[NewPhytol](https://nph.onlinelibrary.wiley.com/journal/14698137?af=R)\][HOS15‐mediated turnover of PRR7 enhances freezing t  - \[[NewPhytol](https://nph.onlinelibrary.wiley.com/journal/14698137?af=R)\][Spatiotemporal transcriptome atlas reveals gene regulatory patterns during the organogenesis of the rapid growing bamboo shoots](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.20059?af=R). Jing Guo, Dan Luo, Yamao Chen, Fengjiao Li, Ji.. Gong, Fen Yu, Wengen Zhang, Ji Qi, Chunce Guo Wed, 02 Oct 2024 21:37:39 -0700	20241101
+  - \[[NewPhytol](https://nph.onlinelibrary.wiley.com/journal/14698137?af=R)\][RACK1 links phyB and BES1 to coordinate brassinosteroid‐dependent root meristem development](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.20055?af=R). Wei Zhu, Yajuan Fu, Hua Zhou, Yeling Zhou, Day..hu Wang, Yujing Su, Zhiyong Li, Jiansheng Liang Wed, 02 Oct 2024 21:37:39 -0700	20241101
+
+  - \[[NewPhytol](https://nph.onlinelibrary.wiley.com/journal/14698137?af=R)\][Spatiotemporal transcriptome atlas reveals gene regulatory patterns during the organogenesis of the rapid growing bamboo shoots](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.20059?af=R). Jing Guo, Dan Luo, Yamao Chen, Fengjiao Li, Ji.. Gong, Fen Yu, Wengen Zhang, Ji Qi, Chunce Guo Wed, 02 Oct 2024 21:37:39 -0700	20241101
 
   - \[[NewPhytol](https://nph.onlinelibrary.wiley.com/journal/14698137?af=R)\][The OsGAPC1‐OsSGL module negatively regulates salt tolerance by mediating abscisic acid biosynthesis in rice](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.20061?af=R). Lingli Jiang, Weiyu Xiao, Huiping Chen, Yinyao .., Jianzhong Cao, Qinlu Lin, Feng Yu, Long Wang Wed, 02 Oct 2024 21:37:39 -0700	20241101
 
@@ -2519,14 +2475,15 @@
 
   - \[[NewPhytol](https://nph.onlinelibrary.wiley.com/journal/14698137?af=R)\][Negative and sex‐specific effects of drought on flower production, resources and pollinator visitation, but not on floral scent in monoecious Cucurbita pepo](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.20016?af=R). Monica Barman, Raimund Tenhaken, Stefan Dötterl Wed, 02 Oct 2024 21:37:39 -0700	20241101
 
-  - \[[NewPhytol](https://nph.onlinelibrary.wiley.com/journal/14698137?af=R)\][Warming triggers stomatal opening by enhancement of photosynthesis and ensuing guard cell CO2 sensing, whereas higher temperatures induce a photosynthesis‐uncoupled response](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.20121?af=R). Nattiwong Pankasem, Po‐Kai Hsu, Bryn N. K. Lopez, Peter J. Franks, Julian I. Schroeder 	20241101
-
-  - \[[NewPhytol](https://nph.onlinelibrary.wiley.com/journal/14698137?af=R)\][The BpPP2C‐BpMADS11‐BpERF61 signaling confers drought tolerance in Betula platyphylla](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.20164?af=R). Huimin Zhao, Yaqi Jia, Yani Niu, Yucheng Wang 	20241101
-
 
 ### PlantPhysiol
 
-  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Inferring allele-specific copy number aberrations and tumor phylogeography from spatially resolved transcriptomics](https://www.nature.com/articles/s41592-024-02438-9). Cong Ma,  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Statistical inference with a manifold-constrained RNA velocity model uncovers cell cycle speed modulations](https://www.nature.com/articles/s41592-024-02471-8). Alex R. Lederer, Maxine Leonardi, Lorenzo Talamanc..t Arabí, Luca Pinello, Felix Naef, Gioele La Manno 	20241101
+
+### NatMethods
+
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Uncovering cell cycle speed modulations with statistical inference](https://www.nature.com/articles/s41592-024-02484-3). Pengzhi Zhang, Guangyu Wang 	20241101
+
+  - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Statistical inference with a manifold-constrained RNA velocity model uncovers cell cycle speed modulations](https://www.nature.com/articles/s41592-024-02471-8). Alex R. Lederer, Maxine Leonardi, Lorenzo Talamanc..t Arabí, Luca Pinello, Felix Naef, Gioele La Manno 	20241101
 
   - \[[NatMethods](http://feeds.nature.com/nmeth/rss/current)\][Proteome-scale recombinant standards and a robust high-speed search engine to advance cross-linking MS-based interactomics](https://www.nature.com/articles/s41592-024-02478-1). Milan Avila Clasen, Max Ruwolt, Cong Wang, Julia R..hen, Paulo C. Carvalho, Diogo Borges Lima, Fan Liu 	20241101
 
@@ -2617,9 +2574,11 @@
 
   - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][Regulation of maize growth and immunity by ZmSKI3‐mediated RNA decay and post‐transcriptional gene silencing](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13780?af=R). Jie Gao, Na Zhang, Guohui Liu, Jinjun Tian, Me..ongbin Niu, Jiankun Li, Jihua Tang, Mingyue Gou 	20241101
 
-  - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][Light signaling‐dependent regulation of plastid RNA processing in  - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][An integrative framework reveals widespread gene flow during the early radiation of oaks and relatives in Quercoideae (Fagaceae)](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13773?af=R). Shui‐Yin Liu, Ying‐Ying Yang, Qin Tian, Zhi‐Yun.. Gregory W. Stull, Ryan A. Folk, Ting‐Shuang Yi 	20241101
+  - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][Light signaling‐dependent regulation of plastid RNA processing in Arabidopsis](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13779?af=R). Lili Hu, Qian Wu, Chunyu Wu, Chunmei Zhang, Zi..Zhang, Sujuan Duan, Hong‐Bin Wang, Hong‐Lei Jin 	20241101
 
-  - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][Transcriptional regulation of phospholipid transport in cotton fiber elongation by GhMYB30D04–GhHD1 interaction complex](https://onlinelibr  - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][GhCASPL1 regulates secondary cell wall thickening in cotton fibers by stabilizing the cellulose synthase complex on the plasma membrane](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13777?af=R). Li Zhang, Xingpeng Wen, Xin Chen, Yifan Zhou, Kun Wang, Yuxian Zhu 	20241101
+  - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][A novel C2H2‐type zinc‐finger transcription factor, CitZAT4, regulates ethylene‐induced orange coloration in Satsuma mandarin flavedo (Citrus unshiu Marc.)](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13778?af=R). Quan Sun, Zhengchen He, Junli Ye, Ranran Wei, ..jun Chai, Yunjiang Cheng, Qiang Xu, Xiuxin Deng 	20241101
+
+  - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][GhCASPL1 regulates secondary cell wall thickening in cotton fibers by stabilizing the cellulose synthase complex on the plasma membrane](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13777?af=R). Li Zhang, Xingpeng Wen, Xin Chen, Yifan Zhou, Kun Wang, Yuxian Zhu 	20241101
 
   - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][An integrative framework reveals widespread gene flow during the early radiation of oaks and relatives in Quercoideae (Fagaceae)](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13773?af=R). Shui‐Yin Liu, Ying‐Ying Yang, Qin Tian, Zhi‐Yun.. Gregory W. Stull, Ryan A. Folk, Ting‐Shuang Yi 	20241101
 
@@ -2752,9 +2711,11 @@
 
   - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][MetMiner: A user‐friendly pipeline for large‐scale plant metabolomics data analysis](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13774?af=R). Xiao Wang, Shuang Liang, Wenqi Yang, Ke Yu, Fe..r, Jeremy A. Roberts, Junli Zhang, Xuebin Zhang 	20241101
 
-  - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][A highly efficient soybean transformation system using GRF3‐GIF1 chimeric prot  - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][The METHYLTRANSFERASE B–SERRATE interaction mediates the reciprocal regulation of microRNA biogenesis and RNA m6A modification](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13770?af=R). Haiyan Bai, Yanghuan Dai, Panting Fan, Yiming Z..Yizhen Deng, Qi Liu, Shengbo He, Zhonghui Zhang 	20241101
+  - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][A highly efficient soybean transformation system using GRF3‐GIF1 chimeric protein](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13767?af=R). Ying Zhao, Peng Cheng, Ying Liu, Chunyan Liu, .. Xin, Xiaoxia Wu, Mingliang Yang, Qingshan Chen Fri, 06 Sep 2024 05:26:39 -0700	20241101
 
-  - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][Regulation of cryptochrome‐mediated blue light signaling by the ABI4–PIF4 module](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13769?af=R). Pengyu Song, Zidan  - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][Tradeoff between productivity and stability across above‐ and below‐ground communities](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13771?af=R). Zonghao Hu, Haiyan Liu, Junjie Yang, Bin Hua, ..Wei Yang, Honghui Wu, Xingguo Han, Ximei Zhang 	20241101
+  - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][Profiling of Phakopsora pachyrhizi transcriptome revealed co‐expressed virulence effectors as prospective RNA interference targets for soybean rust management](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13772?af=R). Haibing Ouyang, Guangzheng Sun, Kainan Li, Rui ..Tengfei Liu, Wenwu Ye, Yan Wang, Yuanchao Wang 	20241101
+
+  - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][Tradeoff between productivity and stability across above‐ and below‐ground communities](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13771?af=R). Zonghao Hu, Haiyan Liu, Junjie Yang, Bin Hua, ..Wei Yang, Honghui Wu, Xingguo Han, Ximei Zhang 	20241101
 
   - \[[JIPB](https://onlinelibrary.wiley.com/journal/17447909?af=R)\][The METHYLTRANSFERASE B–SERRATE interaction mediates the reciprocal regulation of microRNA biogenesis and RNA m6A modification](https://onlinelibrary.wiley.com/doi/10.1111/jipb.13770?af=R). Haiyan Bai, Yanghuan Dai, Panting Fan, Yiming Z..Yizhen Deng, Qi Liu, Shengbo He, Zhonghui Zhang 	20241101
 
@@ -2784,6 +2745,8 @@
 
 
 ### PlantBiotechnolJ
+
+  - \[[PlantBiotechnolJ](https://onlinelibrary.wiley.com/journal/14677652?af=R)\][CRISPR/Cas knockout of the NADPH oxidase gene OsRbohB reduces ROS overaccumulation and enhances heat stress tolerance in rice](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14500?af=R). Xiaolong Liu, Ping Ji, Jingpeng Liao, Ximiao Du..ang, Chen Xu, Hongtao Yang, Bo Peng, Kai Jiang Fri, 01 Nov 2024 11:28:56 -0700	20241101
 
   - \[[PlantBiotechnolJ](https://onlinelibrary.wiley.com/journal/14677652?af=R)\][Redefining the accumulated temperature index for accurate prediction of rice flowering time in diverse environments](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14498?af=R). Xingbing Xu, Qiong Jia, Sijia Li, Julong Wei, .. Chunjiao Xia, Kai Wang, Zhenyu Jia, Weibo Xie 	20241101
 
@@ -2929,9 +2892,11 @@
 
   - \[[PlantBiotechnolJ](https://onlinelibrary.wiley.com/journal/14677652?af=R)\][A resource for functional investigation of miRNAs in rice responses to viral infection](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14455?af=R). Baogang Zhang, Xiong Zhang, Wenji Li, Dezhuo Pa..fu Zhao, Shanshan Zhao, Shuai Zhang, Jianguo Wu Sat, 24 Aug 2024 01:24:01 -0700	20241101
 
-  - \[[PlantBiotechnolJ](https://onlinelibrary.wiley.com/journal/14677652?af=R)\][MdWRKY31‐MdNAC7 regulatory network: orchestrating fruit softening by modulating cell wall‐modifying enzyme MdXTH2 in response to ethylene signalling](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14445?af=R). Jia‐Hui Wang, Quan Sun, Chang‐Ning Ma,   - \[[PlantBiotechnolJ](https://onlinelibrary.wiley.com/journal/14677652?af=R)\][Editing and genome‐wide analysis upstream open reading frames contributes to enhancing salt tolerance in tomato](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14450?af=R). Chunping Jia, Juan Wang, Bin Guo, Tao Yang, Haitao Yang, Baike Wang, Qinghui Yu 	20241101
+  - \[[PlantBiotechnolJ](https://onlinelibrary.wiley.com/journal/14677652?af=R)\][MdWRKY31‐MdNAC7 regulatory network: orchestrating fruit softening by modulating cell wall‐modifying enzyme MdXTH2 in response to ethylene signalling](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14445?af=R). Jia‐Hui Wang, Quan Sun, Chang‐Ning Ma, Meng‐Men..Kun Wang, Yu‐Wen Zhao, Wen‐Yan Wang, Da‐Gang Hu Fri, 23 Aug 2024 21:38:43 -0700	20241101
 
-  - \[[PlantBiotechnolJ](https://onlinelibrary.wiley.com/journal/14677652?af=R)\][Ustilaginoidea virens secreted effector UvSec117 hijacks OsWRKY31‐OsAOC module to suppress j  - \[[PlantBiotechnolJ](https://onlinelibrary.wiley.com/journal/14677652?af=R)\][DEAD‐box RNA helicase RH20 positively regulates RNAi‐based antiviral immunity in plants by associating with SGS3/RDR6 bodies](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14448?af=R). Zhiyan Wen, Rujian Hu, Qinglin Pi, Dingliang Zh..Deshui Liu, Zhen Su, Dawei Li, Yongliang Zhang Wed, 21 Aug 2024 03:39:29 -0700	20241101
+  - \[[PlantBiotechnolJ](https://onlinelibrary.wiley.com/journal/14677652?af=R)\][Multiplex Expression Cassette Assembly: A flexible and versatile method for building complex genetic circuits in conventional vectors](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14454?af=R). Xun Jiang, Zhuoxiang Zhang, Xiuming Wu, Changme..ing Li, Aixia Chang, Aiguo Yang, Changqing Yang Fri, 23 Aug 2024 00:45:20 -0700	20241101
+
+  - \[[PlantBiotechnolJ](https://onlinelibrary.wiley.com/journal/14677652?af=R)\][DEAD‐box RNA helicase RH20 positively regulates RNAi‐based antiviral immunity in plants by associating with SGS3/RDR6 bodies](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14448?af=R). Zhiyan Wen, Rujian Hu, Qinglin Pi, Dingliang Zh..Deshui Liu, Zhen Su, Dawei Li, Yongliang Zhang Wed, 21 Aug 2024 03:39:29 -0700	20241101
 
   - \[[PlantBiotechnolJ](https://onlinelibrary.wiley.com/journal/14677652?af=R)\][Editing and genome‐wide analysis upstream open reading frames contributes to enhancing salt tolerance in tomato](https://onlinelibrary.wiley.com/doi/10.1111/pbi.14450?af=R). Chunping Jia, Juan Wang, Bin Guo, Tao Yang, Haitao Yang, Baike Wang, Qinghui Yu 	20241101
 
@@ -3093,10 +3058,22 @@
 
   - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Genome assembly of autotetraploid Actinidia arguta highlights adaptive evolution and enables dissection of important economic traits](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00085-3?rss=yes). Xue-Mei Lu, Xiao-Fen Yu, Guo-Qiang Li, Ming-Hao Qu..ng, Yongbo Liu, Lei Gao, Jin-Hu Wu, Yan-Chang Wang 	20241101
 
-  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][RETINOBLASTOMA RELATED 1 switches mitosis to meiosis in rice](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00086-5?rss=yes). Yongjie Miao, Hanli You, Huixin Liu, Yangzi Zhao, .. Ding Tang, Baohui Liu, Kewei Zhang, Z  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Functional mechanism study of the allelochemical myrigalone A identifies a group of ultrapotent inhibitors of ethylene biosynthesis in plants](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00075-0?rss=yes). George Heslop-Harrison, Kazumi Nakabayashi, Ana Es..badí, Gerhard Leubner-Metzger, Robin S.B. Williams 	20241101
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][RETINOBLASTOMA RELATED 1 switches mitosis to meiosis in rice](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00086-5?rss=yes). Yongjie Miao, Hanli You, Huixin Liu, Yangzi Zhao, .. Ding Tang, Baohui Liu, Kewei Zhang, Zhukuan Cheng 	20241101
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][GhCTSF1, a short PPR protein with a conserved role in chloroplast development and photosynthesis, participates in intron splicing of rpoC1 and ycf3-2 transcripts in cotton](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00087-7?rss=yes). Yuzhu Huo, Mengxue Cheng, Meiju Tang, Meng Zhang, ..Yang, Yating Zheng, Tong Zhao, Peng He, Jianing Yu 	20241101
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][The MYB transcription factor OsMYBxoc1 regulates resistance to Xoc by directly repressing transcription of the iron transport gene OsNRAMP5 in rice](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00088-9?rss=yes). Haimiao Zhang, Baolong Sun, Wei Wu, Yang Li, Ziyi ..hong Lu, Haipeng Zhao, Lingguang Kong, Xinhua Ding 	20241101
+
+  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Functional mechanism study of the allelochemical myrigalone A identifies a group of ultrapotent inhibitors of ethylene biosynthesis in plants](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00075-0?rss=yes). George Heslop-Harrison, Kazumi Nakabayashi, Ana Es..badí, Gerhard Leubner-Metzger, Robin S.B. Williams 	20241101
 
 
 ### PlantJ
+
+  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Diurnal control of H3K27me1 deposition shapes expression of a subset of cell cycle and DNA damage response genes](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17114?af=R). Jorge Fung‐Uceda, María Sol Gómez, Laura Rodrígu..‐Casillas, Anna González‐Gil, Crisanto Gutierrez Fri, 01 Nov 2024 22:39:49 -0700	20241101
+
+  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][A MYB transcription factor underlying plant height in sorghum qHT7.1 and maize Brachytic 1 loci](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17111?af=R). Qi Mu, Jialu Wei, Hallie K. Longest, Hua Liu, .. Schoenbaum, Bing Yang, Xianran Li, Jianming Yu Fri, 01 Nov 2024 12:04:39 -0700	20241101
+
+  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Fast and simple fluorometric measurement of phloem loading exposes auxin‐dependent regulation of Arabidopsis sucrose transporter AtSUC2](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17110?af=R). Yunjuan Ren, Ziyu Zhang, Diana Zhanakhmetova, W..i, Shaolin Chen, Tomáš Werner, Johannes Liesche Fri, 01 Nov 2024 11:48:49 -0700	20241101
 
   - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Issue Information](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16306?af=R).  Wed, 30 Oct 2024 10:14:47 -0700	20241101
 
@@ -3304,9 +3281,7 @@
 
   - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][IsRNAcirc: 3D structure prediction of circular RNAs based on coarse-grained molecular dynamics simulation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012293). Haolin Jiang, Yulian Xu, Yunguang Tong, Dong Zhang, Ruhong Zhou 2024-10-28	20241101
 
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Tuning collective behaviour in zebrafish with genetic modification](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012034). Yushi Yang, Abdelwahab Kawafi, Qiao Tong, Erika Kague, Chrissy L. Hammond, C. Patrick Royall 2024-10-28	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][TIBA: A web application for the visual analysis of temporal occurrences, interactions, and transitions of animal behavior](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012425). Nicolai Kraus, Michael Aichem, Karsten Klein, Etienne Lein, Alex Jordan, Falk Schreiber 2024-10-25	20241101
+  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Tuning collective behaviour in zebrafish with genetic modification](https://journals.plos.org/ploscompbiol/article?id=10.1  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][T2T genomes of carrot and Alternaria dauci and their utility for unde  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][TIBA: A web application for the visual analysis of temporal occurrences, interactions, and transitions of animal behavior](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012425). Nicolai Kraus, Michael Aichem, Karsten Klein, Etienne Lein, Alex Jordan, Falk Schreiber 2024-10-25	20241101
 
   - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Just-in-time: Gaze guidance in natural behavior](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012529). Ashima Keshava, Farbod Nosrat Nezami, Henri Neumann, Krzysztof Izdebski, Thomas Schüler, Peter König 2024-10-24	20241101
 
@@ -3321,10 +3296,6 @@
   - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Simulation of 69 microbial communities indicates sequencing depth and false positives are major drivers of bias in prokaryotic metagenome-assembled genome recovery](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012530). Ulisses Rocha, Jonas Coelho Kasmanas, Rodolfo Tosc..Sanches, Stefania Magnusdottir, Joao Pedro Saraiva 2024-10-22	20241101
 
   - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Distributed network flows generate localized category selectivity in human visual cortex](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012507). Carrisa V. Cocuzza, Ruben Sanchez-Romero, Takuya Ito, Ravi D. Mill, Brian P. Keane, Michael W. Cole 2024-10-22	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Computational joint action: Dynamical models to understand the development of joint coordination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011948). Cecilia De Vicariis, Vinil T. Chackochan, Laura Bandini, Eleonora Ravaschio, Vittorio Sanguineti 2024-10-22	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][3-D Visualization of Atlantic salmon skin through Ultrasound and Photoacoustic Microscopy](https://journals.plos.org/ploscompbiol/article?id=10.1371/  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Distributed network flows generate localized category selectivity in human visual cortex](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012507). Carrisa V. Cocuzza, Ruben Sanchez-Romero, Takuya Ito, Ravi D. Mill, Brian P. Keane, Michael W. Cole 2024-10-22	20241101
 
   - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Computational joint action: Dynamical models to understand the development of joint coordination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011948). Cecilia De Vicariis, Vinil T. Chackochan, Laura Bandini, Eleonora Ravaschio, Vittorio Sanguineti 2024-10-22	20241101
 
@@ -3354,6 +3325,92 @@
 
 ### BioRxivBio
 
+  - \[[BioRxivBio](http://biorxiv.org)\][PAL-AI reveals genetic determinants that control poly(A)-tail length during oocyte maturation with relevance to human fertility](http://biorxiv.org/cgi/content/short/2024.10.29.620940v1?rss=1). Xiang, K., Bartel, D. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Improved pangenomic classification accuracy with chain statistics](http://biorxiv.org/cgi/content/short/2024.10.29.620953v1?rss=1). Brown, N. K., Shivakumar, V. S., Langmead, B. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Bacterial protein function prediction via multimodal deep learning](http://biorxiv.org/cgi/content/short/2024.10.30.621035v1?rss=1). Muzio, G., Adamer, M., Fernandez, L., Borgwardt, K., Avican, K. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Generating low-density minimizers](http://biorxiv.org/cgi/content/short/2024.10.28.620726v1?rss=1). Golan, S., Tziony, I., Kraus, M., Orenstein, Y., Shur, A. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][PSTP: Decoding Latent Sequence Grammar through Transfer Learning and Attention for Protein Phase Separation](http://biorxiv.org/cgi/content/short/2024.10.29.620820v1?rss=1). Feng, M., Wei, X., Lu, Q., Shi, Y., He, G. 	20241101
+
+ai Kraus, Michael Aichem, Karsten Klein, Etienne Lein, Alex Jordan, Falk Schreiber 2024-10-25	20241101
+
+  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Just-in-time: Gaze guidance in natural behavior](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012529). Ashima Keshava, Farbod Nosrat Nezami, Henri Neumann, Krzysztof Izdebski, Thomas Schüler, Peter König 2024-10-24	20241101
+
+  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][iModulonMiner and PyModulon: Software for unsupervised mining of gene expression compendia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012546). Anand V. Sastry, Yuan Yuan, Saugat Poudel, Kevin R..ara Seif, Bernhard O. Palsson, Daniel C. Zielinski 2024-10-23	20241101
+
+  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Modelling the impact of vaccination on COVID-19 in African countries](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012456). Dephney Mathebula, Abigail Amankwah, Kossi Amouzou..ri, Michael Olusegun Oluwole, Cláudio Moisés Paulo 2024-10-23	20241101
+
+  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][On the identification of differentially-active transcription factors from ATAC-seq data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011971). Felix Ezequiel Gerbaldo, Emanuel Sonder, Vincent F..tharina Gapp, Mark D. Robinson, Pierre-Luc Germain 2024-10-23	20241101
+
+  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][PreMLS: The undersampling technique based on ClusterCentroids to predict multiple lysine sites](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012544). Yun Zuo, Xingze Fang, Jiayong Wan, Wenying He, Xiangrong Liu, Xiangxiang Zeng, Zhaohong Deng 2024-10-22	20241101
+
+  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Simulation of 69 microbial communities indicates sequencing depth and false positives are major drivers of bias in prokaryotic metagenome-assembled genome recovery](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012530). Ulisses Rocha, Jonas Coelho Kasmanas, Rodolfo Tosc..Sanches, Stefania Magnusdottir, Joao Pedro Saraiva 2024-10-22	20241101
+
+  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Distributed network flows generate localized category selectivity in human visual cortex](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012507). Carrisa V. Cocuzza, Ruben Sanchez-Romero, Takuya Ito, Ravi D. Mill, Brian P. Keane, Michael W. Cole 2024-10-22	20241101
+
+  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Computational joint action: Dynamical models to understand the development of joint coordination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011948). Cecilia De Vicariis, Vinil T. Chackochan, Laura Bandini, Eleonora Ravaschio, Vittorio Sanguineti 2024-10-22	20241101
+
+  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][3-D Visualization of Atlantic salmon skin through Ultrasound and Photoacoustic Microscopy](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011709). Abhishek Ranjan, Jaya Kumari Swain, Balpreet Singh Ahluwalia, Frank Melandsø 2024-10-22	20241101
+
+  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Mapping the physiological changes in sleep regulation across infancy and young childhood](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012541). Lachlan Webb, Andrew J. K. Phillips, James A. Roberts 2024-10-21	20241101
+
+  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Abrupt and spontaneous strategy switches emerge in simple regularised neural networks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012505). Anika T. Löwe, Léo Touzo, Paul S. Muhle-Karbe, And... Saxe, Christopher Summerfield, Nicolas W. Schuck 2024-10-21	20241101
+
+  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][scCaT: An explainable capsulating architecture for sepsis diagnosis transferring from single-cell RNA sequencing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012083). Xubin Zheng, Dian Meng, Duo Chen, Wan-Ki Wong, Ka-.. Liang, Kwong-Sak Leung, Man-Hon Wong, Lixin Cheng 2024-10-21	20241101
+
+  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Understanding dual process cognition via the minimum description length principle](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012383). Ted Moskovitz, Kevin J. Miller, Maneesh Sahani, Matthew M. Botvinick 2024-10-18	20241101
+
+
+### BMCBioinformatics
+
+  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Improving crop production using an agro-deep learning framework in precision agriculture](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05970-9). J. Logeshwaran, Durgesh Srivastava, K. Sree Kumar,..-Rasheed, Masresha Getahun and Ben Othman Soufiene Fri, 01 Nov 2024 00:00:00 GM	20241101
+
+  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][BASE: a web service for providing compound-protein binding affinity prediction datasets with reduced similarity bias](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05968-3). Hyojin Son, Sechan Lee, Jaeuk Kim, Haangik Park, Myeong-Ha Hwang and Gwan-Su Yi Wed, 30 Oct 2024 00:00:00 GM	20241101
+
+  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Shrinkage estimation of gene interaction networks in single-cell RNA sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05946-9). Duong H. T. Vo and Thomas Thorne Sat, 26 Oct 2024 00:00:00 GM	20241101
+
+  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][KiNext: a portable and scalable workflow for the identification and classification of protein kinases](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05953-w). Elisabeth Hellec, Flavia Nunes, Charlotte Corporeau and Alexandre Cormier Fri, 25 Oct 2024 00:00:00 GM	20241101
+
+  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][DNA-protein quasi-mapping for rapid differential gene expression analysis in non-model organisms](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05924-1). Kyle Christian L. Santiago and Anish M. S. Shrestha 	20241101
+
+
+### BioRxivBio
+
+  - \[[BioRxivBio](http://biorxiv.org)\][PAL-AI reveals genetic determinants that control poly(A)-tail length during oocyte maturation with relevance to human fertility](http://biorxiv.org/cgi/content/short/2024.10.29.620940v1?rss=1). Xiang, K., Bartel, D. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Improved pangenomic classification accuracy with chain statistics](http://biorxiv.org/cgi/content/short/2024.10.29.620953v1?rss=1). Brown, N. K., Shivakumar, V. S., Langmead, B. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Bacterial protein function prediction via multimodal deep learning](http://biorxiv.org/cgi/content/short/2024.10.30.621035v1?rss=1). Muzio, G., Adamer, M., Fernandez, L., Borgwardt, K., Avican, K. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Generating low-density minimizers](http://biorxiv.org/cgi/content/short/2024.10.28.620726v1?rss=1). Golan, S., Tziony, I., Kraus, M., Orenstein, Y., Shur, A. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][PSTP: Decoding Latent Sequence Grammar through Transfer Learning and Attention for Protein Phase Separation](http://biorxiv.org/cgi/content/short/2024.10.29.620820v1?rss=1). Feng, M., Wei, X., Lu, Q., Shi, Y., He, G. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Bayesian modeling of mutual exclusivity in cancer mutations](http://biorxiv.org/cgi/content/short/2024.10.29.620937v1?rss=1). Czyz, P., Beerenwinkel, N. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][To impute or not to impute in untargeted metabolomics - that is the compositional question](http://biorxiv.org/cgi/content/short/2024.10.28.620738v1?rss=1). Krutkin, D. D., Thomas, S., Zuffa, S., Rajkumar, P., Knight, R., Dorrestein, P. C., Kelley, S. T. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][PIPENN-EMB: ensemble net and protein embeddings generalise protein interface prediction beyond homology](http://biorxiv.org/cgi/content/short/2024.10.31.621117v1?rss=1). Thomas, D. P. G., Garcia Fernandez, C. M., Haydarlou, R., Feenstra, K. A. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][AnnotIEM: novel tool for microbiome species-level annotation of 16S gene based microbial sequencing](http://biorxiv.org/cgi/content/short/2024.10.31.621263v1?rss=1). Bhatttacharyya, M., Rauer, L., Reiger, M., Afgani,..uelpuesch, C., Traidl-Hoffmann, C., Neumann, A. U. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][CancerFoundation: A single-cell RNA sequencing foundation model to decipher drug resistance in cancer](http://biorxiv.org/cgi/content/short/2024.11.01.621087v1?rss=1). Theus, A., Barkmann, F., Wissel, D., Boeva, V. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Graph-Regularized Optimal Transport for Single-Cell Data Integration](http://biorxiv.org/cgi/content/short/2024.10.30.621072v1?rss=1). Wang, Z., Zhan, Q., Shen, L. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][SenSeqNet: A Deep Learning Framework for Cellular Senescence Detection from Protein Sequences](http://biorxiv.org/cgi/content/short/2024.10.28.620702v1?rss=1). Jiang, H., Lin, L., Deng, D., Ren, J., Yang, X., Liu, S., Liu, L. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][TeloSearchLR: an algorithm to detect novel telomere repeat motifs using long sequencing reads](http://biorxiv.org/cgi/content/short/2024.10.29.617943v1?rss=1). Chung, G., Piano, F., Gunsalus, K. C. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Exploring phenotype-related single-cells through attention-enhanced representation learning](http://biorxiv.org/cgi/content/short/2024.10.31.619327v1?rss=1). Wu, Q., Ding, J., He, R., Hui, L., Liu, J., Li, Y. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][PMAIP1-Mediated Glucose Metabolism and its Impact on the Tumor Microenvironment in Breast Cancer: Integration of Multi-Omics Analysis and Experimental Validation](http://biorxiv.org/cgi/content/short/2024.10.30.620466v1?rss=1). Zhang, Y., Han, X., Yu, Q., Xiao, H., Zheng, L. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Systematic dissection of epigenetic age acceleration in normal breast tissue reveals its link to estrogen signaling and cancer risk](http://biorxiv.org/cgi/content/short/2024.10.31.619735v1?rss=1). Sehl, M. E., Guo, W., Farrell, C., Marino, N., Hen..i, J. J., Horvath, S., Pellegrini, M., Ganz, P. A. 	20241101
+
   - \[[BioRxivBio](http://biorxiv.org)\][Learning Binding Affinities via Fine-tuning of Protein and Ligand Language Models](http://biorxiv.org/cgi/content/short/2024.11.01.621495v1?rss=1). Gorantla, R., Gema, A. P., Yang, I. X., Serrano-Mo.. A., Suutari, B., Jimenez, J. J., Mey, A. S. J. S. 	20241101
 
   - \[[BioRxivBio](http://biorxiv.org)\][Modeling Protein Conformations by Guiding AlphaFold2 with Distance Distributions. Application to Double Electron Electron Resonance (DEER) Spectroscopy.](http://biorxiv.org/cgi/content/short/2024.10.30.621127v1?rss=1). Wu, T., A. Stein, R., Kao, T.-Y., Brown, B., S. Mchaourab, H. 	20241101
@@ -3374,46 +3431,28 @@
 
   - \[[BioRxivBio](http://biorxiv.org)\][NeuroTD: A Time-Frequency Based Multimodal Learning Approach to Analyze Time Delays in Neural Activities](http://biorxiv.org/cgi/content/short/2024.10.28.620662v1?rss=1). Huang, X., Kalafut, N. C., Alatkar, S., Li, A. Z., Dong, Q., Chang, Q., Wang, D. 	20241101
 
-  - \[[BioRxivBio](http://biorxiv.org)\][AlphaFold 2, but not AlphaFold 3, predicts confident but unrealistic beta-solenoid structures for repeat proteins](http://biorxiv.org/cgi/content/short/2024.10.30.621056v1?rss=1)  - \[[BioRxivBio](http://biorxiv.org)\][TaxonGPT: Taxonomic Classification Using Generative Artificial Intelligence](http://biorxiv.org/cgi/content/short/2024.10.28.618575v1?rss=1). Huang, H., Li, T., Wang, Z., Seldon, D., Rodrigo, A. 	20241101
+  - \[[BioRxivBio](http://biorxiv.org)\][AlphaFold 2, but not AlphaFold 3, predicts confident but unrealistic beta-solenoid structures for repeat proteins](http://biorxiv.org/cgi/content/short/2024.10.30.621056v1?rss=1). Pratt, O. S., Elliott, L. G., Haon, M., Mesdaghi, ... M., Simpkin, A. J., Rigden, D. J., Rigden, D. J. 	20241101
 
-  - \[[BioRxivBio](http://biorxiv.org)\][VAPOR: Variational autoencoder with transport operators decouples co-occurring biological processes in development](http://biorxiv.org/cgi/content/short/2024.10.27.620534v1?rss=1). Sheng, J., Wang, D. 	20241101
+  - \[[BioRxivBio](http://biorxiv.org)\][Deep generative design of neutralizing nanobodies againstSARS-CoV-2 variants](http://biorxiv.org/cgi/content/short/2024.10.29.620982v1?rss=1). Huo, L., Tian, T., Xu, Y., Qin, Q., Jiang, X., Huang, Q. 	20241101
 
-  - \[[BioRxivBio](http://biorxiv.org)\][Cloudgene 3: Transforming Nextflow Pipelines into Powerful Web Ser  - \[[BioRxivBio](http://biorxiv.org)\][Shared Transcriptomic Signatures Reveal Synaptic Pruning as a Link Between Alzheimer's Disease and Epilepsy](http://biorxiv.org/cgi/content/short/2024.10.28.618752v1?rss=1). Li, H., Li, J., Chen, M., Liu, X., Sun, Y., Wu, J..., Chen, S., Deng, Z., Hong, M., Wei, N.-L., Ji, X. 	20241101
+  - \[[BioRxivBio](http://biorxiv.org)\][LIMPACAT：Multi-Omics Attention Transformer for Immune Prediction in Liver Cancer Using Whole-Slide Imaging](http://biorxiv.org/cgi/content/short/2024.10.28.620410v1?rss=1). Chiu, Y. J. 	20241101
 
-  - \[[BioRxivBio](http://biorxiv.org)\][TaxonGPT: Taxonomic Classification Using Generative Artificial Intelligence](http://biorxiv.org/cgi/content/short/2024.10.28.618575v1?rss=1). Huang, H., Li, T., Wang, Z., Seldon, D., Rodrigo, A. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][VAPOR: Variational autoencoder with transport operators decouples co-occurring biological processes in development](http://biorxiv.org/cgi/content/short/2024.10.27.620534v1?rss=1). Sheng, J., Wang, D. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Cloudgene 3: Transforming Nextflow Pipelines into Powerful Web Services](http://biorxiv.org/cgi/content/short/2024.10.27.620456v1?rss=1). Forer, L., Schoenherr, S. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Exploring genetic signatures of zoonotic influenza A virus at the swine-human interface with phylogenetic and ancestral sequence reconstruction](http://biorxiv.org/cgi/content/short/2024.10.26.619880v1?rss=1). Anker, K. M., Ciucani, M. M., Nissen, J. N., Anderson, T. K., Pedersen, A. G., Trebbien, R. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Inferring single-cell resolution spatial gene expression via fusing spot-based spatial transcriptomics, location and histology using GCN](http://biorxiv.org/cgi/content/short/2024.10.27.620535v1?rss=1). Xue, S., Zhu, F., Chen, J., Min, W. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Automated Harmonization and Large-Scale Integration of Heterogeneous Biomedical Sample Metadata Using Large Language Models](http://biorxiv.org/cgi/content/short/2024.10.26.620145v1?rss=1). Higashi, K., Nakagawa, Z., Yamada, T., Mori, H. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Chemoenzymatic Synthesis Planning Guided by Reaction Type Score](http://biorxiv.org/cgi/content/short/2024.10.25.620365v1?rss=1). Li, H., Liu, X., Jiang, G., Zhao, H. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Identifying Modulators of Cellular Responses by Heterogeneity-sequencing](http://biorxiv.org/cgi/content/short/2024.10.28.620481v1?rss=1). Berg, K., Sakellaridi, L., Rummel, T., Hennig, T.,..sty, B. K., Doelken, L., Saliba, A.-E., Erhard, F. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][GenePert: Leveraging GenePT Embeddings for Gene Perturbation Prediction](http://biorxiv.org/cgi/content/short/2024.10.27.620513v1?rss=1). Chen, Y. T., Zou, J. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][scMultiNODE: Integrative Model for Multi-Modal Temporal Single-Cell Data](http://biorxiv.org/cgi/content/short/2024.10.27.620531v1?rss=1). Zhang, J., Chakravarthy, M., Singh, R. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Semi-supervised Contrastive Learning for Bioactivity Prediction using Cell Painting Image Data](http://biorxiv.org/cgi/content/short/2024.10.26.620435v1?rss=1). Bushiri Pwesombo, D., Beese, C., Schmied, C., Sun, H. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Unified knowledge-driven network inference from omics data](http://biorxiv.org/cgi/content/short/2024.10.26.620390v1?rss=1). Rodriguez-Mier, P., Garrido-Rodriguez, M., Gabor, A., Saez-Rodriguez, J. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Harnessing Smartphone RGB Imagery and LiDAR Point Cloud for Enhanced Leaf Nitrogen and Shoot Biomass Assessment - Chinese Spinach as a Case Study](http://biorxiv.org/cgi/content/short/2024.10.26.620395v1?rss=1). Harikumar, A., Shenhar, I., R.Pebes-Trujillo, M., .., M., Jie, H., Ng, K. W., Gavish, M., Herrmann, I. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Benchmarking HelixFold3-Predicted Holo Structures for Relative Free Energy Perturbation Calculations](http://biorxiv.org/cgi/content/short/2024.10.27.620454v1?rss=1). Furui, K., Ohue, M. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Disentangling the CHAOS of intrinsic disorder in human proteins](http://biorxiv.org/cgi/content/short/2024.10.26.620428v1?rss=1). de Vries, I., Bak, J., Alvarez Salmoral, D., Xie, R., Borza, R., Konijnenberg, M., Perrakis, A. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][SpatialPPI 2.0: Enhancing Protein-Protein Interaction Prediction through Inter-Residue Analysis in Graph Attention Networks](http://biorxiv.org/cgi/content/short/2024.10.25.620355v1?rss=1). Hu, W., Ohue, M. 	20241101
+  - \[[BioRxivBio](http://biorxiv.org)\][Shared Transcriptomic Signatures Reveal Synaptic Pruning as a Link Between Alzheimer's Disease and Epilepsy](http://biorxiv.org/cgi/content/short/2024.10.28.618752v1?rss=1). Li, H., Li, J., Chen, M., Liu, X., Sun, Y., Wu, J..., Chen, S., Deng, Z., Hong, M., Wei, N.-L., Ji, X. 	20241101
 
 
 ### BioRxivGenomInfor
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Genomic prediction by modelling genotype by environment interaction for yield in groundnut](http://biorxiv.org/cgi/content/short/2024.10.30.621054v1?rss=1). Lubanga, N., Okaron, V., Gimode, D. M., Persa, R.,..ula, M. O., Odon, T. L., Odeny, D. A., Jarquin, D. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Solution-phase indexing by kinetic confinement enables rapid, simple, and instrument-free single cell transcriptional profiling](http://biorxiv.org/cgi/content/short/2024.11.01.621570v1?rss=1). Marafini, P., Smith, D. G., Lamstaes, A. R., Contr.., Laing, A. G., Stubbington, M. J., Edelman, L. B. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][NuclampFISH enables cell sorting based on nuclear RNA expression for chromatin analysis](http://biorxiv.org/cgi/content/short/2024.10.30.619948v1?rss=1). Liu, Y., Qiu, Y., Nian, K., Rouhanifard, S. H. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Genomics and resistance assays inform the management of two tree species being devastated by the invasive myrtle rust pathogen](http://biorxiv.org/cgi/content/short/2024.10.30.612564v1?rss=1). Chen, S. H., Yap, J.-Y. S., Viler, V., Stehn, C., ..en, J., Edwards, R. J., Rossetto, M., Bragg, J. G. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Population Genomics of the Invasive Argentine Ant (Linepithema humile) - Adaptive Evolution in the Introduced Supercolonies Despite Low Genetic Diversity](http://biorxiv.org/cgi/content/short/2024.10.29.620798v1?rss=1). Holmberg, I., Paviala, J., Pedersen, J. S., Helanterä, H., Viljakainen, L. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Streptococcus Phage Genomes Reveal Extensive Diversity, New Taxonomic Insights, and Novel Endolysin-Derived Antimicrobial Peptides](http://biorxiv.org/cgi/content/short/2024.10.31.621281v1?rss=1). Mondal, S. I., Karim, D., Rolin, M. H., Jewel, N. ..uttimer, C., Rahman, M. M., Azad, A. K., Akter, A. 	20241101
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][GENCODE: massively expanding the lncRNA catalog through capture long-read RNA sequencing](http://biorxiv.org/cgi/content/short/2024.10.29.620654v1?rss=1). Kaur, G., Perteghella, T., Carbonell-Sala, S., Gon.. M., Kellis, M., Kundaje, A., Paten, B., Tress, M. 	20241101
 
@@ -3462,16 +3501,4 @@
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Accelerated pseudogenization in ancient endosymbionts of giant scale insects](http://biorxiv.org/cgi/content/short/2024.10.23.619753v1?rss=1). Choi, J., Palanichamy, P., Tanaka, H., Gruwell, M. E., Husnik, F. 	20241101
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][A pangenome and pantranscriptome of hexaploid oat](http://biorxiv.org/cgi/content/short/2024.10.23.619697v1?rss=1). Avni, R., Kamal, N., Bitz, L., Jellen, E., Bekele,..a, E., Pasha, A., Prats, E., Provart, N. J., Ravag 	20241101
-
-  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Benchmarking of Low Coverage Sequencing Workflows for Precision Genotyping in Eggplant](http://biorxiv.org/cgi/content/short/2024.10.24.619843v1?rss=1). Baraja-Fonseca, V., Arrones, A., Vilanova, S., Plazas, M., Prohens, J., Bombarely, A., Gramazio, P. 	20241101
-
-  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Mapping DNA Methylation to Cardiac Pathologies Induced by Beta-Adrenergic Stimulation in a Large Panel of Mice](http://biorxiv.org/cgi/content/short/2024.10.25.619688v1?rss=1). Lahue, C., Wong, E., Dalal, A., Wen, W. T. L., Ren, S., Foo, R., Wang, Y., Rau, C. D. 	20241101
-
-  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Expression pattern of the ST heat-stable enterotoxin gene cassettes in Vibrios superintegrons](http://biorxiv.org/cgi/content/short/2024.10.24.620042v1?rss=1). Fonseca, E. L., Freitas, F., Morgado, S. M., Vicente, A. C. P. 	20241101
-
-  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Dynamics of cell states and alternative splicing following kidney ischemia-reperfusion injury](http://biorxiv.org/cgi/content/short/2024.10.24.620070v1?rss=1). Markiewitz, D., Goldberger, J., Kalisky, T. 	20241101
-
-  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Vibrio mimicus carrying the Type III Secretion System 2 (T3SS2) and TDH toxin of Vibrio parahaemolyticus in an integrative conjugative element context](http://biorxiv.org/cgi/content/short/2024.10.23.619894v1?rss=1). Morgado, S., Fonseca, E., Vicente, A. C. P. 	20241101
-
-  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Unraveling transposable element-mediated regulatory landscape in diverse human immune cells](http://biorxiv.org/cgi/content/short/2024.10.24.620010v1?rss=1). Du, C., Fan, H., Jiang, J., Yang, J., Chen, S., Vo.., C., Mao, L., Li, C., Li, Y., Bao, W., Sun, M.-a. 	20241101
 
