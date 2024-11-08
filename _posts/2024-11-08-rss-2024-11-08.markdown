@@ -2797,66 +2797,6 @@
 
   - \[[BioRxivBio](http://biorxiv.org)\][PLM-interact: extending protein language models to predict protein-protein interactions](http://biorxiv.org/cgi/content/short/2024.11.05.622169v1?rss=1). Liu, D., Young, F., Lamb, K. D., Claudio Quiros, A..ler, C., Macdonald, C., Robertson, D. L., Yuan, K. 	20241101
 
-Doherty, Marc Serre 2024-10-31	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Autistic traits foster effective curiosity-driven exploration](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012453). Francesco Poli, Maran Koolen, Carlos A. Velázquez-..er, Rogier B. Mars, Nanda Rommelse, Sabine Hunnius 2024-10-31	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][A Computational Framework for Understanding the Impact of Prior Experiences on Pain Perception and Neuropathic Pain](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012097). Malin Ramne, Jon Sensinger 2024-10-31	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Learning probability distributions of sensory inputs with Monte Carlo predictive coding](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012532). Gaspard Oliviers, Rafal Bogacz, Alexander Meulemans 2024-10-30	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Integrating information from historical data into mechanistic models for influenza forecasting](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012523). Alessio Andronico, Juliette Paireau, Simon Cauchemez 2024-10-30	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Mcadet: A feature selection method for fine-resolution single-cell RNA-seq data based on multiple correspondence analysis and community detection](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012560). Saishi Cui, Sina Nassiri, Issa Zakeri 2024-10-28	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Reinforcement learning when your life depends on it: A neuro-economic theory of learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012554). Jiamu Jiang, Emilie Foyard, Mark C. W. van Rossum 2024-10-28	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Competitive plasticity to reduce the energetic costs of learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012553). Mark C. W. van Rossum, Aaron Pache 2024-10-28	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Metabolic modelling as a powerful tool to identify critical components of <i>Pneumocystis</i> growth medium](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012545). Olga A. Nev, Elena Zamaraeva, Romain De Oliveira, .. Claire Hoving, Ivana Gudelj, Alistair J. P. Brown 2024-10-28	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Best practices for estimating and reporting epidemiological delay distributions of infectious diseases](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012520). Kelly Charniga, Sang Woo Park, Andrei R. Akhmetzha.. Pulliam, Thomas Ward, Simon Cauchemez, Sam Abbott 2024-10-28	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Non-genetic differences underlie variability in proliferation among esophageal epithelial clones](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012360). Raúl A. Reyes Hueros, Rodrigo A. Gier, Sydney M. Shaffer 2024-10-28	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][IsRNAcirc: 3D structure prediction of circular RNAs based on coarse-grained molecular dynamics simulation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012293). Haolin Jiang, Yulian Xu, Yunguang Tong, Dong Zhang, Ruhong Zhou 2024-10-28	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Tuning collective behaviour in zebrafish with genetic modification](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012034). Yushi Yang, Abdelwahab Kawafi, Qiao Tong, Erika Kague, Chrissy L. Hammond, C. Patrick Royall 2024-10-28	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][TIBA: A web application for the visual analysis of temporal occurrences, interactions, and transitions of animal behavior](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012425). Nicolai Kraus, Michael Aichem, Karsten Klein, Etienne Lein, Alex Jordan, Falk Schreiber 2024-10-25	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Just-in-time: Gaze guidance in natural behavior](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012529). Ashima Keshava, Farbod Nosrat Nezami, Henri Neumann, Krzysztof Izdebski, Thomas Schüler, Peter König 2024-10-24	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][iModulonMiner and PyModulon: Software for unsupervised mining of gene expression compendia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012546). Anand V. Sastry, Yuan Yuan, Saugat Poudel, Kevin R..ara Seif, Bernhard O. Palsson, Daniel C. Zielinski 2024-10-23	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Modelling the impact of vaccination on COVID-19 in African countries](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012456). Dephney Mathebula, Abigail Amankwah, Kossi Amouzou..ri, Michael Olusegun Oluwole, Cláudio Moisés Paulo 2024-10-23	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][On the identification of differentially-active transcription factors from ATAC-seq data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011971). Felix Ezequiel Gerbaldo, Emanuel Sonder, Vincent F..tharina Gapp, Mark D. Robinson, Pierre-Luc Germain 2024-10-23	20241101
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][PreMLS: The undersampling technique based on ClusterCentroids to predict multiple lysine sites](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012544). Yun Zuo, Xingze Fang, Jiayong Wan, Wenying He, Xiangrong Liu, Xiangxiang Zeng, Zhaohong Deng 2024-10-22	20241101
-
-
-### BMCBioinformatics
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Rapid bacterial identification through volatile organic compound analysis and deep learning](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05967-4). Bowen Yan, Lin Zeng, Yanyi Lu, Min Li, Weiping Lu, Bangfu Zhou and Qinghua He Wed, 06 Nov 2024 00:00:00 GM	20241101
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][REDalign: accurate RNA structural alignment using residual encoder-decoder network](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05956-7). Chun-Chi Chen, Yi-Ming Chan and Hyundoo Jeong 	20241101
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][MIPPIS: protein–protein interaction site prediction network with multi-information fusion](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05964-7). Shuang Wang, Kaiyu Dong, Dingming Liang, Yunjing Zhang, Xue Li and Tao Song Mon, 04 Nov 2024 00:00:00 GM	20241101
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][PangeBlocks: customized construction of pangenome graphs via maximal blocks](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05958-5). Jorge Avila  Cartes, Paola Bonizzoni, Simone Ciccolella, Gianluca Della  Vedova and Luca Denti Mon, 04 Nov 2024 00:00:00 GM	20241101
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][GPCR-BSD: a database of binding sites of human G-protein coupled receptors under diverse states](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05962-9). Fan Liu, Han Zhou, Xiaonong Li, Liangliang Zhou, C..ong Yu, Haicang Zhang, Dongbo Bu and Xinmiao Liang Mon, 04 Nov 2024 00:00:00 GM	20241101
-
-
-### BioRxivBio
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Impact of different synonymous codon substitution strategies on SARS-CoV-2 nucleocapsid protein expression in Escherichia coli](http://biorxiv.org/cgi/content/short/2024.11.06.622014v1?rss=1). Bello, A. J., Omotuyi, A. O., Oladapo, O. B., Adek..an, D. O., Folarin, O., Okpuzor, J., Minari, J. B. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][GenomicSign: A computational method to discover unique, specific, and amplifiable signatures of target genomic sequences](http://biorxiv.org/cgi/content/short/2024.11.05.622192v1?rss=1). Kumar S, P., Palaniappan, A. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][PLM-interact: extending protein language models to predict protein-protein interactions](http://biorxiv.org/cgi/content/short/2024.11.05.622169v1?rss=1). Liu, D., Young, F., Lamb, K. D., Claudio Quiros, A..ler, C., Macdonald, C., Robertson, D. L., Yuan, K. 	20241101
-
   - \[[BioRxivBio](http://biorxiv.org)\][Stemness prediction models reveal glioma aggressiveness and therapeutic targets in gliomas](http://biorxiv.org/cgi/content/short/2024.11.05.620942v1?rss=1). Simoes, R. d. L. S., Marcao, M., Santos, E. d. S., Uyemura, S. A., Malta, T. M. 	20241101
 
   - \[[BioRxivBio](http://biorxiv.org)\][Hyper-k-mers: efficient streaming k-mers representation](http://biorxiv.org/cgi/content/short/2024.11.06.620789v1?rss=1). Martayan, I., Robidou, L., Shibuya, Y., Limasset, A. 	20241101
@@ -2917,6 +2857,64 @@ Doherty, Marc Serre 2024-10-31	20241101
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Genomes of Poaceae sisters reveal key metabolic innovations preceding the emergence of grasses](http://biorxiv.org/cgi/content/short/2024.11.06.622220v1?rss=1). Takeda-Kimura, Y., Moore, B., Holden, S., Deb, S. .., McKain, M. R., Leebens-Mack, J. H., Maeda, H. A. 	20241101
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Nascent transcript O-MAP reveals the molecular architecture of a single-locus subnuclear compartment built by RBM20 and the TTN RNA](http://biorxiv.org/cgi/content/short/2024.11.05.622011v1?rss=1). Kania, E. E., Fenix, A., Marciniak, D. M., Lin, Q... S.-E., Bertero, A., Murry, C. E., Shechner, D. M. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Deaminase-assisted single-molecule and single-cell chromatin fiber sequencing](http://biorxiv.org/cgi/content/short/2024.11.06.622310v1?rss=1). Swanson, E. G., Mao, Y., Mallory, B. J., Vollger, ..Parmalee, N. L., Bennett, J. T., Stergachis, A. B. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Methuselah Proteins in Longevity: Unraveling Their Impact Through Mathematical Genomics](http://biorxiv.org/cgi/content/short/2024.11.03.621698v1?rss=1). Hassan, S. S., NAWN, D., Ghosh, A., Sil, M., GOSWAMI, A., Basu, P., Lundstrom, K., Uversky, V. N. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Protein sequencing with single amino acid resolution discerns peptides that discriminate tropomyosin proteoforms](http://biorxiv.org/cgi/content/short/2024.11.04.621980v1?rss=1). Sittipongpittaya, N., Skinner, K., Jeffery, E., Watts-Whitehead, E., Sheynkman, G. M. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Manipulation of alternative splicing of IKZF1 elicits distinct gene regulatory responses in T cells](http://biorxiv.org/cgi/content/short/2024.11.05.622018v1?rss=1). Pastor, L., Newman, J. R. B., Callahan, C. M., Pic..tkinson, M. A., Onengut-Gumuscu, S., Concannon, P. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Evolutionary Dynamics of G-Quadruplexes in Human and Other Great Ape Telomere-to-Telomere Genomes](http://biorxiv.org/cgi/content/short/2024.11.05.621973v1?rss=1). Mohanty, S. K., Chiaromonte, F., Makova, K. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Nucleosome repositioning in cardiac reprogramming](http://biorxiv.org/cgi/content/short/2024.11.05.622077v1?rss=1). Harris, S., Baksh, S., Wang, X., Anwar, I., Pratt, R., Dzau, V., Hodgkinson, C. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Addressing the mean-variance relationship in spatially resolved transcriptomics data with spoon](http://biorxiv.org/cgi/content/short/2024.11.04.621867v1?rss=1). Shah, K. H., Guo, B., Hicks, S. C. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Improved split prime editors enable efficient in vivo genome editing](http://biorxiv.org/cgi/content/short/2024.11.05.622013v1?rss=1). Wei, R., Yu, Z., Ding, L., Lu, Z., Yao, K., Zhang, H., Huang, B., He, M., Ma, L. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Analyses of transposable elements in arbuscular mycorrhizal fungi support evolutionary parallels with fungal plant pathogens](http://biorxiv.org/cgi/content/short/2024.11.04.621924v1?rss=1). Oliveira, J. I., Lane, C., Mugambi, K., Yildirir, .., Dadej, K., Dettman, J., Stefani, F., Corradi, N. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Identification and annotation of centromeric hypomethylated regions with Centromere Dip Region (CDR)-Finder](http://biorxiv.org/cgi/content/short/2024.11.01.621587v1?rss=1). Mastrorosa, F. K., Oshima, K. K., Rozanski, A. N., Harvey, W. T., Eichler, E. E., Logsdon, G. A. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Polymorphic tandem repeats shape single-cell gene expression across the immune landscape](http://biorxiv.org/cgi/content/short/2024.11.02.621562v1?rss=1). Tanudisastro, H. A., Cuomo, A. S. E., Weisburd, B... M., Deveson, I. W., Hewitt, A. W., Figtree, G. A. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Blended Length Genome Sequencing (blend-seq): Combining Short Reads with Low-Coverage Long Reads to Maximize Variant Discovery](http://biorxiv.org/cgi/content/short/2024.11.01.621515v1?rss=1). Magner, R., Cunial, F., Basu, S., Paulsen, R., Saponas, S., Shand, M., Lennon, N., Banks, E. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][In vivo single-cell ribosome profiling reveals cell-type-specific translational programs during aging](http://biorxiv.org/cgi/content/short/2024.11.02.621639v1?rss=1). Dure, C., Ghoshdastider, U., Weber, R., Valdivia-F..hachi, H., Levesque, M., Ellis, S. J., Sendoel, A. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][A genome wide code to define cell-type specific CTCF binding and chromatin organization](http://biorxiv.org/cgi/content/short/2024.11.02.620823v1?rss=1). Do, C., Jiang, G., Zappile, P., Heguy, A., Skok, J. A. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Exploring a pico-well based scRNA-seq method (HIVE) for simplified processing of equine bronchoalveolar lavage cells](http://biorxiv.org/cgi/content/short/2024.11.02.621659v1?rss=1). Fegraeus, K., Riihimaki, M., Nordlund, J., Akula, S., Wernersson, S., Raine, A. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][A generic pipeline for CADD score generation: chickenCADD and turkeyCADD](http://biorxiv.org/cgi/content/short/2024.11.01.621569v1?rss=1). Lensing, K., van Schipstal, J. G. C., de Ridder, D., Groenen, M., Derks, M. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Single-cell DNA methylome and 3D genome atlas of the human subcutaneous adipose tissue](http://biorxiv.org/cgi/content/short/2024.11.02.621694v1?rss=1). Chen, Z. J., Das, S. S., Kar, A., Lee, S. H. T., A..n, E., Pietiläinen, K. H., Luo, C., Pajukanta, P. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Kudoa genomes from contaminated hosts reveal extensive gene order conservation and rapid sequence evolution](http://biorxiv.org/cgi/content/short/2024.11.01.621499v1?rss=1). Weber, C. C., Paulini, M., Wellcome Sanger Institu..ree of Life Core Informatics team,, Blaxter, M. L. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Quantifying Functional Conservation of Human and Mouse Regulatory Elements via FUNCODE](http://biorxiv.org/cgi/content/short/2024.10.31.620766v1?rss=1). Fang, W., Chen, C., Zhang, B., Wang, Y., Zhao, R., Zhou, W., Ji, H. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Transcriptional changes across tissue and time provide molecular insights into a therapeutic window of opportunity following traumatic stress exposure](http://biorxiv.org/cgi/content/short/2024.11.01.621484v1?rss=1). McKibben, L. A., Iyer, M. R., Zhao, Y., Florea, R... Geranton, S. M., McLean, S. A., Linnstaedt, S. D. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Genomic epidemiology of emerging terbinafine-resistant Trichophyton indotineae](http://biorxiv.org/cgi/content/short/2024.10.29.620818v1?rss=1). Rhodes, J., Hui, C. S. T., Delliere, S., Summerbel..n, A., Chowdhary, A., Abdolrasouli, A., Fisher, M. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Epigenetic silencing and host genome evolution determine fate of viral insertions in Acanthamoeba](http://biorxiv.org/cgi/content/short/2024.10.31.621330v1?rss=1). Blais, C., Colp, M. J., Sarre, L. A., de Mendoza, A., Archibald, J. M. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][StableLift: Optimized Germline and Somatic Variant Detection Across Genome Builds](http://biorxiv.org/cgi/content/short/2024.10.31.621401v1?rss=1). Wang, N. K., Wiltsie, N., Winata, H. K., Fitz-Gibb..t, J., Patel, Y., Yamaguchi, T. N., Boutros, P. C. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][JG2: an updated version of the Japanese population-specific reference genome](http://biorxiv.org/cgi/content/short/2024.11.01.621223v1?rss=1). Sriwichaiin, S., Makino, S., Funayama, T., Otsuki,..oshita, K., Yamamoto, M., Tamiya, G., Takayama, J. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Long-read nanopore shotgun eDNA sequencing for river biodiversity, pollution and environmental health monitoring](http://biorxiv.org/cgi/content/short/2024.11.01.621618v1?rss=1). Nousias, O., Duffy, F. G., Duffy, I. J., Whilde, J., Duffy, D. J. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Single-cell atlas of developing mouse palates reveals cellular and molecular transitions in periderm cell fate](http://biorxiv.org/cgi/content/short/2024.10.28.620753v1?rss=1). Huang, W., Qian, Z., Zhang, J., Ding, Y., Wang, B., Lin, J., Zhang, X., Zhao, H., Chen, F. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Genomic prediction by modelling genotype by environment interaction for yield in groundnut](http://biorxiv.org/cgi/content/short/2024.10.30.621054v1?rss=1). Lubanga, N., Okaron, V., Gimode, D. M., Persa, R.,..ula, M. O., Odon, T. L., Odeny, D. A., Jarquin, D. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Solution-phase indexing by kinetic confinement enables rapid, simple, and instrument-free single cell transcriptional profiling](http://biorxiv.org/cgi/content/short/2024.11.01.621570v1?rss=1). Marafini, P., Smith, D. G., Lamstaes, A. R., Contr.., Laing, A. G., Stubbington, M. J., Edelman, L. B. 	20241101
+
+rxiv.org/cgi/content/short/2024.11.05.622011v1?rss=1). Kania, E. E., Fenix, A., Marciniak, D. M., Lin, Q... S.-E., Bertero, A., Murry, C. E., Shechner, D. M. 	20241101
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Deaminase-assisted single-molecule and single-cell chromatin fiber sequencing](http://biorxiv.org/cgi/content/short/2024.11.06.622310v1?rss=1). Swanson, E. G., Mao, Y., Mallory, B. J., Vollger, ..Parmalee, N. L., Bennett, J. T., Stergachis, A. B. 	20241101
 
