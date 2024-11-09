@@ -2906,7 +2906,9 @@
 
   - \[[BioRxivBio](http://biorxiv.org)\][devider: long-read reconstruction of many diverse haplotypes](http://biorxiv.org/cgi/content/short/2024.11.05.621838v1?rss=1). Shaw, J., Boucher, C., Yu, Y. W., Noyes, N., Li, H. 	20241101
 
-nkar, S. 	20241101
+  - \[[BioRxivBio](http://biorxiv.org)\][Natural Bacteriocins as Potential Drug Candidates Targeting Core Proteins in Mastitis Pathogens of Dairy Cattle](http://biorxiv.org/cgi/content/short/2024.11.05.622021v1?rss=1). Hasnat, S., Rahman, M. M., Yeasmin, F., Jubair, M., Helmy, Y. A., Islam, T., Hoque, M. N. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][PDBe tools for an in-depth analysis of small molecules in the Protein Data Bank](http://biorxiv.org/cgi/content/short/2024.11.05.622044v1?rss=1). Choudhary, P., Kunnakkattu, I. R., Nair, S., Lawal..I., Afonso, M. Q. L., Fleming, J. R., Velankar, S. 	20241101
 
   - \[[BioRxivBio](http://biorxiv.org)\][NovumRNA: accurate prediction of non-canonical tumor antigens from RNA sequencing data](http://biorxiv.org/cgi/content/short/2024.11.05.622043v1?rss=1). Ausserhofer, M., Rieder, D., Facciolla, M., Lamber.. R., Pellegatta, S., Trajanoski, Z., Finotello, F. 	20241101
 
