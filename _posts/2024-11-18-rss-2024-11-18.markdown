@@ -2778,75 +2778,6 @@
 
   - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][The protein phosphatase qGL3/OsPPKL1 self-regulates its degradation to orchestrate brassinosteroid signaling in rice](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00078-6?rss=yes). Xiuying Gao, Jianbo Li, Jing Yin, Yiheng Zhao, Zho.. Lijuan Ma, Baoyi Zhang, Hongsheng Zhang, Ji Huang 	20241101
 
-genome of Gynostemma pentaphyllum](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00202-5?rss=yes). Lingling Yun, Chuyi Zhang, Tongtong Liang, Yu Tian..ng Shen, Jianhe Wei, Ying Li, Baolin Guo, Chao Sun 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Pull the fuzes: Processing protein precursors to generate apoplastic danger signals for triggering plant immunity](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00201-3?rss=yes). Daniele Del Corpo, Daniele Coculo, Marco Greco, Giulia De Lorenzo, Vincenzo Lionetti 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][OsPHR2-mediated recruitment of Pseudomonadaceae enhances rice phosphorus uptake](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00200-1?rss=yes). Jianping Liu, Weifeng Xu, Qian Zhang, Wencheng Lia.., Shu Chen, Jinyong Yang, Zhengrui Wang, Feiyun Xu 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Underground communication: Long non-coding RNA signaling in the plant rhizosphere](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00197-4?rss=yes). Muhammad Fahad, Leeza Tariq, Sajid Muhammad, Liang Wu 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][The VAMP-associated protein VAP27-1 plays a crucial role in plant resistance to ER stress by modulating ER–PM contact architecture in Arabidopsis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00199-8?rss=yes). Yi Man, Yue Zhang, Linghui Chen, Junhui Zhou, Yufe..ng, Xiaojuan Li, Yun Li, Yanping Jing, Jinxing Lin 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][BjuIR: A multi-omics database with various tools for accelerating functional genomics research in Brassica juncea](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00195-0?rss=yes). Linna Zhang, Jinyuan Xiao, Congyuan Liang, Yifan C..ng Liu, Zhengjie Wan, Zhiquan Yang, Qing-Yong Yang 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][The NAC056 transcription factor confers freezing tolerance by positively regulating expression of CBFs and NIA1 in Arabidopsis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00193-7?rss=yes). Peipei Xu, Wei Ma, Huafeng Feng, Weiming Cai 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][The PHYB–FOF2–VOZ2 module functions to fine-tune flowering in response to changes in light quality by modulating FLC expression in Arabidopsis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00192-5?rss=yes). Lina Qu, Ming Zhong, Feifei Duan, Xinmei Li, Jiaxi..gying Tang, Reqing He, Xuanming Liu, Xiaoying Zhao 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Telomere-to-telomere genome assemblies of cultivated and wild soybean provide insights into evolution and domestication under structural variation](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00189-5?rss=yes). Kai-Hua Jia, Xiaoyan Zhang, Lei-Lei Li, Tian-Le Sh..Si, Rumei Tian, Zhenya Qian, Hanfeng Ding, Nana Li 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][OsLESV and OsESV1 promote transitory and storage starch biosynthesis to determine rice grain quality and yield](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00135-4?rss=yes). Nannan Dong, Guiai Jiao, Ruijie Cao, Sanfeng Li, S..Shikai Hu, Shaoqing Tang, Xiangjin Wei, Peisong Hu 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][BreedingAIDB: A database integrating crop genome-to-phenotype paired data with machine learning tools applicable to breeding](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00136-6?rss=yes). Zijie Shen, Enhui Shen, Kun Yang, Zuoqian Fan, Qian-Hao Zhu, Longjiang Fan, Chu-Yu Ye 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][ESR2–HDA6 complex negatively regulates auxin biosynthesis to delay callus initiation in Arabidopsis leaf explants during tissue culture](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00134-2?rss=yes). Kyounghee Lee, Hobin Yoon, Ok-Sun Park, Jongbu Lim, Sang-Gyu Kim, Pil Joon Seo 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][The TELOMERE REPEAT BINDING proteins TRB4 and TRB5 function as transcriptional activators of PRC2-controlled genes to regulate plant development](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00132-9?rss=yes). Simon Amiard, Léa Feit, Emmanuel Vanrobays, Lauria..Fredy Barneche, Christophe Tatout, Aline V. Probst 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][A reference-grade genome of the xerophyte Ammopiptanthus mongolicus sheds light on its evolution history in legumes and drought-tolerance mechanisms](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00133-0?rss=yes). Lei Feng, Fei Teng, Na Li, Jia-Cheng Zhang, Bian-J..ai-Ming Ngai, Li-Zhe An, Hon-Ming Lam, Jun-Xian He 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Cotton BLH1 and KNOX6 antagonistically modulate fiber elongation via regulation of linolenic acid biosynthesis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00129-9?rss=yes). Tingting Jia, Huiqin Wang, Shiyan Cui, Zihan Li, Yongcui Shen, Hongbin Li, Guanghui Xiao 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][A predictive model for ethylene-mediated auxin and cytokinin patterning in the Arabidopsis root](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00128-7?rss=yes). Simon Moore, George Jervis, Jennifer F. Topping, Chunli Chen, Junli Liu, Keith Lindsey 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][GWAS unravels acid phosphatase ACP2 as a photosynthesis regulator under phosphate starvation conditions through modulating serine metabolism in rice](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00127-5?rss=yes). Sushuang Liu, Zhan Xu, Jemaa Essemine, Yanmin Liu,..undong Liu, Feixue Zhang, Zubair Iqbal, Mingnan Qu 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Decomposition of dynamic transcriptomic responses during effector-triggered immunity reveals conserved responses in two distinct plant cell populations](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00124-X?rss=yes). Xiaotong Liu, Daisuke Igarashi, Rachel A. Hillmer,..Lu, Kenichi Tsuda, Chad L. Myers, Fumiaki Katagiri 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Engineer and split an efficient hypercompact CRISPR–CasΦ genome editor in plants](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00123-8?rss=yes). Yan Sun, Jianjian Hu, Zhichao Hu, Hejie Zhou, Yuho..ou, Yuqiang Liu, Tingdong Li, Chao Li, Jianmin Wan 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][CCaP1/CCaP2/CCaP3 interact with plasma membrane H+-ATPases and promote thermo-responsive growth by regulating cell wall modification in Arabidopsis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00122-6?rss=yes). Jing-Jing Wang, Juan Gao, Wei Li, Jian-Xiang Liu 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Genomes of Meniocus linifolius and Tetracme quadricornis reveal the ancestral karyotype and genomic features of core Brassicaceae](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00120-2?rss=yes). Jie Liu, Shi-Zhao Zhou, Yun-Long Liu, Bin-Yan Zhao.., Hong-Tao Li, Dun-Yan Tan, Jin-Yong Hu, De-Zhu Li 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][CLAIR: An integrated lipid database across multiple crop species](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00084-1?rss=yes). Bing He, Mengjia Bu, Qiang Lin, Zhengwei Fu, Junhu..nyang Li, Ruonan Li, Wei Hua, Wanfei Liu, Peng Cui 	20241101
-
-  - \[[plant-communications-inpress](https://www.cell.com/archive?publicationCode=xplc&rss=yes)\][Chromosome-scale genome assembly-assisted identification of Brassica napus BnDCPA1 for improvement of plant architecture and yield heterosis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00083-X?rss=yes). Chuanji Zhao, Xiaobo Cui, Meili Xie, Yi Zhang, Lin..g, Chaobo Tong, Qiong Hu, Lijiang Liu, Shengyi Liu 	20241101
-
-
-### plant-communications-current
-
-  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Efficient heterologous biosynthesis of verazine, a metabolic precursor of the anti-cancer drug cyclopamine, in Nicotiana benthamiana](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00051-8?rss=yes). Chengxi Kou, Jingling Liu, Xue Yin, Di He, Jia Liu, Xin Hua, Rui Ma, Wei Sun, Zheyong Xue, Pengda Ma 	20241101
-
-  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Structural changes in the conversion of an Arabidopsis outward-rectifying K+ channel into an inward-rectifying channel](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00072-5?rss=yes). Xudong Gao, Xia Xu, Tengfei Sun, Yuhan Lu, Yutian .. Jiaqi Zhou, Peng Fu, Yanming Zhang, Guanghui Yang 	20241101
-
-  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Telomere-to-telomere genome assemblies of two Chinese Baijiu-brewing sorghum landraces](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00203-7?rss=yes). Jiandong Bao, Heng Zhang, Fulin Wang, Lin Li, Xuem..n Liu, Guowei Zhai, Heng Xu, Fucheng Lin, Ying Zhu 	20241101
-
-  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][A complete assembly of the sorghum BTx623 reference genome](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00285-2?rss=yes). Yuan Deng, Peng Zhou, Fei Li, Jing Wang, Kun Xie, .., Baoqing Dun, Xiaochun Lu, Xianmin Diao, Qiang He 	20241101
-
-  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Stress Knowledge Map: A knowledge graph resource for systems biology analysis of plant stress responses](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00190-1?rss=yes). Carissa Bleker, Živa Ramšak, Andras Bittner, Vid P.., Markus Teige, Ute C. Vothknecht, Kristina Gruden 	20241101
-
-  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Boosting genome editing in plants with single transcript unit surrogate reporter systems](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00191-3?rss=yes). Xu Tang, Qiurong Ren, Xiaodan Yan, Rui Zhang, Li L..uelian Zheng, Yiping Qi, Hongyuan Song, Yong Zhang 	20241101
-
-  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Sulfated peptides and their receptors: Key regulators of plant development and stress adaptation](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00188-3?rss=yes). Liming He, Liangfan Wu, Jia Li 	20241101
-
-  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Cytochrome P450 CitCYP97B modulates carotenoid accumulation diversity by hydroxylating β-cryptoxanthin in Citrus](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00076-2?rss=yes). Yingzi Zhang, Jiajing Jin, Nan Wang, Quan Sun, Di ..i, Junli Ye, Lijun Chai, Zongzhou Xie, Xiuxin Deng 	20241101
-
-  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Differential leaf flooding resilience in Arabidopsis thaliana is controlled by ethylene signaling-activated and age-dependent phosphorylation of ORESARA1](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00077-4?rss=yes). Tom Rankenberg, Hans van Veen, Mastoureh Sedaghatm..ien A. Stouten, Salma Balazadeh, Rashmi Sasidharan 	20241101
-
-  - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][The protein phosphatase qGL3/OsPPKL1 self-regulates its degradation to orchestrate brassinosteroid signaling in rice](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00078-6?rss=yes). Xiuying Gao, Jianbo Li, Jing Yin, Yiheng Zhao, Zho.. Lijuan Ma, Baoyi Zhang, Hongsheng Zhang, Ji Huang 	20241101
-
   - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Plant cuticles repress organ initiation and development during skotomorphogenesis in Arabidopsis](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00079-8?rss=yes). Yuru Ma, Wenwen Chang, Yongpeng Li, Jiahui Xu, Yon.., Lei Wang, Yu Sun, Lin Guo, Hao Zhang, Xigang Liu 	20241101
 
   - \[[plant-communications-current](https://www.cell.com/current?publicationCode=xplc&rss=yes)\][Nuclear phylogenomics of Asteraceae with increased sampling provides new insights into convergent morphological and molecular evolution](https://www.cell.com/plant-communications/fulltext/S2590-3462(24)00080-4?rss=yes). Guojin Zhang, Junbo Yang, Caifei Zhang, Bohan Jiao..i-Rong Zhang, Lian-Ming Gao, Tiangang Gao, Hong Ma 	20241101
@@ -3157,6 +3088,99 @@ genome of Gynostemma pentaphyllum](https://www.cell.com/plant-communications/ful
   - \[[BioRxivBio](http://biorxiv.org)\][Utilizing protein structure graph embeddings to predict the pathogenicity of missense variants](http://biorxiv.org/cgi/content/short/2024.11.15.623748v1?rss=1). Danner, M., Begemann, M., Elbracht, M., Kurth, I., Krause, J. 	20241101
 
   - \[[BioRxivBio](http://biorxiv.org)\][Differential Expression Analysis with InMoose, the Integrated Multi-Omic Open-Source Environment in Python](http://biorxiv.org/cgi/content/short/2024.11.14.623578v1?rss=1). Colange, M., Appe, G., Meunier, L., Weill, S., Nordor, A., Behdenna, A. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][NERVE 2.0: boosting the New Enhanced Reverse Vaccinology Environment via artificial intelligence and a user-friendly web interface](http://biorxiv.org/cgi/content/short/2024.11.13.623451v1?rss=1). Conte, A., Gulmini, N., Costa, F., Cartura, M., Brohl, F., Patane, F., Filippini, F. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Large-Scale Quantitative Cross-Linking and Mass Spectrometry Provides New Insight on Protein Conformational Plasticity within Organelles, Cells, and Tissues](http://biorxiv.org/cgi/content/short/2024.11.14.623288v1?rss=1). Keller, A., Bruce, J. E. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][IMMClock reveals immune aging and T cell function at single-cell resolution](http://biorxiv.org/cgi/content/short/2024.11.13.623449v1?rss=1). Schmidt, Y. G., Wu, D., Madan, S., Sinha, S., Sahn.. Weng, N.-p., Restifo, N. P., Wang, K., Ruppin, E. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Assessing the conservation and targets of putative sRNAs in Streptococcus pneumoniae](http://biorxiv.org/cgi/content/short/2024.11.14.623631v1?rss=1). Eichelman, M. C., Meyer, M. M. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Fast-Part: Fast and Accurate Data Partitioning for Biological Sequence Analysis](http://biorxiv.org/cgi/content/short/2024.11.13.623463v1?rss=1). Ahmed, S., Emon, M. I., Moumi, N. A., ZHANG, L. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Deciphering epigenetic influence of curcumin on histone signatures in breast cancer using 3D network](http://biorxiv.org/cgi/content/short/2024.11.13.623008v1?rss=1). Tang, T., Berezin, M. Y., Mollah, S. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Ranking protein-peptide binding affinities with protein language models](http://biorxiv.org/cgi/content/short/2024.11.14.623613v1?rss=1). Chalas, C. C., Dunne, M. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][InterPLM: Discovering Interpretable Features in Protein Language Models via Sparse Autoencoders](http://biorxiv.org/cgi/content/short/2024.11.14.623630v1?rss=1). Simon, E., Zou, J. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][SMAC: identifying DNA N6-methyladenine (6mA) at the single-molecule level using SMRT CCS data](http://biorxiv.org/cgi/content/short/2024.11.13.623492v1?rss=1). Li, H., Niu, J., Sheng, Y., Liu, Y., Gao, S. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Atomic elementary flux modes explain the steady state flow of metabolites in large-scale flux networks](http://biorxiv.org/cgi/content/short/2024.11.13.623484v1?rss=1). Chitpin, J. G., Perkins, T. J. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Identifying Alzheimer's disease-associated genes using PhenoGeneRanker](http://biorxiv.org/cgi/content/short/2024.11.12.623269v1?rss=1). Rahman, M. T., Saeed, F., Bozdag, S. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][A Multi-Property Optimizing Generative Adversarial Network for de novo Antimicrobial Peptide Design](http://biorxiv.org/cgi/content/short/2024.11.13.623386v1?rss=1). Liu, J., Cui, T., Wang, T., Zeng, X., Niu, Y., Jia.., Wang, X., Wang, Y., Shang, X., Wei, Z., Peng, J. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Machine Learning Approaches for Predicting Virus-Human Protein-Protein Interactions: An Evaluation of Retroviral Interaction Networks](http://biorxiv.org/cgi/content/short/2024.11.13.623326v1?rss=1). Mahmoudi, O., Taghvaei, S., Salehi, S., Khosravi, S., Sazgar, A., Zareei, S. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][DDA-BERT: leveraging transformer architecture pre-training for data-dependent acquisition mass spectrometry-based proteomics](http://biorxiv.org/cgi/content/short/2024.11.13.623394v1?rss=1). A, J., Liu, P., Sun, Y., Lin, J., Zhang, X., Nie, Z., Zhang, Y., Xing, Z., Chen, Y., Guo, T. 	20241101
+
+
+### BioRxivGenomInfor
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][GWAC: A machine learning method to identify functional variants in data-constrained species](http://biorxiv.org/cgi/content/short/2024.11.15.623873v1?rss=1). Sharo, A. G. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][PRC1 and CTCF-Mediated Transition from Poised to Active Chromatin Loops Drives Bivalent Gene Activation](http://biorxiv.org/cgi/content/short/2024.11.13.623456v1?rss=1). Hanafiah, A., Geng, Z., Liu, T., Tai, Y. T., Cai, ..ng, Q., Christensen, N., Liu, Y., Yue, F., Gao, Z. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Telomeric Repeat-Containing RNA Increases in Aged Human Cells](http://biorxiv.org/cgi/content/short/2024.11.14.623513v1?rss=1). Chu, H.-P. C., Hsieh, Y.-H., Tai, C.-H., Yeh, M.-T.., Yang, P.-C., Chen, Y.-C., Yen, C.-P., Han, D.-S. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Illumina Complete Long Read Assay yields contiguous bacterial genomes from human gut metagenomes](http://biorxiv.org/cgi/content/short/2024.11.15.623807v1?rss=1). Maghini, D. G., Darling, A. E., Monahan, L., Halpe..., Truong, T., Ying, K., Schroth, G., Bhatt, A. S. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Uncertainty-aware genomic deep learning with knowledge distillation](http://biorxiv.org/cgi/content/short/2024.11.13.623485v1?rss=1). Zhou, J., Rizzo, K., Tang, Z., Koo, P. K. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Steroid receptor-assisted loading modulates transcriptional responses in prostate cancer cells](http://biorxiv.org/cgi/content/short/2024.11.15.623719v1?rss=1). Hiltunen, J., Helminen, L., Aaltonen, N., Launonen..M., Niskanen, E. A., Palvimo, J. J., Paakinaho, V. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][A deep audit of the PeptideAtlas database uncovers evidence for unannotated coding genes and aberrant translation](http://biorxiv.org/cgi/content/short/2024.11.14.623419v1?rss=1). Rodriguez, J. M., Maquedano, M., Cerdan-Velez, D., Calvo, E., Vazquez, J., Tress, M. L. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Benchmarking Peak Calling Methods for CUT&RUN](http://biorxiv.org/cgi/content/short/2024.11.13.622880v1?rss=1). Nooranikhojasteh, A., Tavallaee, G., Orouji, E. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][The first de novo HiFi genome assemblies for three clownfish-hosting sea anemone species (Anthozoa: Actiniaria)](http://biorxiv.org/cgi/content/short/2024.11.13.623406v1?rss=1). De Jode, A., Titus, B. M. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Disruptive changes in tissue microenvironment prime oncogenic processes at different stages of carcinogenesis in lung](http://biorxiv.org/cgi/content/short/2024.11.12.623197v1?rss=1). Venkat, V., Hu, X., Biswas, A., Saxena, A., Malhotra, J., Riedlinger, G., De, S. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Bridging Genomic Gaps: The Pan-Grass Syntenic Gene Set in Grass Crop Evolution](http://biorxiv.org/cgi/content/short/2024.11.12.623179v1?rss=1). Dias, H. M., Sagawa, G. I. A., Torres-Rodriguez, V., Mural, R. V., Schnable, J. C., Van Sluys, M.-A. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Regulatory plasticity of the human genome](http://biorxiv.org/cgi/content/short/2024.11.13.623439v1?rss=1). Srivastava, J., Ovcharenko, I. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][A Comparison of Nanopore Data Types, Basecalling, and Assembly Algorithms: Whole Plant Genome Assembly and Methylation Analysis from a Single MinION Flow cell](http://biorxiv.org/cgi/content/short/2024.11.13.623402v1?rss=1). Martin, S., Heavens, D., Lan, Y., Peel, N., Irish,..ield, S., Giolai, M., Clark, M. D., Leggett, R. M. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Sparse matrix factorization of GWAS summary statistics robust to sample sharing improves detection and interpretation of factors with diverse genetic architectures](http://biorxiv.org/cgi/content/short/2024.11.12.623313v1?rss=1). Omdahl, A. R., Weinstock, J. S., Keener, R., Chhetri, S. B., Arvanitis, M., Battle, A. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][invertiaDB: A Database of Inverted Repeats Across Organismal Genomes](http://biorxiv.org/cgi/content/short/2024.11.11.622808v1?rss=1). Provatas, K., Chantzi, N., Patsakis, M., Nayak, A...is, I., Pavlopoulos, G., Georgakopoulos-Soares, I. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Draft genome sequence of the glasshouse-potato aphid Aulacorthum solani](http://biorxiv.org/cgi/content/short/2024.11.12.623246v1?rss=1). Torres, J., Rozo-Lopez, P., Brewer, W., Saleh Ziabari, O., Parker, B. J. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Identification of methylation-sensitive human transcription factors using meSMiLE-seq](http://biorxiv.org/cgi/content/short/2024.11.11.619598v1?rss=1). Gralak, A. J., Faltejskova, K., Yang, A. W. H., St..auer-Swietek, J. F., van Mierlo, G., Deplancke, B. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Perspectives on Codebook: sequence specificity of uncharacterized human transcription factors](http://biorxiv.org/cgi/content/short/2024.11.11.622097v1?rss=1). Jolma, A., Laverty, K. U., Fathi, A., Yang, A. W.,.., Deplancke, B., Kulakovskiy, I. V., Hughes, T. R. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][LOL-EVE: Predicting Promoter VariantEffects from Evolutionary Sequences](http://biorxiv.org/cgi/content/short/2024.11.11.623015v1?rss=1). Shearer, C., Teufel, F., Orenbuch, R., Ritter, D.,..ie, E., Frazer, J., Dias, M., Notin, P., Marks, D. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Deconstructing evolutionary histories of complex genomic rearrangements in lung malignancies](http://biorxiv.org/cgi/content/short/2024.11.11.623122v1?rss=1). Hu, X., Venkat, V., Riedlinger, G., Shen, Z., Malhotra, J., De, S. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Genomic characterization of a persistent, azole-resistant C. parapsilosis strain responsible for a hospital outbreak during the first COVID-19 wave](http://biorxiv.org/cgi/content/short/2024.11.11.622614v1?rss=1). Vumbaca, M., Batisti Biffignandi, G., Cavanna, C.,..hodes, J., Corander, J., Baldanti, F., Sassera, D. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][An integrative approach to prioritize candidate causal genes for complex traits in cattle](http://biorxiv.org/cgi/content/short/2024.11.11.622912v1?rss=1). Ghoreishifar, M., Macleod, I. M., Chamberlain, A. ..hn, M. D., Xiang, R., Pryce, J. E., Goddard, M. E. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Extensive binding of uncharacterized human transcription factors to genomic dark matter](http://biorxiv.org/cgi/content/short/2024.11.11.622123v1?rss=1). Razavi, R., Fathi, A., Yellan, I., Brechalov, A., .., P., Morris, Q., Najafabadi, H. S., Hughes, T. R. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][GHT-SELEX demonstrates unexpectedly high intrinsic sequence specificity and complex DNA binding of many human transcription factors](http://biorxiv.org/cgi/content/short/2024.11.11.618478v1?rss=1). Jolma, A., Hernandez-Corchado, A., Yang, A. W., Fa..lakovskiy, I. V., Najafabadi, H. S., Hughes, T. R. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Single-nucleus multiple-organ chromatin accessibility mapping in the rat](http://biorxiv.org/cgi/content/short/2024.11.11.622900v1?rss=1). Li, R., Yuan, Y., Duan, S., Deng, Q., Ma, W., Liu, C., Gao, P., Lu, L., Liu, C. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Assessment of the Genetic Diversity of Atlantic Bottlenose Dolphin (Tursiops truncatus) Strandings in the Mississippi Sound (USA)](http://biorxiv.org/cgi/content/short/2024.11.09.622766v1?rss=1). Arick, M., Landrau-Giovannetti, N., Hsu, C.-Y., Gr..erson, D. G., Solangi, M., Lawrence, M., Karsi, A. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][A chromosome-level genome of the giant vinegaroon Mastigoproctus giganteus exhibits the signature of pre-Silurian whole genome duplication](http://biorxiv.org/cgi/content/short/2024.11.08.622695v1?rss=1). Kulkarni, S., Klementz, B. C., Sharma, P. P. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Early Prediction of Preeclampsia Based on Transposable Elements signature in cell-free RNA](http://biorxiv.org/cgi/content/short/2024.11.08.622691v1?rss=1). Patel, M., Saleh, A., Dabrowska, A., Boulet, F., Sinha, A. K., Madapura, P. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][A global view of the RNA-binding and regulatory protein landscape in Caenorhabditis elegans](http://biorxiv.org/cgi/content/short/2024.11.07.622524v1?rss=1). Laver, J. D., Duncan, M., Calarco, J. A. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Investigating the Role of Management Decisions in Subspecies Hybridization Across the Wild Turkey's Range](http://biorxiv.org/cgi/content/short/2024.11.07.622462v1?rss=1). Beckman, A. K., Hamer, S. A., Rosenthal, G. G., Brennan, L. A., Hancock, Z. B. 	20241101
+
+ression Analysis with InMoose, the Integrated Multi-Omic Open-Source Environment in Python](http://biorxiv.org/cgi/content/short/2024.11.14.623578v1?rss=1). Colange, M., Appe, G., Meunier, L., Weill, S., Nordor, A., Behdenna, A. 	20241101
 
   - \[[BioRxivBio](http://biorxiv.org)\][NERVE 2.0: boosting the New Enhanced Reverse Vaccinology Environment via artificial intelligence and a user-friendly web interface](http://biorxiv.org/cgi/content/short/2024.11.13.623451v1?rss=1). Conte, A., Gulmini, N., Costa, F., Cartura, M., Brohl, F., Patane, F., Filippini, F. 	20241101
 
