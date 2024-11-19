@@ -3207,6 +3207,10 @@
 
   - \[[BioRxivBio](http://biorxiv.org)\][Identification of Potential Hub Genes and Therapeutic Targets in Colorectal Cancer Using Integrated Bioinformatics Approaches](http://biorxiv.org/cgi/content/short/2024.11.16.623927v1?rss=1). D, K., R, M., KUMAR, S. G., KUMAR, D. 	20241101
 
+  - \[[BioRxivBio](http://biorxiv.org)\][A  - \[[BioRxivBio](http://biorxiv.org)\][Pharming: Joint Clonal Tree Reconstruction of SNV and CNAEvolution from Single-cell DNA Sequencing of Tumors](http://biorxiv.org/cgi/content/short/2024.11.17.623950v1?rss=1). Weber, L. L., Hart, A., Ochoa, I., El-Kebir, M. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Identification of Potential Hub Genes and Therapeutic Targets in Colorectal Cancer Using Integrated Bioinformatics Approaches](http://biorxiv.org/cgi/content/short/2024.11.16.623927v1?rss=1). D, K., R, M., KUMAR, S. G., KUMAR, D. 	20241101
+
   - \[[BioRxivBio](http://biorxiv.org)\][AlphaFold predictions on whole genomes at a glance](http://biorxiv.org/cgi/content/short/2024.11.16.623929v1?rss=1). Cazals, F., Sarti, E. 	20241101
 
   - \[[BioRxivBio](http://biorxiv.org)\][Clair3-RNA: A deep learning-based small variant caller for long-read RNA sequencing data](http://biorxiv.org/cgi/content/short/2024.11.17.624050v1?rss=1). Zheng, Z., Yu, X., Chen, L., Lee, Y.-L., Xin, C., .., M., Kesharwani, R. K., Sedlazeck, F. J., Luo, R. 	20241101
