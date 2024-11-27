@@ -3301,45 +3301,7 @@
 
   - \[[BioRxivBio](http://biorxiv.org)\][Assessing Long-Read Mappers for Viral Genomics](http://biorxiv.org/cgi/content/short/2024.11.25.625163v1?rss=1). Baudeau, T., MARCHET, C., Salson, M. 	20241101
 
-  - \[[BioRxivBio](http://biorxiv.org)\][NetworkCommons: bridging data, knowledge and methods to build and evaluate context-specific biological networks](http://biorxiv.org/cgi/content/short/2024.11.22.624823v1?rss=1). Paton, V., Turei, D  - \[[BioRxivBio](http://biorxiv.org)\][VaxLLM: Leveraging Fine-tuned Large Language Model for automated annotation of Brucella Vaccines](http://biorxiv.org/cgi/content/short/2024.11.25.625209v1?rss=1). Li, X., Zheng, Y., Hu, J., Zheng, J., Wang, Z., He, Y. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][DyNDG: Identifying Leukemia-Related Genes based on the Time-Series Dynamical Network by Integrating Differential Genes](http://biorxiv.org/cgi/content/short/2024.11.24.624224v1?rss=1). A, J., Xiang, J., Meng, X., Sheng, Y., Peng, H., Li, M. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Exploiting uniqueness: seed-chain-extend alignment on elastic founder graphs](http://biorxiv.org/cgi/content/short/2024.11.24.625039v1?rss=1). Rizzo, N., Caceres, M., Makinen, V. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][DockFormer: Efficient Multi-Modal Receptor-Ligand Interaction Prediction using Pair Transformer](http://biorxiv.org/cgi/content/short/2024.11.25.625135v1?rss=1). Shor, B., Schneidman-Duhovny, D. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][SPACE: STRING proteins as complementary embeddings](http://biorxiv.org/cgi/content/short/2024.11.25.625140v1?rss=1). Hu, D., Szklarczyk, D., Mering, C. v., Jensen, L. J. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][The effectiveness of Large Language Models with RAG for auto-annotating phenotype descriptions](http://biorxiv.org/cgi/content/short/2024.11.24.625102v1?rss=1). Kainer, D. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][CHARMER: detecting and harmonizing high-confidence chromatin interactions across tissues and Hi-C protocols](http://biorxiv.org/cgi/content/short/2024.11.25.625258v1?rss=1). Cole, S., Kuksa, P. P., Cifello, J., Valladares, O., Leung, Y. Y., Wang, L.-S. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Recommendations for Bioinformatics in Clinical Practice](http://biorxiv.org/cgi/content/short/2024.11.23.624993v1?rss=1). Lavrichenko, K., Engdal, E. S., Marvig, R. L., Jem..rk de Boer, E., Vang, S., Wirta, V., Bagger, F. O. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][DeepAssembly2: A Web Server for Protein Complex Structure Assembly Based on Domain-Domain Interactions](http://biorxiv.org/cgi/content/short/2024.11.22.624951v1?rss=1). Xia, Y., Pu, Y., Wang, S., Zhuang, J., Liu, D., Hou, M., Zhang, G. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][ApoDock: Ligand-Conditioned Sidechain Packing for Flexible Molecular Docking](http://biorxiv.org/cgi/content/short/2024.11.22.624942v1?rss=1). Luo, D., Qu, X., Lu, D., Wang, Y., Dong, L., Wang, B. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][The Lorenz's side of Gene Set Enrichment Analysis: Similarity and divergences of the Gene Set Enrichment Analysis from the measure of wealth inequality](http://biorxiv.org/cgi/content/short/2024.11.23.624984v1?rss=1). Pagnotta, S. M. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Comprehensive Transcriptomic Analysis of Hepatocellular Carcinoma: Uncovering Shared and Unique Molecular Signatures Across Diverse Etiologies](http://biorxiv.org/cgi/content/short/2024.11.23.625031v1?rss=1). Khorsand, B., Naderi, N., Karimian, S. S., Mohaghe..madi, A., Hadisadegh, S. N., Owrang, M., Houri, H. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Improved Deep Learning Prediction of TCR-HLA Association](http://biorxiv.org/cgi/content/short/2024.11.22.624910v1?rss=1). Li, F., Liu, S., Sun, W. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][In-silico modeling and interpretation of RBP binding disentangle m6A-RBP interaction](http://biorxiv.org/cgi/content/short/2024.11.23.624962v1?rss=1). Liu, J., Zhu, X., Yin, Y., Xu, Z., He, J., Xiong, X. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Leveraging Persistent Homology of Eye Movements for Neural Disorder Screening](http://biorxiv.org/cgi/content/short/2024.11.23.624966v1?rss=1). He, D., Wang, S., Ogmen, H. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Anatomical Region-Specific Transcriptomic Signatures and the Role of Epithelial Cells in Pterygium Inflammation: A Multi-Omics Analysis](http://biorxiv.org/cgi/content/short/2024.11.25.625095v1?rss=1). Song, C., Myung, S., Cho, H., Kim, T. G., Chun, S...in, J., Kang, J., Lee, Y., Kang, M. S., Kim, M. S. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][CNV-Profile Regression: A New Approach for Copy Number Variant Association Analysis in Whole Genome Sequencing Data](http://biorxiv.org/cgi/content/short/2024.11.23.624994v1?rss=1). Si, Y., Lu, W., Holloway, S. T., Wang, H., Tucci, ..-S., Schellenberg, G. D., Lee, W.-P., Tzeng, J.-Y. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Assessing Long-Read Mappers for Viral Genomics](http://biorxiv.org/cgi/content/short/2024.11.25.625163v1?rss=1). Baudeau, T., MARCHET, C., Salson, M. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][NetworkCommons: bridging data, knowledge and methods to build and evaluate context-specific biological networks](http://biorxiv.org/cgi/content/short/2024.11.22.624823v1?rss=1). Paton, V., Turei, D., Ivanova, O., Muller-Dott, S...tto, L., Garrido-Rodriguez, M., Saez-Rodriguez, J. 	20241101
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Modeling Primer-Template Interactions using BERT Tokenizer to Predict PCR Amplification with Attention-BiLSTM](http://biorxiv.org/cgi/content/short/2024.11.23.624986v1?rss=1). Latifian, N., Nazer, N., Jafarpisheh, A. M., Hossein Khalaj, B. 	20241101
+  - \[[BioRxivBio](http://biorxiv.org)\][NetworkCommons: bridging data, knowledge and methods to build and evaluate context-specific biological networks](http://biorxiv.org/cgi/content/short/2024.11.22.624823v1?rss=1). Paton, V., Turei, D  - \[[BioRxivBio](http://biorxiv.org)\][VaxLLM: Leveraging Fine-tuned Large Language Model for  - \[[BioRxivBio](http://biorxiv.org)\][Modeling Primer-Template Interactions using BERT Tokenizer to Predict PCR Amplification with Attention-BiLSTM](http://biorxiv.org/cgi/content/short/2024.11.23.624986v1?rss=1). Latifian, N., Nazer, N., Jafarpisheh, A. M., Hossein Khalaj, B. 	20241101
 
   - \[[BioRxivBio](http://biorxiv.org)\][TMVisDB: A Resource for Transmembrane Protein Annotations and 3D Visualizations](http://biorxiv.org/cgi/content/short/2024.11.22.624323v1?rss=1). Olenyi, T., Marquet, C., Grekova, A., Houri, L., Heinzinger, M., Dallago, C., Rost, B. 	20241101
 
@@ -3379,6 +3341,38 @@
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][HiC2Self: self-supervised denoising for bulk and single-cell Hi-C contact maps](http://biorxiv.org/cgi/content/short/2024.11.21.624767v1?rss=1). Yang, R., Karbalayghareh, A., Leslie, C. S. 	20241101
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][A reference genome for Trichogramma kaykai: A tiny desert-dwelling parasitoid wasp with competing sex-ratio distorters](http://biorxiv.org/cgi/content/short/2024.11.22.624848v1?rss=1). Culotta, J., Lindsey, A. R. I. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Telomere interactions and structural variants in ALT cells revealed with TelSPRITE](http://biorxiv.org/cgi/content/short/2024.11.22.624895v1?rss=1). Wilson, D. G., Clatterbuck Soper, S. F., Pineda, M. A., Walker, R. L., Meltzer, P. S. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Phylogeographic patterns of  Escherichia coli  isolated from white-tailed deer,  Odocoileus virginianus , during necropsy in a farmed deer surveillance program](http://biorxiv.org/cgi/content/short/2024.11.21.624738v1?rss=1). Metrailer, M. C., Cheng, A.-C., Bluhm, A. P., Jira..C., Wisely, S. M., Campos, J. M., Blackburn, J. K. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Genomes of two invasive Adelges species (hemlock woolly adelgid and pineapple gall adelgid) enable characterization of nicotinic acetylcholine receptors](http://biorxiv.org/cgi/content/short/2024.11.21.624573v1?rss=1). Glendening, A. M., Stephens, C., Vuruputoor, V. S... N., Cernack, T. A., Wegrzyn, J. L., Fetter, K. C. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Identifying genomic adaptation to local climate using a mechanistic evolutionary model](http://biorxiv.org/cgi/content/short/2024.11.21.624744v1?rss=1). Goel, N., Bossu, C. M., Van Ee, J. J., Zavaleta, E., Ruegg, K. C., Hooten, M. B. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][PERCEPTIVE: an R Shiny pipeline for the prediction of epigenetic modulators in novel species](http://biorxiv.org/cgi/content/short/2024.11.20.624555v1?rss=1). Small, E. M., Steadman, C. R. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Transient histone deacetylase inhibition induces cellular memory of gene expression and three-dimensional genome folding](http://biorxiv.org/cgi/content/short/2024.11.21.624660v1?rss=1). Paldi, F., Szalay, M. F., Di Stefano, M., Jost, D., Reboul, H., Cavalli, G. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Enhancing single-cell ATAC sequencing with formaldehyde fixation, cryopreservation, and multiplexing for flexible analysis](http://biorxiv.org/cgi/content/short/2024.11.20.624480v1?rss=1). Hohl, T., Boenisch, U., Manke, T., Arrigoni, L. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][CTCF depletion decouples enhancer-mediated gene activation from chromatin hub formation during cellular differentiation](http://biorxiv.org/cgi/content/short/2024.11.20.624447v1?rss=1). Karpinska, M. A., Zhu, Y., Fakhraei Ghazvini, Z., .. Lidschreiber, M., Papantonis, A., Oudelaar, A. M. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][TIRE-seq: an Integrated Sample Extraction and Transcriptomics Workflow for High Throughput Perturbation Studies](http://biorxiv.org/cgi/content/short/2024.11.20.624406v1?rss=1). O'Keeffe, P., Nouri, Y., Saw, H. S., Moore, Z., Ba..., Amann-Zalcenstein, D., Bowden, R., Brown, D. V. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Ox-LDL induces a non-inflammatory response enriched for coronary artery disease risk in human endothelial cells](http://biorxiv.org/cgi/content/short/2024.11.19.624299v1?rss=1). Jiang, J., Hiron, T., Chalisey, A., Malhotra, Y., Agbaedeng, T., O'Callaghan, C. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Expansion of a single Helitron subfamily in Hydractinia symbiolongicarpus suggests a shared mechanism of cnidarian chromosomal extension](http://biorxiv.org/cgi/content/short/2024.11.21.624632v1?rss=1). Kon, T., Kon-Nanjo, K., Simakov, O. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Green Elegance T2T: An upgraded telomere-to-telomere genome assembly and annotation of looseleaf lettuce (Lactuca sativa var. crispa)](http://biorxiv.org/cgi/content/short/2024.11.20.624396v1?rss=1). Zhang, B., Liu, X., Ding, H., Yang, Y., Tang, J., Li, D. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][The sugar beet root maggot, Tetanops myopaeformis transcriptome sample statistics in relation to it experiencing susceptible and resistant reactions with sugar beet, Beta vulgaris ssp. vulgaris](http://biorxiv.org/cgi/content/short/2024.11.19.624160v1?rss=1). Acharya, S., Alkharouf, N. W., Tehseen, M., Chu, C. P., Klink, V. P. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Exploring the Hypothetical Role of Bacteroides Species in Depression Progression: Insights from Metagenomic Analysis](http://biorxiv.org/cgi/content/short/2024.11.20.624524v1?rss=1). Li, Z., Sun, J., Long, J., Han, P., Min, L., Cheng, Y., Zou, Y., Liu, Z. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][A platform for multimodal in vivo pooled genetic screens reveals regulators of liver function](http://biorxiv.org/cgi/content/short/2024.11.18.624217v1?rss=1). Saunders, R. A., Allen, W. E., Pan, X., Sandhu, J...llivan, Z., Dulac, C., Weissman, J. S., Zhuang, X. 	20241101
+
+richogramma kaykai: A tiny desert-dwelling parasitoid wasp with competing sex-ratio distorters](http://biorxiv.org/cgi/content/short/2024.11.22.624848v1?rss=1). Culotta, J., Lindsey, A. R. I. 	20241101
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Telomere interactions and structural variants in ALT cells revealed with TelSPRITE](http://biorxiv.org/cgi/content/short/2024.11.22.624895v1?rss=1). Wilson, D. G., Clatterbuck Soper, S. F., Pineda, M. A., Walker, R. L., Meltzer, P. S. 	20241101
 
