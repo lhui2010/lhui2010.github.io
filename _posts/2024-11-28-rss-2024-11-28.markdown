@@ -3201,6 +3201,10 @@
 
   - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][MFPSP: Identification of fungal species-specific phosphorylation site using offspring competition-based genetic algorithm](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012607). Chao Wang, Quan Zou 2024-11-18	20241101
 
+  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Storm: Incor  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Rapid prediction of key residues for foldability by machine learning model enables the design of highly functional libraries with hyperstable constrained peptide scaffolds](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012609). Fei Cai, Yuehua Wei, Daniel Kirchhofer, Andrew Chang, Yingnan Zhang 2024-11-18	20241101
+
+  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][MFPSP: Identification of fungal species-specific phosphorylation site using offspring competition-based genetic algorithm](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012607). Chao Wang, Quan Zou 2024-11-18	20241101
+
   - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Storm: Incorporating transient stochastic dynamics to infer the RNA velocity with metabolic labeling information](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012606). Qiangwei Peng, Xiaojie Qiu, Tiejun Li 2024-11-18	20241101
 
   - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Human perception of self-motion and orientation during galvanic vestibular stimulation and physical motion](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012601). Aaron R. Allred, Caroline R. Austin, Lanna Klausing, Nicholas Boggess, Torin K. Clark 2024-11-18	20241101
