@@ -3488,6 +3488,13 @@
 
 ### BioRxivGenomInfor
 
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Genome Organization with CUT and Tag (GO-CaT) identifies substructure a  - \[[BioRxivBio](http://biorxiv.org)\][NetworkCommons: bridging data, knowledge and methods to build and evaluate context-specific biological networks](http://biorxiv.org/cgi/content/short/2024.11.22.624823v1?rss=1). Paton, V., Turei, D., Ivanova, O., Muller-Dott, S...tto, L., Garrido-Rodriguez, M., Saez-Rodriguez, J. 	20241101
+
+  - \[[BioRxivBio](http://biorxiv.org)\][Modeling Primer-Template Interactions using BERT Tokenizer to Predict PCR Amplification with Attention-BiLSTM](http://biorxiv.org/cgi/content/short/2024.11.23.624986v1?rss=1). Latifian, N., Nazer, N., Jafarpisheh, A. M., Hossein Khalaj, B. 	20241101
+
+
+### BioRxivGenomInfor
+
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Genome Organization with CUT and Tag (GO-CaT) identifies substructure and maturation of lamina-associated domains in neurons of the developing human brain](http://biorxiv.org/cgi/content/short/2024.11.27.625786v1?rss=1). Zhang, C., Gil, E., Ahanger, S. H., Li, M., Wang, L., Li, J., Kriegstein, A., Lim, D. 	20241101
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Temporal and spatial distribution of microbial community in urban river in Dhaka](http://biorxiv.org/cgi/content/short/2024.11.26.625349v1?rss=1). ALOM, M. M., Nizhum, A. H., Mannan, A. B. A., Sultana, M., Rahman, S. M. 	20241101
