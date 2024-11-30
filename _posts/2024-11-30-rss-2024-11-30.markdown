@@ -3470,17 +3470,6 @@
 
   - \[[BioRxivBio](http://biorxiv.org)\][Decoding substrate specificity determining factors in glycosyltransferase-B enzymes - Insights from machine learning models](http://biorxiv.org/cgi/content/short/2024.11.26.625515v1?rss=1). Hennen, S., Bomble, Y. J., Urbanowicz, B. R., Bharadwaj, V. 	20241101
 
- 	20241101
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Plaseval: a framework for comparing and evaluating plasmid detection tools](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05941-0). Aniket Mane, Haley Sanderson, Aaron P. White, Rahat Zaheer, Robert Beiko and Cédric Chauve 	20241101
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][MoAGL-SA: a multi-omics adaptive integration method with graph learning and self attention for cancer subtype classification](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05989-y). Lei Cheng, Qian Huang, Zhengqun Zhu, Yanan Li, Shuguang Ge, Longzhen Zhang and Ping Gong Sat, 23 Nov 2024 00:00:00 GM	20241101
-
-
-### BioRxivBio
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Decoding substrate specificity determining factors in glycosyltransferase-B enzymes - Insights from machine learning models](http://biorxiv.org/cgi/content/short/2024.11.26.625515v1?rss=1). Hennen, S., Bomble, Y. J., Urbanowicz, B. R., Bharadwaj, V. 	20241101
-
   - \[[BioRxivBio](http://biorxiv.org)\][Identification of neuronatin as a SERCA2b regulin-like protein and assessment of its aggregation propensity via coarse grained simulations.](http://biorxiv.org/cgi/content/short/2024.11.27.625357v1?rss=1). Ben Mariem, O., Coppi, L., De Fabiani, E., Eberini, I., Crestani, M. 	20241101
 
   - \[[BioRxivBio](http://biorxiv.org)\][A Machine Learning Model of Perturb-Seq Data for Use in Space Flight Gene Expression Profile Analysis](http://biorxiv.org/cgi/content/short/2024.11.28.625741v1?rss=1). Johnson, L. F., Casaletto, J. A., Costes, S. V., Proctor, C. R., Sanders, L. M. 	20241101
@@ -3595,6 +3584,14 @@
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Assessing RNA velocity stability across syntheticreplicates using count splitting](http://biorxiv.org/cgi/content/short/2024.11.23.625009v1?rss=1). Li, Y., Wei, Z. J., Chen, Y.-C., Lin, K. Z. 	20241101
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][UniversalEPI: Harnessing Attention Mechanisms to Decode Chromatin Interactions in Rare and Unexplored Cell Types](http://biorxiv.org/cgi/content/short/2024.11.22.624813v1?rss=1). Grover, A., Zhang, L., Muser, T., Häfliger, S., W..heis, F. J., Ibarra, I. L., Krymova, E., Boeva, V. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][HiC2Self: self-supervised denoising for bulk and single-cell Hi-C contact maps](http://biorxiv.org/cgi/content/short/2024.11.21.624767v1?rss=1). Yang, R., Karbalayghareh, A., Leslie, C. S. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][A reference genome for Trichogramma kaykai: A tiny desert-dwelling parasitoid wasp with competing sex-ratio distorters](http://biorxiv.org/cgi/content/short/2024.11.22.624848v1?rss=1). Culotta, J., Lindsey, A. R. I. 	20241101
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Telomere interactions and structural variants in ALT cells revealed with TelSPRITE](http://biorxiv.org/cgi/content/short/2024.11.22.624895v1?rss=1). Wilson, D. G., Clatterbuck Soper, S. F., Pineda, M. A., Walker, R. L., Meltzer, P. S. 	20241101
+
+chanisms to Decode Chromatin Interactions in Rare and Unexplored Cell Types](http://biorxiv.org/cgi/content/short/2024.11.22.624813v1?rss=1). Grover, A., Zhang, L., Muser, T., Häfliger, S., W..heis, F. J., Ibarra, I. L., Krymova, E., Boeva, V. 	20241101
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][HiC2Self: self-supervised denoising for bulk and single-cell Hi-C contact maps](http://biorxiv.org/cgi/content/short/2024.11.21.624767v1?rss=1). Yang, R., Karbalayghareh, A., Leslie, C. S. 	20241101
 
