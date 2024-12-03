@@ -3494,6 +3494,16 @@
 
 ### BMCBioinformatics
 
+  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][A novel phenotype imputation method with copula model](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05990-5). Jianjun Zhang, Jane Zizhen Zhao, Samantha Gonzales, Xuexia Wang and Qiuying Sha Sat, 30 Nov 2024 00:00:00 GM	20241201
+
+  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Enhanced prediction of hemolytic activity in antimicrobial peptides using deep learning-based sequence analysis](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05983-4). Ibrahim Abdelbaky, Mohamed Elhakeem, Hilal Tayara, Elsayed Badr and Mustafa Abdul Salam Wed, 27 Nov 2024 00:00:00 GM	20241201
+
+  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][TreeWave: command line tool for alignment-free phylogeny reconstruction based on graphical representation of DNA sequences and genomic signal processing](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05992-3). Nasma Boumajdi, Houda Bendani, Lahcen Belyamani and Azeddine Ibrahimi Wed, 27 Nov 2024 00:00:00 GM	20241201
+
+  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Human limits in machine learning: prediction of potato yield and disease using soil microbiome data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05977-2). Rosa Aghdam, Xudong Tang, Shan Shan, Richard Lankau and Claudia Solís-Lemus 	20241201
+
+  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Plaseval: a framework for comparing and evaluating plasmid detection tools](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05941-0). Aniket Mane, Haley Sanderson, Aaron P. White, Rahat Zaheer, Robert Beiko and Cédric Chauve 	20241201
+
 
 ### BioRxivBio
 
