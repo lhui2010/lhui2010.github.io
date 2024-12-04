@@ -3507,17 +3507,6 @@
 
   - \[[BioRxivBio](http://biorxiv.org)\][Differentiable breeding: Automatic differentiation enables efficient gradient-based optimization of breeding strategies](http://biorxiv.org/cgi/content/short/2024.11.29.625951v1?rss=1). Hamazaki, K., Iwata, H., Tsuda, K. 	20241201
 
- Nov 2024 00:00:00 GM	20241201
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][TreeWave: command line tool for alignment-free phylogeny reconstruction based on graphical representation of DNA sequences and genomic signal processing](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05992-3). Nasma Boumajdi, Houda Bendani, Lahcen Belyamani and Azeddine Ibrahimi Wed, 27 Nov 2024 00:00:00 GM	20241201
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Plaseval: a framework for comparing and evaluating plasmid detection tools](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05941-0). Aniket Mane, Haley Sanderson, Aaron P. White, Rahat Zaheer, Robert Beiko and Cédric Chauve 	20241201
-
-
-### BioRxivBio
-
-  - \[[BioRxivBio](http://biorxiv.org)\][Differentiable breeding: Automatic differentiation enables efficient gradient-based optimization of breeding strategies](http://biorxiv.org/cgi/content/short/2024.11.29.625951v1?rss=1). Hamazaki, K., Iwata, H., Tsuda, K. 	20241201
-
   - \[[BioRxivBio](http://biorxiv.org)\][The proteome content of blood clots observed under different conditions: successful role in predicting clot amyloid(ogenicity)](http://biorxiv.org/cgi/content/short/2024.11.29.626062v1?rss=1). Kell, D. B., Pretorius, E. 	20241201
 
   - \[[BioRxivBio](http://biorxiv.org)\][Disentangling cell type and state transcriptional programs](http://biorxiv.org/cgi/content/short/2024.11.29.626057v1?rss=1). Wang, J., Crowell, H., Robinson, M. D. 	20241201
@@ -3632,6 +3621,14 @@
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Cross-tissue isoform switches by human transcription factors suggest a widespread regulatory mechanism](http://biorxiv.org/cgi/content/short/2024.11.28.625692v1?rss=1). Sidorov, S., Pal, K., Lenhard, B., Luscombe, N. M. 	20241201
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Atheroprone Flow Activates SMAD-FOXO1 to drive Endothelial-to-Mesenchymal Transition and Atherosclerosis](http://biorxiv.org/cgi/content/short/2024.11.25.625323v1?rss=1). Knaus, P., Mendez, P. L., Raaz, L. V., Jatzlau, J...S., Mundlos, S., Luttun, A., Zwijsen, A., Itoh, F. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Genome Organization with CUT and Tag (GO-CaT) identifies substructure and maturation of lamina-associated domains in neurons of the developing human brain](http://biorxiv.org/cgi/content/short/2024.11.27.625786v1?rss=1). Zhang, C., Gil, E., Ahanger, S. H., Li, M., Wang, L., Li, J., Kriegstein, A., Lim, D. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Temporal and spatial distribution of microbial community in urban river in Dhaka](http://biorxiv.org/cgi/content/short/2024.11.26.625349v1?rss=1). ALOM, M. M., Nizhum, A. H., Mannan, A. B. A., Sultana, M., Rahman, S. M. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Himalayan whole-genome sequences provide insight into population formation and adaptation](http://biorxiv.org/cgi/content/short/2024.11.26.625458v1?rss=1). Arciero, E., Almarri, M. A., Mezzavilla, M., Xue, .., de Knijff, P., Tyler-Smith, C., Asan,, Haber, M. 	20241201
+
+us, P., Mendez, P. L., Raaz, L. V., Jatzlau, J...S., Mundlos, S., Luttun, A., Zwijsen, A., Itoh, F. 	20241201
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Genome Organization with CUT and Tag (GO-CaT) identifies substructure and maturation of lamina-associated domains in neurons of the developing human brain](http://biorxiv.org/cgi/content/short/2024.11.27.625786v1?rss=1). Zhang, C., Gil, E., Ahanger, S. H., Li, M., Wang, L., Li, J., Kriegstein, A., Lim, D. 	20241201
 
