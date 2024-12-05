@@ -3460,14 +3460,6 @@
 
   - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][A novel phenotype imputation method with copula model](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05990-5). Jianjun Zhang, Jane Zizhen Zhao, Samantha Gonzales, Xuexia Wang and Qiuying Sha Sat, 30 Nov 2024 00:00:00 GM	20241201
 
-01
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][The evaluation of transcription factor binding site prediction tools in human and Arabidopsis genomes](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05995-0). Dinithi V. Wanniarachchi, Sameera Viswakula and Anushka M. Wickramasuriya Mon, 02 Dec 2024 00:00:00 GM	20241201
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Single-character insertion–deletion model preserves long indels in ancestral sequence reconstruction](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05986-1). Gholamhossein Jowkar, Jūlija Pečerska, Manuel Gil and Maria Anisimova Mon, 02 Dec 2024 00:00:00 GM	20241201
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][A novel phenotype imputation method with copula model](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05990-5). Jianjun Zhang, Jane Zizhen Zhao, Samantha Gonzales, Xuexia Wang and Qiuying Sha Sat, 30 Nov 2024 00:00:00 GM	20241201
-
   - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Enhanced prediction of hemolytic activity in antimicrobial peptides using deep learning-based sequence analysis](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05983-4). Ibrahim Abdelbaky, Mohamed Elhakeem, Hilal Tayara, Elsayed Badr and Mustafa Abdul Salam Wed, 27 Nov 2024 00:00:00 GM	20241201
 
 
@@ -3589,6 +3581,14 @@
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Performance evaluation of structural variation detection using DNBSEQ whole-genome sequencing](http://biorxiv.org/cgi/content/short/2024.11.28.625961v1?rss=1). Rao, J., Luo, H., An, D., Liang, X., Peng, L., Chen, F. 	20241201
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Pesticide degradation capacity of a novel strain belonging to Serratia sarumanii (GBS19) with its genomic profile](http://biorxiv.org/cgi/content/short/2024.11.28.625876v1?rss=1). Alatassi, G., Baysal, O., Silme, R. S., Ornek, G. P., Ornek, H., Can, A. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Cross-tissue isoform switches by human transcription factors suggest a widespread regulatory mechanism](http://biorxiv.org/cgi/content/short/2024.11.28.625692v1?rss=1). Sidorov, S., Pal, K., Lenhard, B., Luscombe, N. M. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Atheroprone Flow Activates SMAD-FOXO1 to drive Endothelial-to-Mesenchymal Transition and Atherosclerosis](http://biorxiv.org/cgi/content/short/2024.11.25.625323v1?rss=1). Knaus, P., Mendez, P. L., Raaz, L. V., Jatzlau, J...S., Mundlos, S., Luttun, A., Zwijsen, A., Itoh, F. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Genome Organization with CUT and Tag (GO-CaT) identifies substructure and maturation of lamina-associated domains in neurons of the developing human brain](http://biorxiv.org/cgi/content/short/2024.11.27.625786v1?rss=1). Zhang, C., Gil, E., Ahanger, S. H., Li, M., Wang, L., Li, J., Kriegstein, A., Lim, D. 	20241201
+
+6v1?rss=1). Alatassi, G., Baysal, O., Silme, R. S., Ornek, G. P., Ornek, H., Can, A. 	20241201
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Cross-tissue isoform switches by human transcription factors suggest a widespread regulatory mechanism](http://biorxiv.org/cgi/content/short/2024.11.28.625692v1?rss=1). Sidorov, S., Pal, K., Lenhard, B., Luscombe, N. M. 	20241201
 
