@@ -2825,44 +2825,6 @@
 
   - \[[BioRxivBio](http://biorxiv.org)\][ProkBERT PhaStyle: Accurate Phage Lifestyle Prediction with Pretrained Genomic Language Models](http://biorxiv.org/cgi/content/short/2024.12.08.627378v1?rss=1). Juhasz, J., Bodnar, B., Juhasz, J., Ligeti-Nagy, N., Pongor, S., Ligeti, B. 	20241201
 
-morphogen gradients](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012555). Maciej Majka, Nils B. Becker, Pieter Rein ten Wolde, Marcin Zagorski, Thomas R. Sokolowski 2024-12-02	20241201
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Long distance calls: Negligible information loss of little auk social vocalisations due to high frequency propagation losses](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011961). Anna N. Osiecka, Przemysław Bryndza, Elodie F. Briefer, Katarzyna Wojczulanis-Jakubas 2024-12-02	20241201
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Eleven quick tips for properly handling tabular data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012604). Marla I. Hertz, Ashley S. McNeill 2024-11-27	20241201
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][scGRN-Entropy: Inferring cell differentiation trajectories using single-cell data and gene regulation network-based transfer entropy](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012638). Rui Sun, Wenjie Cao, ShengXuan Li, Jian Jiang, Yazhou Shi, Bengong Zhang 2024-11-25	20241201
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Socially driven negative feedback regulates activity and energy use in ant colonies](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012623). Maurizio Porfiri, Nicole Abaid, Simon Garnier 2024-11-25	20241201
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][An inductive bias for slowly changing features in human reinforcement learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012568). Noa L. Hedrich, Eric Schulz, Sam Hall-McMaster, Nicolas W. Schuck 2024-11-25	20241201
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Mathematical modeling suggests heterogeneous replication of <i>Mycobacterium tuberculosis</i> in rabbits](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012563). Vitaly V. Ganusov, Afsal Kolloli, Selvakumar Subbian 2024-11-25	20241201
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][The evolutionary cost of homophily: Social stratification facilitates stable variant coexistence and increased rates of evolution in host-associated pathogens](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012619). Shuanger Li, Davorka Gulisija, Oana Carja 2024-11-22	20241201
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Competition for resources can reshape the evolutionary properties of spatial structure](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012542). Anush Devadhasan, Oren Kolodny, Oana Carja 2024-11-22	20241201
-
-  - \[[PLoSComputBiol](https://journals.plos.org/ploscompbiol/)\][Deep neural networks for endemic measles dynamics: Comparative analysis and integration with mechanistic models](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012616). Wyatt G. Madden, Wei Jin, Benjamin Lopman, Andreas..ssica E. Metcalf, Bryan T. Grenfell, Max S. Y. Lau 2024-11-21	20241201
-
-
-### BMCBioinformatics
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][MTAF–DTA: multi-type attention fusion network for drug–target affinity prediction](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05984-3). Jinghong Sun, Han Wang, Jia Mi, Jing Wan and Jingyang Gao 	20241201
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Correction: Maptcha: an efficient parallel workflow for hybrid genome scaffolding](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05957-6). Oieswarya Bhowmik, Tazin Rahman and Ananth Kalyanaraman Wed, 04 Dec 2024 00:00:00 GM	20241201
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Pheno-Ranker: a toolkit for comparison of phenotypic data stored in GA4GH standards and beyond](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05993-2). Ivo C. Leist, María Rivas-Torrubia, Marta E. Alarc..S Clinical Consortium, Ivo G. Gut and Manuel Rueda Wed, 04 Dec 2024 00:00:00 GM	20241201
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Managing false positives during detection of pathogen sequences in shotgun metagenomics datasets](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05952-x). Lauren M. Bradford, Catherine Carrillo and Alex Wong 	20241201
-
-  - \[[BMCBioinformatics](https://bmcbioinformatics.biomedcentral.com)\][Single-character insertion–deletion model preserves long indels in ancestral sequence reconstruction](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05986-1). Gholamhossein Jowkar, Jūlija Pečerska, Manuel Gil and Maria Anisimova Mon, 02 Dec 2024 00:00:00 GM	20241201
-
-
-### BioRxivBio
-
-  - \[[BioRxivBio](http://biorxiv.org)\][ProkBERT PhaStyle: Accurate Phage Lifestyle Prediction with Pretrained Genomic Language Models](http://biorxiv.org/cgi/content/short/2024.12.08.627378v1?rss=1). Juhasz, J., Bodnar, B., Juhasz, J., Ligeti-Nagy, N., Pongor, S., Ligeti, B. 	20241201
-
   - \[[BioRxivBio](http://biorxiv.org)\][OMAnnotator: a novel approach to building an annotated consensus genome sequence](http://biorxiv.org/cgi/content/short/2024.12.04.626846v1?rss=1). Bates, S., Dessimoz, C., Nevers, Y. 	20241201
 
   - \[[BioRxivBio](http://biorxiv.org)\][Polaris: Polarization of ancestral and derived polymorphic alleles for inferences of extended haplotype homozygosity in human populations.](http://biorxiv.org/cgi/content/short/2024.12.06.627098v1?rss=1). Lisi, A., Campbell, M. C. 	20241201
@@ -2951,6 +2913,40 @@ morphogen gradients](https://journals.plos.org/ploscompbiol/article?id=10.1371/j
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][The comprehensive detection of hemoglobinopathy variants via long-read sequencing](http://biorxiv.org/cgi/content/short/2024.12.03.626522v1?rss=1). Xiang, J., Peng, J., Sun, X., Jiang, C., Zhao, H.,..., You, L., Huang, X., Chen, S., Zhu, B., Peng, Z. 	20241201
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][Chromosome-level Assemblies of Three Candidatus Liberibacter solanacearum Vectors: Dyspersa apicalis, Dyspersa pallida, and Trioza urticae (Hemiptera: Psylloidea)](http://biorxiv.org/cgi/content/short/2024.12.03.626329v1?rss=1). Heaven, T., Mathers, T. C., Mugford, S. T., Jordan..mner-Kalkun, J., Goldberg, J. K., Hogenhout, S. A. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][The R-loop Grammar predicts R-loop formation under different topological constraints](http://biorxiv.org/cgi/content/short/2024.12.03.626533v1?rss=1). Ferrari, M. M., Poznanovic, S., Riehl, M., Lusk, J..Gonzalez, G., Chedin, F., Vazquez, M., Jonoska, N. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][From Pigments to Precision: Exploring Genetic Transformation and Genome Editing in Wheat and Barley](http://biorxiv.org/cgi/content/short/2024.12.03.626565v1?rss=1). Prusty, M. R., Shatil-Cohen, A., Kumar, R., Sharma..-Dub, A., Ezrati, S., Hihinashvili, A., Sharon, A. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][ERGA-BGE Reference Genome of Gluvia dorsalis: An Endemic Sun Spider from Iberian Arid Regions](http://biorxiv.org/cgi/content/short/2024.12.02.626363v1?rss=1). Lozano-Fernandez, J., Domenech, M., Ibos, A., Marc..F., Gomez-Garrido, J., Alioto, T. S., De Panis, D. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Cas9-based enrichment for targeted long-read metabarcoding](http://biorxiv.org/cgi/content/short/2024.12.02.626365v1?rss=1). Nikolaeva-Reynolds, L., Cammies, C., Crichton, R., Gorochowski, T. E. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Uncovering Genes Essential in Domestication and Breeding of Sugar Beet](http://biorxiv.org/cgi/content/short/2024.12.02.626358v1?rss=1). Dhiman, A. S., Emrani, N., Holtgrewe-Stukenbrock, E., Varrelmann, M., Jung, C. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][The Landscape of Sex- and APOE Genotype-Specific Transcriptional Changes in Alzheimer's Disease at the Single Cell Level](http://biorxiv.org/cgi/content/short/2024.12.01.626234v1?rss=1). Yu, G., Thorpe, A., Zeng, Q., Wang, E., Cai, D., Wang, M., Zhang, B. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Time is encoded by methylation changes at clustered CpG sites](http://biorxiv.org/cgi/content/short/2024.12.03.626674v1?rss=1). Ochana, B.-L., Nudelman, D., Cohen, D., Peretz, A..., B., Hochner, H., Dor, Y., Kaplan, T., Shemer, R. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Prediabetes Phenotype Clusters in the Diabetes Prevention Program Study](http://biorxiv.org/cgi/content/short/2024.12.02.626435v1?rss=1). Stroebel, B. M., Gadgil, M., Lewis, K., Longoria, K., Zhang, L., Flowers, E. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Draft genome and transcriptomic sequence data of three invasive insect species](http://biorxiv.org/cgi/content/short/2024.12.02.626401v1?rss=1). Lombaert, E., Klopp, C., Blin, A., Annonay, G., Ia..Sallaberry, M., Valiere, S., Poloni, R., Joron, M. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][A lineage-resolved multimodal single-cell atlas reveals the genomic dynamics of early C. elegans development](http://biorxiv.org/cgi/content/short/2024.12.02.626321v1?rss=1). van der Burght, S. N., Carelli, F. N., Appert, A.,.., Hill, M., Buttress, T., Butler, R., Ahringer, J. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][CHD4 Interacts With TBX5 to Maintain the Gene Regulatory Network of Postnatal Atrial Cardiomyocytes](http://biorxiv.org/cgi/content/short/2024.12.04.626894v1?rss=1). Sweat, M. E., Shi, W., Keating, E. M., Ponek, A., ..g, Y., Bezzerides, V. J., Conlon, F. J., Pu, W. T. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][CGC1, a new reference genome for Caenorhabditis elegans](http://biorxiv.org/cgi/content/short/2024.12.04.626850v1?rss=1). Ichikawa, K., Shoura, M. J., Artiles, K. L., Jeong..ba, L., Fire, A. Z., Schwarz, E. M., Morishita, S. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Skin metatranscriptomics reveals landscape of variation in microbial activity and gene expression across the human body](http://biorxiv.org/cgi/content/short/2024.12.02.626500v1?rss=1). Chia, M., Ng, A., Ravikrishnan, A., Mohamed Naim, A. N., Wearne, S., Common, J., Nagarajan, N. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Widespread gene-environment interactions shape the immune response to SARS-CoV-2 infection in hospitalized COVID-19 patients](http://biorxiv.org/cgi/content/short/2024.12.03.626676v1?rss=1). Randolph, H. E., Aguirre-Gamboa, R., Brunet-Ratnas.. Richards, J. B., Kaufmann, D. E., Barreiro, L. B. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][Retrotransposon LINE1 trans-regulatory differentiation process maintain embryonic stem cell identity](http://biorxiv.org/cgi/content/short/2024.12.02.626147v1?rss=1). Ren, L., Xu, W., Teng, Y., Hou, J., Zheng, C., Cai, J. 	20241201
+
+  - \[[BioRxivGenomInfor](http://biorxiv.org)\][DNA methylation and gene expression trajectories of human postprandial metabolism](http://biorxiv.org/cgi/content/short/2024.11.29.626085v1?rss=1). Costeira, R., Daimiel Ruiz, L., Gehrmann, T., Boga..ger, M., Berry, S. E., Ordovas, J. M., Bell, J. T. 	20241201
+
+tp://biorxiv.org)\][Chromosome-level Assemblies of Three Candidatus Liberibacter solanacearum Vectors: Dyspersa apicalis, Dyspersa pallida, and Trioza urticae (Hemiptera: Psylloidea)](http://biorxiv.org/cgi/content/short/2024.12.03.626329v1?rss=1). Heaven, T., Mathers, T. C., Mugford, S. T., Jordan..mner-Kalkun, J., Goldberg, J. K., Hogenhout, S. A. 	20241201
 
   - \[[BioRxivGenomInfor](http://biorxiv.org)\][The R-loop Grammar predicts R-loop formation under different topological constraints](http://biorxiv.org/cgi/content/short/2024.12.03.626533v1?rss=1). Ferrari, M. M., Poznanovic, S., Riehl, M., Lusk, J..Gonzalez, G., Chedin, F., Vazquez, M., Jonoska, N. 	20241201
 
