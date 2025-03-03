@@ -113,6 +113,8 @@
 
 ### Nature
 
+  - \[[Nature](http://feeds.nature.com/nature/rss/current)\][Four ways to help beat health inequities in the face of USAID cuts](https://www.nature.com/articles/d41586-025-00619-w). Lynn Hendricks, Raeka Aiyar, Uma Palanisamy, Nyasha Phanisa Sithole 	20250301
+
   - \[[Nature](http://feeds.nature.com/nature/rss/current)\][Just a smidgen of yellow-fever vaccine is enough](https://www.nature.com/articles/d41586-025-00580-8).  	20250301
 
   - \[[Nature](http://feeds.nature.com/nature/rss/current)\][Audio long read: Why kids need to take more risks — science reveals the benefits of wild, free play](https://www.nature.com/articles/d41586-025-00489-2). Julian Nowogrodzki, Benjamin Thompson 	20250301
@@ -261,8 +263,6 @@
 
   - \[[Nature](http://feeds.nature.com/nature/rss/current)\][National climate policies must address mental health](https://www.nature.com/articles/d41586-025-00587-1). Lea Schlatter, Manasi Kumar, Pushpam Kumar 	20250301
 
-  - \[[Nature](http://feeds.nature.com/nature/rss/current)\][How to develop a good writing style](https://www.nature.com/articles/d41586-025-00465-w).  	20250301
-
 
 ### cell-inpress
 
@@ -394,6 +394,8 @@
 
 ### NatBiotechnol
 
+  - \[[NatBiotechnol](http://feeds.nature.com/nbt/rss/current)\][Improving the safety of lipid nanoparticle-based DNA delivery for extended gene expression](https://www.nature.com/articles/s41587-025-02600-4).  	20250301
+
   - \[[NatBiotechnol](http://feeds.nature.com/nbt/rss/current)\][Author Correction: Multiplexed, image-based pooled screens in primary cells and tissues with PerturbView](https://www.nature.com/articles/s41587-025-02602-2). Takamasa Kudo, Ana M. Meireles, Reuben Moncada, Yu..ay, Orit Rozenblatt-Rosen, Aviv Regev, Eric Lubeck 	20250301
 
   - \[[NatBiotechnol](http://feeds.nature.com/nbt/rss/current)\][Human respiratory airway progenitors derived from pluripotent cells generate alveolar epithelial cells and model pulmonary fibrosis](https://www.nature.com/articles/s41587-025-02569-0). Mikael G. Pezet, Juan A. Torres, Tania A. Thimraj,..jali Saqi, Kristin G. Beaumont, Hans-Willem Snoeck 	20250301
@@ -407,8 +409,6 @@
   - \[[NatBiotechnol](http://feeds.nature.com/nbt/rss/current)\][Single-molecule live-cell RNA imaging with CRISPR–Csm](https://www.nature.com/articles/s41587-024-02540-5). Chenglong Xia, David Colognori, Xueyang Stephen Jiang, Ke Xu, Jennifer A. Doudna 	20250301
 
   - \[[NatBiotechnol](http://feeds.nature.com/nbt/rss/current)\][Sustained in situ protein production and release in the mammalian gut by an engineered bacteriophage](https://www.nature.com/articles/s41587-025-02570-7). Zachary R. Baker, Yao Zhang, Haiyan Zhang, Hollyn ... S. Serpa, Teresa Southard, Liwu Li, Bryan B. Hsu 	20250301
-
-  - \[[NatBiotechnol](http://feeds.nature.com/nbt/rss/current)\][Vertex’s opioid-free drug for acute pain wins FDA approval](https://www.nature.com/articles/s41587-025-02590-3). Charlotte Harrison 	20250301
 
 
 ### NatPlants
@@ -451,21 +451,21 @@
 
 ### NatCommun
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Screening the human druggable genome identifies ABHD17B as an anti-fibrotic target in hepatic stellate cells](https://www.nature.com/articles/s41467-025-56900-z). Wenyang Li, Robert P. Sparks, Cheng Sun, Yang Yang..aniela M. Santos, Julia F. Doerner, Alan C. Mullen 	20250301
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Retraction Note: Kynurenine promotes neonatal heart regeneration by stimulating cardiomyocyte proliferation and cardiac angiogenesis](https://www.nature.com/articles/s41467-025-57248-0). Donghong Zhang, Jinfeng Ning, Tharmarajan Ramprasa..iaoxu Zheng, Ping Song, Zhonglin Xie, Ming-Hui Zou 	20250301
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][A nanovaccine for immune activation and prophylactic protection of atherosclerosis in mouse models](https://www.nature.com/articles/s41467-025-57467-5). Lei Zhang, Abdulrahman AL-Ammari, Danxuan Zhu, Hon.., Chao Zuo, Jiaan Zhang, Wanying Zhu, Dongping Sun 	20250301
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][The role of water molecules in the dissociation of an electron-molecule contact pair](https://www.nature.com/articles/s41467-025-57403-7). Connor J. Clarke, E. Michi Burrow, Jan R. R. Verlet 	20250301
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Multimodal histopathologic models stratify hormone receptor-positive early breast cancer](https://www.nature.com/articles/s41467-025-57283-x). Kevin M. Boehm, Omar S. M. El Nahhas, Antonio Marr..handarlapaty, Sohrab P. Shah, Jakob Nikolas Kather 	20250301
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Interplay between multipolar order and multipole-induced superconductivity in PrTi<sub>2</sub>Al<sub>20</sub>](https://www.nature.com/articles/s41467-025-57262-2). Akito Sakai, Yosuke Matsumoto, Mingxuan Fu, Takach..O’Farrell, Daisuke Nishio-Hamane, Satoru Nakatsuji 	20250301
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Targeting the ceramidase ACER3 attenuates cholestasis in mice by mitigating bile acid overload via unsaturated ceramide-mediated LXRβ signaling transduction](https://www.nature.com/articles/s41467-025-57330-7). Leyi Liao, Ziying Liu, Lei Liu, Can Huang, Yiyi Li..in, Jie Zhou, Qingping Li, Chuanjiang Li, Kai Wang 	20250301
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][The <i>Hydractinia</i> cell atlas reveals cellular and molecular principles of cnidarian coloniality](https://www.nature.com/articles/s41467-025-57168-z). David A. Salamanca-Díaz, Helen R. Horkan, Helena G..than J. Kenny, Jordi Paps, Uri Frank, Jordi Solana 	20250301
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Swapping rice for alternative cereals can reduce climate-induced production losses and increase farmer incomes in India](https://www.nature.com/articles/s41467-025-57420-6). Dongyang Wei, Leslie Guadalupe Castro, Ashwini Chhatre, Marta Tuninetti, Kyle Frankel Davis 	20250301
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Robust non-Abelian even-denominator fractional Chern insulator in twisted bilayer MoTe<sub>2</sub>](https://www.nature.com/articles/s41467-025-57326-3). Feng Chen, Wei-Wei Luo, Wei Zhu, D. N. Sheng 	20250301
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Molecular glues of the regulatory ChREBP/14-3-3 complex protect beta cells from glucolipotoxicity](https://www.nature.com/articles/s41467-025-57241-7). Liora S. Katz, Emira J. Visser, Kathrin F. Plitzko.. Luc Brunsveld, Christian Ottmann, Donald K. Scott 	20250301
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Cortical processing of discrete prosodic patterns in continuous speech](https://www.nature.com/articles/s41467-025-56779-w). G. Nike Gnanateja, Kyle Rupp, Fernando Llanos, Jas..s Teichert, Taylor J. Abel, Bharath Chandrasekaran 	20250301
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][BOOST: a robust ten-fold expansion method on hour-scale](https://www.nature.com/articles/s41467-025-57350-3). Jinyu Guo, Hui Yang, Chixiang Lu, Di Cui, Murong Z..n, Shan-chao Zhao, Jie Zhou, Jiaye He, Haibo Jiang 	20250301
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Impacts of reproductive systems on grapevine genome and breeding](https://www.nature.com/articles/s41467-025-56817-7). Hua Xiao, Yue Wang, Wenwen Liu, Xiaoya Shi, Siyang..lker, Brandon S. Gaut, Sanwen Huang, Yongfeng Zhou 	20250301
 
-  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Disruption of tryptophan metabolism by high-fat diet-triggered maternal immune activation promotes social behavioral deficits in male mice](https://www.nature.com/articles/s41467-025-57414-4). Penghao Sun, Mengli Wang, Xuejun Chai, Yong-Xin Li..Wei Zheng, Shulin Chen, Xiaoyan Zhu, Shanting Zhao 	20250301
+  - \[[NatCommun](http://feeds.nature.com/ncomms/rss/current)\][Meiosis-specific distal cohesion site decoupled from the kinetochore](https://www.nature.com/articles/s41467-025-57438-w). Bo Pan, Melania Bruno, Todd S. Macfarlan, Takashi Akera 	20250301
 
 
 ### NatEcolEvol
@@ -1530,6 +1530,10 @@
 
 ### AdvancedSci
 
+  - \[[AdvancedSci](https://advanced.onlinelibrary.wiley.com/journal/21983844?af=R)\][Advancing Precision Medicine: Recent Innovations in Gene Editing Technologies](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202410237?af=R). Abhijith Koodamvetty, Saravanabhavan Thangavel Sun, 02 Mar 2025 23:41:04 -0800	20250301
+
+  - \[[AdvancedSci](https://advanced.onlinelibrary.wiley.com/journal/21983844?af=R)\][Transformation of 3D Metal–Organic Frameworks into Nanosheets with Enhanced Memristive Behavior for Electronic Data Processing](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202405989?af=R). Yuri A. Mezenov, Semyon V. Bachinin, Yuliya A. K.. Boulet, Alena N. Kulakova, Valentin A. Milichko Sun, 02 Mar 2025 23:39:31 -0800	20250301
+
   - \[[AdvancedSci](https://advanced.onlinelibrary.wiley.com/journal/21983844?af=R)\][Simultaneous Harvesting of Bipolar Plasmonic Hot Carriers for Boosting Photoconductivity in Ag Nanoprism‐Coupled Lateral Si p–n Junction](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202414654?af=R). Yujin Park, Jihyang Park, Yeonghoon Jin, Yujin ..e, Kyoungsik Yu, Moonsang Lee, Jeong Young Park Fri, 28 Feb 2025 09:39:41 -0800	20250301
 
   - \[[AdvancedSci](https://advanced.onlinelibrary.wiley.com/journal/21983844?af=R)\][Photoacoustic Imaging in Inflammatory Orthopedic Diseases: Progress toward Precise Diagnostics and Predictive Regulation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202412745?af=R). Mengyi Huang, Haoyu Yu, Rongyao Gao, Yuxin Liu, Xuhui Zhou, Limin Fu, Jing Zhou, Luoyuan Li Fri, 28 Feb 2025 09:38:49 -0800	20250301
@@ -1645,10 +1649,6 @@
   - \[[AdvancedSci](https://advanced.onlinelibrary.wiley.com/journal/21983844?af=R)\][4D Biofabrication of Magnetically Augmented Callus Assembloid Implants Enables Rapid Endochondral Ossification via Activation of Mechanosensitive Pathways](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202413680?af=R). Konstantinos Ioannidis, Andreas Dimopoulos, Isaa..eets, Dimitrios Sakellariou, Ioannis Papantoniou 	20250301
 
   - \[[AdvancedSci](https://advanced.onlinelibrary.wiley.com/journal/21983844?af=R)\][Nanoodor Particles Deliver Drugs to Central Nervous System via Olfactory Pathway](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202408908?af=R). Wei Zhang, Xingwang Ji, Qianyanqiu Zhao, Jinyao..uo Zhang, Yujing Guan, Shenglong Li, Yuling Mao 	20250301
-
-  - \[[AdvancedSci](https://advanced.onlinelibrary.wiley.com/journal/21983844?af=R)\][Gut Microbiota‐Butyrate‐PPARγ Axis Modulates Adipose Regulatory T Cell Population](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202411086?af=R). Banru Chen, Lizhi Guan, Chao Wu, Yiwen Gong, L..uang Ning, Jiqiu Wang, Weiqing Wang, Ruixin Liu 	20250301
-
-  - \[[AdvancedSci](https://advanced.onlinelibrary.wiley.com/journal/21983844?af=R)\][Heteroatom‐Synergistic Effect on Anchoring Polysulfides In Chalcone‐Linked Nanographene Covalent Organic Frameworks for High‐Performance Li─S Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202415897?af=R). Kayaramkodath Chandran Ranjeesh, Bharathkumar H. ..s Heine, Kothandam Krishnamoorthy, Dinesh Shetty 	20250301
 
   - \[[AdvancedSci](https://advanced.onlinelibrary.wiley.com/journal/21983844?af=R)\][Matrix‐Rigidity Cooperates With Biochemical Cues in M2 Macrophage Activation Through Increased Nuclear Deformation and Chromatin Accessibility](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202403409?af=R). Seung Jae Shin, Buuvee Bayarkhangai, Khaliunsarn.. Kim, Jung‐Hwan Lee, Jeongeun Hyun, Hae‐Won Kim Mon, 24 Feb 2025 00:00:00 -0800	20250301
 
@@ -3403,161 +3403,13 @@
 
 ### PlantJ
 
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Phosphorylation in two acts: Marchantia phototropin undergoes sequential cis‐ and trans‐autophosphorylation](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70072?af=R). Martin Balcerowicz Fri, 28 Feb 2025 00:00:00 -0800	20250301
+  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Behind phyllotaxis, within the meristem: a REM‐ARF complex shapes inflorescence in Arabidopsis thaliana](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70041?af=R). Francesca Caselli, Carlotta Ferrario, Veronica M..efan de Folter, Martin M. Kater, Veronica Gregis Sun, 02 Mar 2025 23:25:35 -0800	20250301
 
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Role of methyltransferase 1‐dependent DNA methylation in affecting maize kernel development](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17250?af=R). Xiaosong Li, Xuqing Tong, Bin Wang, Menglin Pu,..Zhang, Xiansheng Zhang, Chao Zhou, Xiangyu Zhao Wed, 26 Feb 2025 00:00:00 -0800	20250301
+  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][GOLEM: A tool for visualizing the distribution of Gene regulatOry eLEMents within the plant promoters with a focus on male gametophyte](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70037?af=R). Lukáš Nevosád, Božena Klodová, Jiří Rudolf, Tom..dová, David Honys, Petra Procházková Schrumpfová Sun, 02 Mar 2025 23:16:22 -0800	20250301
 
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][The thylakoid lumen Deg1 protease affects non‐photochemical quenching via the levels of violaxanthin de‐epoxidase and PsbS](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17263?af=R). Elinor Aviv‐Sharon, Laure D. Sultan, Leah Naveh,.. Kupervaser, Ziv Reich, Dana Charuvi, Zach Adam Mon, 24 Feb 2025 00:00:00 -0800	20250301
+  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][A chromosome‐scale genome of Hippophae neurocarpa provides new insights into serotonin biosynthesis and chlorophyll‐derived brown fruit coloration](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70031?af=R). Ning Chen, Guo‐yun Zhang, Ya‐ting Song, Yang Yang, Jian‐guo Zhang, Cai‐yun He Sun, 02 Mar 2025 23:16:01 -0800	20250301
 
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][The mixed auto‐/allooctoploid genome of Japanese knotweed (Reynoutria japonica) provides insights into its polyploid origin and invasiveness](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70005?af=R). Fanhong Wang, Minghao Li, Ze Liu, Wei Li, Qian..Cailian Du, Hongyu Zhang, Yue Zhou, Huilong Du Mon, 24 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Transcription factor KUA1 positively regulates tomato resistance against Phytophthora infestans by fine‐tuning reactive oxygen species accumulation](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70007?af=R). Zhicheng Wang, Ruili Lv, Yuhui Hong, Chenglin S..ng, Ruiming Wang, Yan Li, Jun Meng, Yushi Luan Mon, 24 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Growth and survival strategies of oilseed rape (Brassica napus L.) leaves under potassium deficiency stress: trade‐offs in potassium ion distribution between vacuoles and chloroplasts](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70009?af=R). Hehe Gu, Ziyao He, Zhifeng Lu, Shipeng Liao, Y.., Xiaokun Li, Rihuan Cong, Tao Ren, Jianwei Lu Mon, 24 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Homoeolog expression divergence contributes to time of day changes in transcriptomic and glucosinolate responses to prolonged water limitation in Brassica napus](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70011?af=R). Angela Ricono, Ella Ludwig, Anna L. Casto, Stev..an D. Hegeman, Malia A. Gehan, Kathleen Greenham Mon, 24 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Haplotype‐resolved genome assembly of Ficus carica L. reveals allele‐specific expression in the fruit](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70012?af=R). Gabriele Usai, Tommaso Giordani, Alberto Vangeli..Lucia Natali, Flavia Mascagni, Andrea Cavallini Mon, 24 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Ubiquitin‐mediated degradation of the inhibitor FvMYB1 and the activator FvBBX20 by FvCSN5 balances anthocyanin biosynthesis in strawberry fruit](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70021?af=R). Yuxin Nie, Yingying Lei, Hongbo Jiao, Zhuo Zhan.. Li, Hongyan Dai, Zhihong Zhang, Junxiang Zhang Mon, 24 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Cytokinin mediates age‐dependent drought response by regulating the removal reactive oxygen species in apple](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70023?af=R). Xumei Jia, Shuo Xu, Jiangtong Wei, Fei Wang, Y..u, Ke Mao, Xiaoqing Gong, Fengwang Ma, Chao Li Mon, 24 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][A self‐amplifying NO‐H2S loop mediates melatonin‐induced CBF‐responsive pathway and cold tolerance in watermelon](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70025?af=R). Yanliang Guo, Jiayue Li, Lingling Liu, Jiahe Li..Jianqiang Yang, Feishi Luan, Xian Zhang, Hao Li Mon, 24 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Chromosome‐level assemblies of Amaranthus palmeri, Amaranthus retroflexus, and Amaranthus hybridus allow for genomic comparisons and identification of a sex‐determining region](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70027?af=R). Damilola A. Raiyemo, Jacob S. Montgomery, Luan C.. L. Patterson, Todd A. Gaines, Patrick J. Tranel Mon, 24 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][CsMYB36‐mediated ROS homeostasis modulates the switch from cell division to differentiation in cucumber glandular trichome](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70032?af=R). Chunhua Wang, Hongxin Yao, Kai Fang, Ting Yang,.. Shen, Yalin Du, Ning Hao, Jiajian Cao, Tao Wu Mon, 24 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][The COP1W467 tryptophan residue in the WD40 domain is essential for light‐ and temperature‐mediated hypocotyl growth and flowering in Arabidopsis](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70051?af=R). Bidhan Chandra Malakar, Cristian M. Escudero, Vi..dhyaya, Sreeramaiah N. Gangappa, Javier F. Botto Mon, 24 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Flavodiiron proteins in Physcomitrium patens: navigating the edge between photoprotection and efficiency](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70052?af=R). Eleonora Traverso, Claudia Beraldo, Marco Armellin, Alessandro Alboresi, Tomas Morosinotto Mon, 24 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Emerging frontiers in sorghum genetic engineering](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17244?af=R). Deepti Nigam, Vikas Devkar, Pallavi Dhiman, San..koor, Degao Liu, Gunvant B. Patil, Yinping Jiao Sun, 23 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Divergence in the effects of sugar feedback regulation on the major gene regulatory network and metabolism of photosynthesis in leaves between the two founding Saccharum species](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70019?af=R). Huihong Shi, Xiuting Hua, Dongxu Zhao, Juanjuan..ijia Guo, Xianwei Fan, Haibao Tang, Jisen Zhang Sat, 22 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][The gap‐free genome assembly and multi‐omics analyses illustrate the evolutionary history and the synthesis of medicinal components of Ligustrum lucidum](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70029?af=R). Yong Li, Meng‐Jie Yuan, Zi‐Yan Zhang, Nan‐Cai Pei Sat, 22 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][SlMYB1R1‐SlSWEET12c module synergistically promotes sugar accumulation in tomato fruits](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70062?af=R). Hui Liu, Jia‐Qi Zhang, Rong‐Rong Zhang, Chen Ch.., Jian‐Ping Tao, Jin‐Song Xiong, Ai‐Sheng Xiong Sat, 22 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Tasselyzer, a machine learning method to quantify maize anther exertion, based on PlantCV](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70014?af=R). Chong Teng, Noah Fahlgren, Blake C. Meyers Sat, 22 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][To infinity and beyond: recent progress, bottlenecks, and potential of clonal seeds by apomixis](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70054?af=R). Bas Heidemann, Elias Primetis, Iris E. Zahn, Charles J. Underwood Fri, 21 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Modern and historical uses of plant grafting to engineer development, stress tolerance, chimeras, and hybrids](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70057?af=R). Frauke Augstein, Charles W. Melnyk Fri, 21 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Establishment and maintenance of embryogenic cell fate during microspore embryogenesis](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17243?af=R). Charlotte Siemons, Sven Jonkers, Redmar Cornelis..a Corral‐Martínez, John van Noort, Kim Boutilier Fri, 21 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Diversification and evolution of serine/arginine‐rich splicing factors in plants](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70004?af=R). Mingxi Guo, Chao Liang, Mingyang Cui, Linlin Lu.. Qi Xie, Jie Cui, Lin Liu, Beixin Mo, Lei Gao Fri, 21 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][DNA methylation dynamics in gymnosperm duplicate genes: implications for genome evolution and stress adaptation](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70006?af=R). Kai‐Yuan Huang, Yuan‐Yuan Feng, Hong Du, Chang‐..Dai, Tong‐Ming Yin, Xiao‐Quan Wang, Jin‐Hua Ran Fri, 21 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Mannose‐binding lectin 1.1A interacts with hypersensitive‐induced response 4 to promote hypersensitive cell death and defense responses in cotton upon Verticillium dahliae infection](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70018?af=R). Leitian Yuan, Min Wu, Deming Tan, Shuling Zhang..uanyang Zhang, Jing Li, Guixian Xia, Fuxin Wang Fri, 21 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][The complex I subunit B22 contains a LYR domain that is crucial for an interaction with the mitochondrial acyl carrier protein SDAP1](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70028?af=R). Saurabh Saha, Simge Parlar, Etienne H. Meyer, Monika W. Murcha Fri, 21 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][SlASR3 mediates crosstalk between auxin and jasmonic acid signaling to regulate trichome formation in tomato](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70053?af=R). Xianzhe Zheng, Yongfei Jian, Qian Long, Yingqin..ngguo Li, Jirong Zheng, Weiqing Zhang, Wei Deng Fri, 21 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Cleavable donor‐assisted CRISPR/Cas9 system significantly improves the efficiency of large DNA insertion in Physcomitrium patens](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70020?af=R). Xinyuan Gu, Jintao Lang, Ying Chang, Min Zhang Fri, 21 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Genome editing, an opportunity to revive soybean cultivation in Europe](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17266?af=R). Manon Monfort, Julia Buitink, Frank Roeber, Fabien Nogué Wed, 19 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][NbNAC1 enhances plant immunity against TMV by regulating isochorismate synthase 1 expression and the SA pathway](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17242?af=R). Feng Zhu, Kainan Li, Mengyao Cao, Qiping Zhang,..i Zhou, Huan Chen, Maha AlKhazindar, Zhaolin Ji Wed, 19 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][A cell fractionation and quantitative proteomics pipeline to enable functional analyses of cotton fiber development](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17246?af=R). Youngwoo Lee, Heena Rani, Eileen L. Mallery, Daniel B. Szymanski Wed, 19 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Unraveling the role of OsSCL26 in transcriptional regulation in rice: Insights into grain shape, heading date, and carbohydrates](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17268?af=R). Xiaoli Jin, Yingying Lu, Jialin Liu, Hui Liu, Nan Wu, Mei Li, Weijun Zhou Wed, 19 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Ecological divergence of sibling allopolyploid marsh orchids is associated with species specific plasticity and distinct fungal communities](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70001?af=R). Katie Emelianova, Anna‐Sophie Hawranek, Mimmi C. Eriksson, Thomas M. Wolfe, Ovidiu Paun Wed, 19 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Two O‐acyltransferases from the diterpene biosynthetic gene cluster of Euphorbia lathyris contribute to the structural diversity of medicinal macrocyclic diterpenoid esters biosynthesis](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70003?af=R). Wanli Zhao, Fan Wang, Pirui Li, Linwei Li, Luk..in, Hui Lyu, Christian Paetz, Xu Feng, Yu Chen Wed, 19 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Subterranean morphology underpins the degree of mycoheterotrophy, mycorrhizal associations, and plant vigor in a green orchid Oreorchis patens](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70045?af=R). Kenji Suetsugu, Hidehito Okada Wed, 19 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Issue Information](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16823?af=R).  Mon, 17 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Molecular chaperon HSP70‐9 is required for clathrin‐mediated endocytosis in Arabidopsis](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17265?af=R). Tingting Shen, Zimeng Liu, Jiaoteng Bai, Xiaoti..ai, Shanshan Wei, Wenyan Xu, Ning Jia, Bing Li Mon, 17 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Rice RuBisCO activase promotes the dark‐induced leaf senescence by enhancing the degradation of filamentation temperature‐sensitive H](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17267?af=R). Yanli Zhang, Guojun Dong, Xiaoyue Wu, Fei Chen,..uan, Limin Wu, Jian Wei, Qian Qian, Yanchun Yu Mon, 17 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Hydrogen sulfide interferes with ethylene biosynthesis and signaling pathway in tomato by the mediation of SlERF.D2 persulfidation](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70000?af=R). Ying Sun, Min Zhang, Meihui Geng, Zhikun Geng, .. Dexin Zeng, Gaifang Yao, Kangdi Hu, Hua Zhang Mon, 17 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Nitrate activates an MKK3‐dependent MAPK module via NLP transcription factors in Arabidopsis](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70010?af=R). Sebastian T. Schenk, Virginie Brehaut, Camille C..socq, Anne Marmagne, Jean Colcombet, Anne Krapp Mon, 17 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Chromosome engineering points to the cis‐acting mechanism of chromosome arm‐specific telomere length setting and robustness of plant phenotype, chromatin structure and gene expression](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70024?af=R). Ondřej Helia, Barbora Matúšová, Kateřina Havlová.., Holger Puchta, Jiří Fajkus, Miloslava Fojtová Mon, 17 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][At the grass roots: non‐destructive root phenotyping using X‐ray computed tomography](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70030?af=R). Gwendolyn K. Kirschner 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Posttranslational regulation of plant membrane transporters](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17262?af=R). María Niño‐González, Paula Duque 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Metabolome and comparative genome provide insights into secondary metabolites generation of a rare karst‐growing Rhododendron in vitro culture](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17235?af=R). Sulin Wen, Xiaowei Cai, Kui Zhou, Yi Min, Chun..en, Lin Deng, Di Liu, Guang Qiao, Xiaohui Shen 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Haplotype‐resolved genome and population genomics provide insights into dioscin biosynthesis and evolutionary history of the medicinal species Dioscorea nipponica](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17237?af=R). Ke Hu, Yu Feng, Pan Li, Min Chen, Zi‐Jie Shen, Xiao‐Qin Sun, Rui‐Sen Lu 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][DREPP protein StPCaP1 facilitates the cell‐to‐cell movement of Potato virus Y and Potato virus S by inhibiting callose deposition at plasmodesmata](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17239?af=R). Ruhao Chen, Zhen Tu, Tao Yu, Zhaorong Wu, Saif..gzheng He, Botao Song, Qiusheng Kong, Bihua Nie 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Anthocyanin biosynthesis and transport synergistically modulated by RcMYB75 and RcGSTFL11 play a pivotal role in the feedforward loop in response to drought stress](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17240?af=R). Mengni Ma, Runhui Li, Yajun Li, Wenhao Dai, Ju..Zifeng Huang, Hong Luo, Jie Zhang, Guogui Ning 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Genetic dissection of internode length confers improvement for ideal plant architecture in maize](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17245?af=R). Haiyang Duan, Jianxin Li, Zhengjie Xue, Lu Yang..ng Ding, Xuebin Zhang, Xuehai Zhang, Jihua Tang 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Identification of UDP‐glucosyltransferase involved in the biosynthesis of phloridzin in Gossypium hirsutum](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17248?af=R). Xiaomeng Zhang, Xinquan Tian, Junyu Luo, Xiaoya..Baoquan Wang, Jinjie Cui, Lei Ma, Xiongming Du 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][YGL9 mediates LHC assembly by regulating LHCPs transport and chlorophyll synthesis in rice](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17256?af=R). Tianquan Zhang, Wenwen Xiao, Zhongwei Wang, Jic..hun Sang, Yinghua Ling, Guanghua He, Ting Zhang 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Arabidopsis thaliana Zn transporter genes ZIP3 and ZIP5 provide the main Zn uptake route and act redundantly to face Zn deficiency](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17251?af=R). Valeria Ochoa Tufiño, Maria Almira Casellas, Aro..is, David E. Salt, Henk Schat, Mark G. M. Aarts Mon, 10 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Rice glycosyltransferase UGT706F1 functions in heat tolerance through glycosylating flavonoids under the regulation of transcription factor MYB61](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17252?af=R). Shuman Zhao, Yuqing Ma, Yi Ding, Guangrui Dong, Chonglin Liu, Xinmei Ma, Bingkai Hou Mon, 10 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Defining the heterogeneous composition of Arabidopsis thylakoid membrane](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17259?af=R). Andrea Trotta, Sanna Gunell, Azfar Ali Bajwa, Virpi Paakkarinen, Hiroaki Fujii, Eva‐Mari Aro Mon, 10 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][OsPUB9 modulates leaf angle and grain size through the brassinosteroid signaling pathway in rice](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17230?af=R). Yonghong Xie, Zhupeng Fan, Xueyan Liang, Kaicho..iyan Huang, Hong Zhao, Kaizhun Xu, Jianxiong Li Sun, 09 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Chlamydomonas reinhardtii, Volvox carteri and related green algae accumulate ketocarotenoids not in vegetative cells but in zygospores](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17261?af=R). Sonja Schwarz, Matthias Bauch, Volker Schmitt, Armin Hallmann, Martin Lohr Sun, 09 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Extensive remodeling during Chlamydomonas reinhardtii zygote maturation leads to highly resistant zygospores](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17238?af=R). Martim Cardador, Stephanie Krüger, Susanne Dunke..gel, Torsten Jakob, Reimund Goss, Severin Sasso Sun, 09 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Association analyses reveal both anthropic and environmental selective events during eggplant domestication](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17229?af=R). Emmanuel Omondi, Lorenzo Barchi, Luciana Gaccion..eitner, Maarten van Zonneveld, Giovanni Giuliano Fri, 07 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][SDG8 and HUB2 depositing euchromatin histone marks play important roles in meiosis and crossing‐over regulation](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17241?af=R). Amit Kumar Singh, K.V.S.K. Arjun Chowdary, Wen‐Hui Shen Fri, 07 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Targeted introduction of premature stop codon in plant mitochondrial mRNA by a designer pentatricopeptide repeat protein with C‐to‐U editing function](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17247?af=R). Nikolay Manavski, Eslam Abdel‐Salam, Serena Schw.., Andreas Brachmann, Dario Leister, Jörg Meurer Fri, 07 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][The chloroplast‐located HKT transporter plays an important role in fertilization and development in Physcomitrium patens](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17253?af=R). Carolina Yanez‐Dominguez, Karla Macedo‐Osorio, D..astillo‐Gonzalez, Guadalupe Zavala, Omar Pantoja Fri, 07 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][The heat shock factor HSFB1 coordinates plant growth and drought tolerance in Arabidopsis](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17258?af=R). Lanjie Zheng, Qianlong Zhang, Chen Wang, Zhongb..ng, Jie Gao, Runcong Zhang, Yong Shi, Xu Zheng Fri, 07 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Plasma membrane H+‐ATPase activation increases global transcript levels and promotes the shoot growth of light‐grown Arabidopsis seedlings](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70034?af=R). Satoru Naganawa Kinoshita, Kyomi Taki, Fumika Ok..suomi Tada, Iris Finkemeier, Toshinori Kinoshita Fri, 07 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Exploring ABI5 regulation: Post‐translational control and cofactor interactions in ABA signaling](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17232?af=R). Chang Du, Haiyan Bai, Yujie Yan, Yurui Liu, Xiangying Wang, Zhonghui Zhang 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][The cis‐prenyltransferase protein family in Taraxacum koksaghyz](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17233?af=R). Boje Müller, Eva Niephaus, Wolfgang Eisenreich, .. Twyman, Dirk Prüfer, Christian Schulze Gronover 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Proteomic reprogramming underlying anatomical and physiological characteristics of poplar wood in acclimation to changing light and nitrogen availabilities](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17234?af=R). Yan Lu, Shurong Deng, Jiangting Wu, Hong Li, J..g Zhou, Wenguang Shi, Payam Fayyaz, Zhi‐Bin Luo 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Identification and characterization of DICER‐LIKE genes and their roles in Marchantia polymorpha development and salt stress response](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17236?af=R). Erika Csicsely, Anja Oberender, Anastasia‐Stylia..ünert, Andreas Klingl, Oguz Top, Wolfgang Frank 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Phosphate deficiency inducible OsGDPD5 affects root growth by regulating sugar‐auxin crosstalk](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17249?af=R). Lokesh Verma, Mandavi Pandey, Chitra Bhatia, Poonam Mehra, Bhagat Singh, Jitender Giri 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Multi‐omics analysis reveals the allelic variation in JrWDRC2A9 and JrGPIAP conferring resistance against anthracnose (Colletotrichum gloeosporioides) in walnut (Juglans regia)](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17254?af=R). Andi Gong, Yuhui Dong, Shengyi Xu, Yutian Mu, ..iu, Changxi Wang, Ke Qiang Yang, Hongcheng Fang 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Genomic insights into drought adaptation of the forage shrub Caragana korshinskii (Fabaceae) widely planted in drylands](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17255?af=R). Fengyuan Mei, Tianrui Yang, Haoyu Chao, Xiaohui..wen Fang, Jianquan Liu, Guojing Li, Shengdan Wu 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Lysine acetylation modulates drought stress responses in birch (Betula platyphylla) through metabolic and transcriptional pathway regulation](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17260?af=R). Shilin Sun, Xue Han, Jiayi Wang, Mingshuang Liu, Siqi Wu, Di Wu, Yucheng Wang 	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Multi‐omic analyses unveil contrasting composition and spatial distribution of specialized metabolites in seeds of Camelina sativa and other Brassicaceae](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17231?af=R). Léa Barreda, Céline Brosse, Stéphanie Boutet, N.. Loïc Lepiniec, Loïc Rajjou, Massimiliano Corso Wed, 05 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][CRF12 specifically regulates the flowering time of Arabidopsis thaliana under non‐inductive conditions](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17257?af=R). Xia Li, Siyu Fang, Wanqin Chen, Siyuan Liu, Li..g, Pingping Li, Yi Zhu, Diqiu Yu, Houping Wang Wed, 05 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Partial root‐zone drying irrigation enhances synthesis of glutathione in barley roots to improve low temperature tolerance](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70026?af=R). Peng Mu, Fan Ye, Xintong Liu, Peng Zhang, Tianhao Liu, Xiangnan Li Wed, 05 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][The DNA methylomes of Echinochloa species provide insights into polyploidization‐driven adaptation and orphan crop domestication](https://onlinelibrary.wiley.com/doi/10.1111/tpj.70033?af=R). Qinjie Chu, Xiaojiao Gong, Yiyu Hu, Qian‐Hao Zhu, Longjiang Fan, Chu‐Yu Ye Wed, 05 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][PlantGENE: Advancing plant transformation through community engagement](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17228?af=R). Aimee A. Malzahn, Heidi Kaeppler, William Gordon..ylor, Veena Veena, Wayne Parrott, Joyce Van Eck Wed, 05 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Boosting photosynthesis opens new opportunities for agriculture sustainability and circular economy: The BEST‐CROP research and innovation action](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17264?af=R). Paolo Pesaresi, Pierre Bono, Stephane Corn, Cri..y Yarmolinsky, Alessandro Zeni, Luigi Cattivelli Wed, 05 Feb 2025 00:00:00 -0800	20250301
-
-  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Issue Information](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16822?af=R).  	20250301
+  - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][Issue Information](https://onlinelibrary.wiley.com/doi/10.1111/tpj.16824?af=R).  Sun, 02 Mar 2025 10:19:39 -0800	20250301
 
   - \[[PlantJ](https://onlinelibrary.wiley.com/journal/1365313x?af=R)\][CRISPR/Cas9‐driven double modification of grapevine MLO6‐7 imparts powdery mildew resistance, while editing of NPR3 augments powdery and downy mildew tolerance](https://onlinelibrary.wiley.com/doi/10.1111/tpj.17204?af=R). Loredana Moffa, Giuseppe Mannino, Ivan Bevilacqu.., Riccardo Velasco, Walter Chitarra, Luca Nerva Sun, 08 Dec 2024 08:49:40 -0800	20250301
 
@@ -3653,6 +3505,10 @@ conformal prediction](https://journals.plos.org/ploscompbiol/article?id=10.1371/
 
 ### BioRxivBio
 
+  - \[[BioRxivBio](https://biorxiv.org)\][GrAnnoT, a tool for effecient and reliable annotation transfer through pangenome graph](https://www.biorxiv.org/content/10.1101/2025.02.26.640337v1?rss=1). Marthe, N., Zytnicki, M., Sabot, F. 	20250301
+
+  - \[[BioRxivBio](https://biorxiv.org)\][Harp: Platform Independent Deconvolution Tool](https://www.biorxiv.org/content/10.1101/2025.02.26.640330v1?rss=1). Nozari, Z., Huettl, P., Simeth, J., Schoen, M., Hutchinson, J. A., Spang, R. 	20250301
+
   - \[[BioRxivBio](https://biorxiv.org)\][Ali-U-Net: A Convolutional Transformer Neural Net for Multiple Sequence Alignment of DNA Sequences. A proof of concept](https://www.biorxiv.org/content/10.1101/2025.02.26.640343v1?rss=1). Arsic, P., Mayer, C. 	20250301
 
   - \[[BioRxivBio](https://biorxiv.org)\][Higher-Order Biomarkers Through Network Motif Mining: A COVID-19 Case Study](https://www.biorxiv.org/content/10.1101/2025.02.27.638877v1?rss=1). Chahley, N., Murira, A., Nakhla, N., Oliver, C. 	20250301
@@ -3708,10 +3564,6 @@ conformal prediction](https://journals.plos.org/ploscompbiol/article?id=10.1371/
   - \[[BioRxivBio](https://biorxiv.org)\][deepthought: domain driven design for microscopy with applications in DNA damage responses](https://www.biorxiv.org/content/10.1101/2025.02.25.639997v1?rss=1). Paruthi Subburam, K., Bohra, D. 	20250301
 
   - \[[BioRxivBio](https://biorxiv.org)\][Viral Infection Detector: Ensemble Learning for Predicting Viral Infection in Single-cell Transcriptomics of Virus-Induced Cancers](https://www.biorxiv.org/content/10.1101/2025.02.27.639934v1?rss=1). Han, W., Hu, J., Toh, Q. K., Ni, M., Tan, R., Wu, L., Jin, X., Jian, M., Xu, M., Chen, H. 	20250301
-
-  - \[[BioRxivBio](https://biorxiv.org)\][Validation of bronchial airway gene expression associated with bronchiectasis in nasal epithelium](https://www.biorxiv.org/content/10.1101/2025.02.26.639889v1?rss=1). Souery, W., Wong, J., Diaz, A. A., Xu, K., Xiao, X..A. C., Alekseyev, Y., Billatos, E., Lenburg, M. E. 	20250301
-
-  - \[[BioRxivBio](https://biorxiv.org)\][Run-length compressed metagenomic read classification with SMEM-finding and tagging](https://www.biorxiv.org/content/10.1101/2025.02.25.640119v1?rss=1). Depuydt, L., Ahmed, O. Y., Fostier, J., Langmead, B., Gagie, T. 	20250301
 
 
 ### BioRxivGenomInfor
