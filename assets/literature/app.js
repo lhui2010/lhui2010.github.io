@@ -31,7 +31,8 @@ async function draw() {
  for(const p of rows) {
  const box=add(el("papers"),"article","");box.style.marginBottom="1.5em";
  const a=add(box,"a",p.title);if(/^https?:\/\//i.test(p.url)) {a.href=p.url;a.rel="noopener noreferrer";}
- add(box,"p",p.journal+" · "+(p.publication_date||"日期未知")+" · 卷期日期："+(p.issue_date||"未知")+" · "+p.authors.join(", "));
+ const authors=p.authors.length<=5?p.authors:[...p.authors.slice(0,3),"...",...p.authors.slice(-2)];
+ add(box,"p",p.journal+" · "+(p.publication_date||"日期未知")+" · 卷期日期："+(p.issue_date||"未知")+" · "+authors.join(", "));
  if(p.reasons.length) add(box,"p","筛选依据："+p.reasons.join("；"));
  if(p.abstract) {const d=add(box,"details","");add(d,"summary","摘要 / RSS 内容");add(d,"p",p.abstract);}
  if(p.metadata_warnings.length)add(box,"p","元数据待补："+p.metadata_warnings.join("；"));
