@@ -1,0 +1,12 @@
+---
+layout: page
+title: 月度文献追踪
+permalink: /literature/
+---
+<p>按在线发表及正式卷期月份累计，同一篇文章仅保留一条记录。来源受限时可能不完整；未确认日期的文章另列。旧版每日页面保留。</p>
+<label>月份 <select id="month"></select></label>
+<label>期刊 <select id="journal"><option value="">全部</option></select></label>
+<label><input id="selected" type="checkbox" checked>只看 select</label>
+<p><input id="search" placeholder="检索标题、摘要、作者、DOI" style="width:95%"></p>
+<p id="coverage"></p><details><summary>数据源覆盖与异常</summary><div id="source-status"></div></details><p id="count"></p><div id="papers"></div>
+<script src="{{ '/assets/literature/app.js' | relative_url }}" defer></script>

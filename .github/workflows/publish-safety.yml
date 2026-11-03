@@ -1,0 +1,8 @@
+name: Publication safety
+on: [push, pull_request]
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/check_publish_safety.py --repo .

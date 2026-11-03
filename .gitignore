@@ -3,3 +3,38 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Private/runtime material: never publish
+.env
+.env.*
+*.env
+*.env.*
+*.log*
+*.sqlite*
+*.db
+.state/
+.cache/
+.firecrawl/
+.venv/
+__pycache__/
+cookies*.txt
+*cookies*.json
+storage_state*.json
+.browser/
+browser-profile*/
+profiles/
+playwright/.auth/
+.netrc
+.npmrc
+*.pem
+*.key
+*credentials*.json
+
+.ssh/
+.aws/
+credentials/
+secrets/
+Cookies
+Login Data
+Local State
+storage-state*.json

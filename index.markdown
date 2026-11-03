@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+[进入月度文献检索：按月份、期刊筛选 all / select]({{ "/literature/" | relative_url }})
