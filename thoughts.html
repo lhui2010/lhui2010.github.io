@@ -1,0 +1,15 @@
+---
+layout: page
+title: 碎碎念
+permalink: /thoughts/
+---
+{% assign entries = site.thoughts | sort: 'date' | reverse %}
+{% if entries.size > 0 %}
+<ul>
+{% for entry in entries %}
+  <li><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a>{% if entry.date %} <time datetime="{{ entry.date | date_to_xmlschema }}">{{ entry.date | date: "%Y-%m-%d" }}</time>{% endif %}</li>
+{% endfor %}
+</ul>
+{% else %}
+<p>文章整理中。</p>
+{% endif %}

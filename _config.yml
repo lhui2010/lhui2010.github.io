@@ -53,3 +53,18 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Public navigation: keep literature and personal writing separate.
+header_pages:
+  - literature.html
+  - thoughts.html
+collections:
+  thoughts:
+    output: true
+    permalink: /thoughts/:name/
+defaults:
+  - scope:
+      path: ""
+      type: thoughts
+    values:
+      layout: post

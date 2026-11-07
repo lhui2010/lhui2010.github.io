@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+[Literature]({{ "/literature/" | relative_url }}) · [碎碎念]({{ "/thoughts/" | relative_url }})
