@@ -68,3 +68,6 @@ defaults:
       type: thoughts
     values:
       layout: post
+
+# Daily posts are generated at 05:33 Beijing time, before UTC midnight.
+timezone: Asia/Shanghai
